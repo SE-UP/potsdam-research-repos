@@ -21,7 +21,7 @@ To reproduce our analysis, follow these steps:
 3. Run the analysis script.
 
 ## License 
-This project is licensed under CC BY 4
+This repository is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE.txt)
 
 ## Citation 
-Please cite this work as 
+Please cite it as described in the [CITATION.cff](CITATION.cff) file.
