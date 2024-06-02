@@ -22,6 +22,7 @@ To reproduce our analysis, follow these steps:
 
 ## License 
 This repository is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE.txt)
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
 ## Citation 
 Please cite it as described in the [CITATION.cff](CITATION-4.cff) file.
