@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Analysis and visualisation of potsdam researchers GitHub
+  repositories. 
+message: >-
+  This repository contains data and scripts used for
+  analysis for paper "Software FAIRness, Documentation and
+  Development Practices in Potsdam Researchers' GitHub
+  Repositories"
+type: software
+authors:
+  - given-names: Akshay
+    family-names: Devkate
+    email: akshay.devkate@uni-potsdam.de
+    affiliation: University of Potsdam
+    orcid: 'https://orcid.org/0009-0004-9608-4479'
+  - given-names: Anna-Lena
+    family-names: Lamprecht
+    email: anna-lena.lamprecht@uni-potsdam.de
+    affiliation: University of Potsdam
+    orcid: 'https://orcid.org/0000-0003-1953-5606'
+abstract: >-
+  This study examines the GitHub repositories of researchers
+  affiliated with organizations in Potsdam, aiming to
+  analyze various aspects of software FAIRness,
+  documentation quality, and software development practices.
+  Using a comprehensive repository dataset, we assess the
+  degree to which these researchers adhere to FAIR
+  principles and best practices in software documentation
+  and development.
+keywords:
+  - FAIR4RS
+  - Software development practices
+  - GitHub repository analysis
+license: CC-BY-4.0
