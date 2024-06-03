@@ -71,7 +71,7 @@ def plot_radar_chart(df, graph_name):
     for i, row in df.iterrows():
         values = row.drop('DLR Class').tolist()
         values += values[:1]
-        label = f"Class {int(row['DLR Class'])}"  # Use class as label
+        label = f"DLR class {int(row['DLR Class'])}"  # Use class as label
         ax.plot(angles, values, label=label)
         ax.fill(angles, values, alpha=0.25)
 
@@ -118,7 +118,7 @@ def plot_documentation(df, file_path):
             color=plt.cm.viridis(i / 2.5),
             width=bar_width,
             edgecolor='grey',
-            label=f'Class {i}'
+            label=f'DLR Class {i}'
         )
     plt.ylabel('Percentage (%)', fontweight='bold')
     plt.xticks([r + bar_width for r in range(len(features))], feature_labels)
@@ -128,7 +128,7 @@ def plot_documentation(df, file_path):
     plt.show()
 
 
-def plot_stacked_bar_reuse(df, column_name, file_path):
+def plot_stacked_bar_reuse(df, column_name, file_path, legend_title):
     """
     Plots a stacked bar chart based on the input DataFrame and saves
     the plot as a PNG file.
@@ -139,6 +139,7 @@ def plot_stacked_bar_reuse(df, column_name, file_path):
         'dlr_soft_class' and the column specified in column_name.
     column_name (str): The name of the column to calculate percentages for.
     file_path (str): The full path of the output PNG file.
+    legend_title (str): The title for the legend.
 
     Returns:
     None. A PNG file is saved in the specified path.
@@ -151,12 +152,12 @@ def plot_stacked_bar_reuse(df, column_name, file_path):
     percentages.plot(kind='bar', stacked=True, cmap='viridis')
 
     # Set labels and title
-    plt.xlabel('DLR Software Class')
+    plt.xlabel('DLR Application Class')
     plt.ylabel('Percentage of Repositories')
 
     # Move legend outside the plot
     plt.legend(
-        title='Explicit requirement', labels=['No', 'Yes'],
+        title=legend_title, labels=['No', 'Yes'],
         bbox_to_anchor=(1.05, 1), loc='upper left'
     )
 
@@ -261,7 +262,7 @@ def plot_comment_start(df, file_path):
     plt.ylabel('Percentage of Repositories')
     plt.legend(title='Files with comment at start', bbox_to_anchor=(1.05, 1), loc='upper left')
     plt.tight_layout()
-
+    plt.title(None)
     # Save the plot
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
     plt.savefig(file_path)
