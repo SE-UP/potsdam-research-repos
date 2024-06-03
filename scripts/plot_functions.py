@@ -56,7 +56,8 @@ def plot_radar_chart(df, graph_name):
     df['DLR Class'] = df['DLR Class'].astype(int)
 
     # Select the specified columns and group by 'DLR Class'
-    columns = ['DLR Class', 'Opensource', 'License', 'Registry', 'Citation', 'Checklist']
+    columns = ['DLR Class', 'Opensource', 'License', 'Registry',
+               'Citation', 'Checklist']
     df = df[columns].groupby('DLR Class').mean().reset_index()
 
     # Plotting radar chart
@@ -171,11 +172,14 @@ def plot_stacked_bar_reuse(df, column_name, file_path, legend_title):
 
 def plot_continuous_integration(df, file_path):
     """
-    Plots a grouped bar chart based on the input DataFrame and saves the plot as a PNG file.
+    Plots a grouped bar chart based on the input DataFrame and
+    saves the plot as a PNG file.
 
     Parameters:
-    df (pandas.DataFrame): The input DataFrame. It should contain the following columns:
-        'language', 'dlr_soft_class', 'continuous_integration', 'add_test_rule', 'add_lint_rule'
+    df (pandas.DataFrame): The input DataFrame. It should contain
+      the following columns:
+        'language', 'dlr_soft_class', 'continuous_integration',
+        'add_test_rule', 'add_lint_rule'
     file_path (str): The full path of the output PNG file.
 
     Returns:
@@ -188,7 +192,7 @@ def plot_continuous_integration(df, file_path):
     # Calculate the total count for each 'dlr_soft_class'
     total_counts = df['dlr_soft_class'].value_counts()
 
-    # Calculate the percentage of True values for each column and 'dlr_soft_class'
+    # percentage of True values for each column and 'dlr_soft_class'
     features = ['continuous_integration', 'add_test_rule', 'add_lint_rule']
     percentages = [
         [
@@ -212,7 +216,8 @@ def plot_continuous_integration(df, file_path):
 
     # Adding labels
     plt.ylabel('Percentage (%)', fontweight='bold')
-    updated_labels = ['Continuous Integration', 'Linters in CI', 'Automated Testing']
+    updated_labels = ['Continuous Integration', 'Linters in CI',
+                      'Automated Testing']
     plt.xticks([r + bar_width for r in range(len(features))], updated_labels)
 
     # Adding the legend
@@ -228,10 +233,12 @@ def plot_continuous_integration(df, file_path):
 
 def plot_comment_start(df, file_path):
     """
-    Plots a stacked bar chart based on the input DataFrame and saves the plot as a PNG file.
+    Plots a stacked bar chart based on the input DataFrame and
+    saves the plot as a PNG file.
 
     Parameters:
-    df (pandas.DataFrame): The input DataFrame. It should contain the following columns:
+    df (pandas.DataFrame): The input DataFrame.
+    It should contain the following columns:
         'language', 'dlr_soft_class', 'comment_category'
     file_path (str): The full path of the output PNG file.
 
@@ -241,16 +248,24 @@ def plot_comment_start(df, file_path):
     # Step 2: Filter Data by Language
     df = df[df['language'].isin(['Python', 'C++', 'R'])]
 
-    # Replace 'none' with 'less' and ensure comment_category is a categorical type with the correct order
+    # Replace 'none' with 'less' and ensure comment_category
     df['comment_category'] = df['comment_category'].replace('none', 'less')
     comment_order = ['less', 'some', 'more', 'most']
-    df['comment_category'] = pd.Categorical(df['comment_category'],
-                                            categories=comment_order, ordered=True)
+    df['comment_category'] = pd.Categorical(
+        df['comment_category'],
+        categories=comment_order,
+        ordered=True
+    )
 
     # Step 3: Prepare Data for Visualization
+
     # Create a pivot table for the stacked bar plot with percentages
-    pivot_table = df.pivot_table(index='dlr_soft_class',
-                                 columns='comment_category', aggfunc='size', fill_value=0)
+    pivot_table = df.pivot_table(
+        index='dlr_soft_class',
+        columns='comment_category',
+        aggfunc='size',
+        fill_value=0
+    )
 
     # Calculate the percentage
     pivot_table = pivot_table.div(pivot_table.sum(axis=1), axis=0) * 100
@@ -260,7 +275,11 @@ def plot_comment_start(df, file_path):
     pivot_table.plot(kind='bar', stacked=True, cmap='viridis')
     plt.xlabel('DLR Application Class')
     plt.ylabel('Percentage of Repositories')
-    plt.legend(title='Files with comment at start', bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.legend(
+        title='Files with comment at start',
+        bbox_to_anchor=(1.05, 1),
+        loc='upper left'
+    )
     plt.tight_layout()
     plt.title(None)
     # Save the plot
