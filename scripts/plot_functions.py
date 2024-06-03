@@ -162,7 +162,7 @@ def plot_stacked_bar_reuse(df, column_name, file_path):
 
     # Save the plot
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
-    plt.savefig(file_path, bbox_inches='tight')  
+    plt.savefig(file_path, bbox_inches='tight')
 
     # Show the plot
     plt.show()
@@ -240,8 +240,7 @@ def plot_comment_start(df, file_path):
     # Step 2: Filter Data by Language
     df = df[df['language'].isin(['Python', 'C++', 'R'])]
 
-    # Replace 'none' with 'less' and ensure comment_category is a categorical type 
-    #with the correct order
+    # Replace 'none' with 'less' and ensure comment_category is a categorical type with the correct order
     df['comment_category'] = df['comment_category'].replace('none', 'less')
     comment_order = ['less', 'some', 'more', 'most']
     df['comment_category'] = pd.Categorical(df['comment_category'],
