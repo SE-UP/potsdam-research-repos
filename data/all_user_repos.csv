@@ -1,0 +1,991 @@
+html_url	description	language	project	organisation
+https://github.com/adrpar/densfield	Cosmological density field generator supporting CIC, TSC (for GADGET and ART) and proper SPH (for GADGET) particle to grid mapping	C	research	leibniz
+https://github.com/aipescience/daiquiri	A framework for the publication of scientific databases	PHP	research	leibniz
+https://github.com/aipescience/daiquiri-admin	A python library for administrative tasks to be used with the Daiquiri Framework	Python	research	leibniz
+https://github.com/aipescience/django-daiquiri-tap	A tiny wrapper for astroquery.utils.tap, adding support for token authorization.	Python	research	leibniz
+https://github.com/aipescience/lightmeter		Python	research	leibniz
+https://github.com/aipescience/mysql_healpix	HEALPix plugin for MySQL	C	research	leibniz
+https://github.com/aipescience/mysql_sphere	MySQL port of pgSphere 1.1.1	C++	research	leibniz
+https://github.com/aipescience/provenance-applause	Provenance for APPLAUSE database	Python	research	leibniz
+https://github.com/aipescience/queryparser	Parsing, processing, and translation of PostgreSQL, MySQL and ADQL queries	Python	research	leibniz
+https://github.com/aipescience/raid-utils		Python	research	leibniz
+https://github.com/aipescience/spider-docker	Docker files for a Spider-Engine MariaDB cluster	PLpgSQL	research	leibniz
+https://github.com/aipescience/spider-test-data	Test data for a Spider-Engine MariaDB cluster	Python	research	leibniz
+https://github.com/aipescience/sqlite_sphere	Sqlite3 port of pgSphere 1.1.1  https://escience.aip.de/mysql-sphere/	C++	research	leibniz
+https://github.com/aipescience/uws-client	IVOA UWS service command line client	Python	research	leibniz
+https://github.com/aipescience/verlustdernacht		Python	research	leibniz
+https://github.com/aipescience/votable2sql	Tool to convert VOTables into SQL dumps	Python	research	leibniz
+https://github.com/aodenweller/green-h2-upscaling	Model code and input data of the technology diffusion model for electrolysis capacity	R	research	leibniz
+https://github.com/ATB-Potsdam/IDM	Irrigation water Demand Module	C#	research	leibniz
+https://github.com/ATB-Potsdam/jupyterhub_dockerized		Python	research	leibniz
+https://github.com/dshoman/MgII	QSO Fitting Algorithms	Python	research	leibniz
+https://github.com/dshoman/MKN110		Ruby	research	leibniz
+https://github.com/ekaterinailin/AltaiPony	Find flares in Kepler and TESS light curves. Notebooks for quickstart inside.	Jupyter Notebook	research	leibniz
+https://github.com/ekaterinailin/dustycrocodile	Hack HPI about://environment EU: Digging into European Union Open Data Portal for Water Use 	HTML	research	leibniz
+https://github.com/ekaterinailin/flare-locations-ensembles-science		Python	research	leibniz
+https://github.com/ekaterinailin/flares-in-clusters-ii-draft	Paper draft corresponding to the project	TeX	research	leibniz
+https://github.com/ekaterinailin/flares-in-clusters-with-k2-ii	Here tables, analysis code, additional information, and ancillary plots for Ilin+2020 (in prep.) are stored. 	Jupyter Notebook	research	leibniz
+https://github.com/ekaterinailin/flares-q-learning	Mapping detected flares in TESS and Kepler light curves to the underlying flare event via injection-recovery with Q-learning	Jupyter Notebook	research	leibniz
+https://github.com/ekaterinailin/flaring-spi		Jupyter Notebook	research	leibniz
+https://github.com/ekaterinailin/flaring-spi-paper	Flaring SPI paper including all TESS and Kepler confirmed transiting planets	TeX	research	leibniz
+https://github.com/ekaterinailin/GaiaK2PSF	PSF photometry on K2 with Gaia centroids	Jupyter Notebook	research	leibniz
+https://github.com/ekaterinailin/k2-panstarrs-sampedro	Matching catalogs for cluster samples.	Jupyter Notebook	research	leibniz
+https://github.com/ekaterinailin/multiperiod-flares-draft	Paper draft for Malachite Mountains	TeX	research	leibniz
+https://github.com/ekaterinailin/Orbital_Flare_Declustering	Orbital phase flare de-clustering in close-in star-planet systems	Jupyter Notebook	research	leibniz
+https://github.com/ekaterinailin/SiberianPine	Analyse statistical samples of stellar flares.	Jupyter Notebook	research	leibniz
+https://github.com/etzinis/biased_separation	Code for the paper: Unified Gradient Reweighting for Model Biasing with Applications to Source Separation	Python	research	leibniz
+https://github.com/etzinis/bootstrapped_mds	Bootstrapped MDS: A Coordinate Search Algorithm for Multidimensional Scaling which optimizes Stress by evaluating the function multiple times over different coordinates but also bootstraping over previous successful iterations. With this algorithm there is a probability of evaluating the function alongside a coordinate step depending on the previous successful evaluations across this coordinate.	Jupyter Notebook	research	leibniz
+https://github.com/etzinis/fedenhance	Code for the paper: Separate but togerher: Unsupervised Federated Learning for Speech Enhancement from non-iid data	Jupyter Notebook	research	leibniz
+https://github.com/etzinis/heterogeneous_separation	Code and data recipes for the paper: Heterogeneous Target Speech Separation	Python	research	leibniz
+https://github.com/etzinis/nldrp	Non linear dynamics for emotion classification	Python	research	leibniz
+https://github.com/etzinis/nldr_visual_recognition	Evaluating Nonlinear dimensional reduction algorithms for finding low dimensional manifold representations of input data, trying to infer labels of unlabelled data points of the manifold as well as visualizing 2D manifolds for qualitative analysis of the input data  	Jupyter Notebook	research	leibniz
+https://github.com/etzinis/optimal_condition_training	Code and data recipes for the paper: Optimal Condition Training for Target Source Separation by Efthymios Tzinis, Gordon Wichern, Paris Smaragdis and Jonathan Le Roux 	Python	research	leibniz
+https://github.com/etzinis/polymorphisms_statistic_analysis	Code for my contribution in a medicine related project/paper with faculty form Kapodistrian University of Athens. 	Jupyter Notebook	research	leibniz
+https://github.com/etzinis/speech_nlp_labs	Labs exercises in NTUA (2015-2016) for the course Speech and Natural Language Processing 7th semester	Python	research	leibniz
+https://github.com/etzinis/sudo_rm_rf	Code for SuDoRm-Rf networks for efficient audio source separation. SuDoRm-Rf stands for SUccessive DOwnsampling and Resampling of Multi-Resolution Features which enables a more efficient way of separating sources from mixtures.	Jupyter Notebook	research	leibniz
+https://github.com/etzinis/two_step_mask_learning	A two step optimization for sound source separation on the adaptive front-end domain	Python	research	leibniz
+https://github.com/etzinis/unsupervised_spatial_dc	"Code for the paper: ""Unsupervised Deep Clustering for Source Separation: Direct Learning from Mixtures using Spatial Information"""	Python	research	leibniz
+https://github.com/etzinis/unsup_speech_enh_adaptation	Unsupervised domain adaptation for conversational speech enhancement using RemixIT	Jupyter Notebook	research	leibniz
+https://github.com/filipinascimento/bigscience	Big Science Project	Jupyter Notebook	research	leibniz
+https://github.com/filipinascimento/bl-conmat2network	Simple brainlife app to create a network from a conmat matrix.	Dockerfile	research	leibniz
+https://github.com/filipinascimento/bl-network-communities	App to obtain the community structure of networks by using the Louvain or Infomap methods. All the Louvain quality functions work for networks with negative weights.	Python	research	leibniz
+https://github.com/filipinascimento/bl-network-measurements	App to calculate several basic statistics for networks and their respective null model distributions.	Python	research	leibniz
+https://github.com/filipinascimento/bl-network-nullmodel	Generates an esemble of networks according to null models that try to reproduce the data. Erdos reyni (random), Barabási-Albert and Configuration model are implemented	Python	research	leibniz
+https://github.com/filipinascimento/bl-network-preprocess	App to preprocess connectivity/similarity matrices (conmat) and generate a filtered version of the network, which can be directed or undirected, weighted or unweighted.	Python	research	leibniz
+https://github.com/filipinascimento/bl-network-report	App to generate reports from networks. This includes network properties, node attributes and their respective distributions.	Python	research	leibniz
+https://github.com/filipinascimento/bl-network-template	Template app to build new network neuroscience apps for brainlife	Python	research	leibniz
+https://github.com/filipinascimento/bl-network-template-matlab	Example template for network analyses using matlab inside brainlife.	MATLAB	research	leibniz
+https://github.com/filipinascimento/bl-network-visualization	This app generates simple 2D static visualizations for networks by using a force-directed algorithm. The current implementation uses the Large Graph Layout (LGL) algorithm.	Python	research	leibniz
+https://github.com/filipinascimento/bl-timeseries2network	Calculates a similarity matrix (such as correlation, covariance, etc) from time series and convert it to a network datatype (JGFZ) so it can be used in the network pipeline.	Python	research	leibniz
+https://github.com/filipinascimento/CVAccessibility	Software to calculate the outwards accessibility measurement of nodes in complex networks. Check http://arxiv.org/abs/1101.5379v3 and http://arxiv.org/abs/0802.3665 .	C	research	leibniz
+https://github.com/filipinascimento/CVRandomWalks	Fast library to obtain sentences based on random walks from networks for use in word2vec and other embedding techniques. 	C	research	leibniz
+https://github.com/filipinascimento/CVSymmetry	Software to calculate the concentric symmetries of complex networks as described in http://arxiv.org/abs/1407.0224  	C	research	leibniz
+https://github.com/filipinascimento/cxnetwork	Rewiring Code	C	research	leibniz
+https://github.com/filipinascimento/cxnetworks-docker	Network science docker image with basic libraries. Currently being used to run brainlife network science apps.	Dockerfile	research	leibniz
+https://github.com/filipinascimento/cxrandomwalk		C	research	leibniz
+https://github.com/filipinascimento/helios-network	A web Assembly network representation for Helios-Web.	C	research	leibniz
+https://github.com/filipinascimento/helios-web	A web-based framework to visualize dynamic networks in real-time.	JavaScript	research	leibniz
+https://github.com/filipinascimento/malleability		C	research	leibniz
+https://github.com/filipinascimento/metabonet	Interactive visualization for metabolite networks. Under development.	JavaScript	research	leibniz
+https://github.com/filipinascimento/openalexnet	OpenAlex Networks is a helper library to process and obtain data from the OpenAlex dataset via API. It also provides functionality to generate citation and coauthorship networks from queries.	Jupyter Notebook	research	leibniz
+https://github.com/filipinascimento/teleconnectionsgranger	Notebook to find teleconnections in Anomalies in Precipitation and Temperature cross the globe using lagged correlation or Granger causality	Jupyter Notebook	research	leibniz
+https://github.com/filipinascimento/workshop-netviz	This repository contains the files and links to be used in the IUNI Workshop Hands-on : An Introduction to Network Visualization. https://iuni.iu.edu/news/event/79	Jupyter Notebook	research	leibniz
+https://github.com/harmening/HArtMuT	🧠 Head ARTefact Modelling Using Tripoles	Julia	research	leibniz
+https://github.com/harmening/MRIsegmentation	🧠 Automatic MRI segmentation pipeline for consistent FEM and BEM mesh creation from MRI scans of human heads	MATLAB	research	leibniz
+https://github.com/harmening/phrase-frequency-counter	💬NLP - Evaluating the phrase eloquency of a text data set and returns an adapted version of the hirsch-index as measure of its usefulness for the training of Neural Networks for NLP.	C	research	leibniz
+https://github.com/harmening/pyhemo	🧠 PYthonic HEad MOdeling	Python	research	leibniz
+https://github.com/harmening/pyreite	🧠 Pythonic, Yet Rudimental, Electrical Impedance Tomography Expert	Python	research	leibniz
+https://github.com/hosilva/mplstyle	Collection of customized matplotlib styles sheets	Python	research	leibniz
+https://github.com/hosilva/physrev_mplstyle	A matplotlib style sheet to help me spend less time editing figures for my manuscripts for Phys. Rev. D.	Jupyter Notebook	research	leibniz
+https://github.com/jochenklar/chemotion-formats	Playground to work on a generic format for chemotion (and more).	Python	research	leibniz
+https://github.com/jochenklar/evora	evolution of a polytropic fluid within a cosmological framework including the influence of gravity, primordial chemical processes, radiative cooling, heating by a UV background, and thermal conduction	FORTRAN	research	leibniz
+https://github.com/jochenklar/isimip-scripts	Some scripts, to be used in the context of ISIMIP.	Python	research	leibniz
+https://github.com/jochenklar/meps	A set of scripts to interact with the (official) lists of members of the european parliament.	Python	research	leibniz
+https://github.com/jochenklar/quantify	An application to collect personal (health) data of oneself.	Python	research	leibniz
+https://github.com/jochenklar/rdmo-advanced		CSS	research	leibniz
+https://github.com/jochenklar/reader2	A feed aggregator and reader	Python	research	leibniz
+https://github.com/kristinriebe/blendertools	A collection of Python scripts to make (my) life easier with Blender.	Python	research	leibniz
+https://github.com/kristinriebe/cosmosim-scripts	Shell scripts for accessing CosmoSim database	Shell	research	leibniz
+https://github.com/kristinriebe/cosmosim-uws-notebook	Python notebook tutorials for CosmoSim using uws-client as library	Jupyter Notebook	research	leibniz
+https://github.com/kristinriebe/DensityIngest	Tool for reading density fields from Fortran binary files and ingesting them into database, using adrpar's DBIngestor library	C++	research	leibniz
+https://github.com/kristinriebe/FofIngest	A tool for reading binary FOF files and ingesting them into a database using adrpar's DBIngestor library. 	C++	research	leibniz
+https://github.com/kristinriebe/GalacticusIngest	Tool for ingesting Galacticus data, semi-analytical galaxy catalogues for simulations in HDF5 format	C++	research	leibniz
+https://github.com/kristinriebe/PmssIngest	Tool for reading binary PMss particle files and ingesting them into a database using adrpar's DBIngestor library.	C++	research	leibniz
+https://github.com/kristinriebe/provenance-cosmosim	A test project for implementing provenance data models using CosmoSim metadata	JavaScript	research	leibniz
+https://github.com/kristinriebe/SageIngest	Tool for ingesting SAGE data, semi-analytical galaxy catalogues for cosmological simulations (Croton et al.)	C++	research	leibniz
+https://github.com/kristinriebe/SagIngest	Tool for ingesting SAG data, semi-analytical galaxy catalogues for cosmological simulations, in HDF5 format	C++	research	leibniz
+https://github.com/kristinriebe/uws-validator	Functional tests for IVOA UWS (1.1) web services	Python	research	leibniz
+https://github.com/lenas95/Projekt_B		R	research	leibniz
+https://github.com/lenas95/SEWS_Amazon_rainforest	Pyhtonframework to study the detection of SEWSs on the Amazon rainforest	Python	research	leibniz
+https://github.com/mjziebarth/ACOSA	A compilation of spherical algorithms.	C++	research	leibniz
+https://github.com/mjziebarth/acplotoo	Collection of tools for plotting with matplotlib	Python	research	leibniz
+https://github.com/mjziebarth/FlotteKarte	A low-overhead Python cartography package based on PROJ, Matplotlib, and PyProj.	C++	research	leibniz
+https://github.com/mjziebarth/InterpolateStress	Interpolate stress azimuth and plunges based on the Stress2Grid algorithm by Ziegler & Heidbach (2017)	C++	research	leibniz
+https://github.com/mjziebarth/pybalonor	Bayesian Analysis of the Log-Normal distribution in Python	C++	research	leibniz
+https://github.com/mjziebarth/REHEATFUNQ	Regional aggregate heat flow distributions and heat flow anomaly quantification	Jupyter Notebook	research	leibniz
+https://github.com/msdemlei/dig-um-fi-init	Kick-off report for the DIG-UM federated infrastructures topic group	TeX	research	leibniz
+https://github.com/msdemlei/softid	An IVOA note on operational identification of software components.	TeX	research	leibniz
+https://github.com/olebole/i386-test		Python	research	leibniz
+https://github.com/olebole/python-cpl	Python bindings for CPL recipes	Python	research	leibniz
+https://github.com/SimonPfeifer/cows	A cosmic filament finder for Hessian cosmic web identifiers.	Python	research	leibniz
+https://github.com/SimonPfeifer/Ecosystem	An ecosystem controlled by a neural net.	Python	research	leibniz
+https://github.com/SimonPfeifer/PyBrego	A toy mesh hydrodynamics solver	Python	research	leibniz
+https://github.com/SimonPfeifer/WLmap	Making weak lensing maps from cosmological simulations.	Python	research	leibniz
+https://github.com/wbarfuss/CognitiveLevels	Python implementation to create the figures used in the publication 'Dynamical systems as a level of cognitive analysis of multi-agent learning - Algorithmic foundations of temporal-difference learning dynamics'	Python	research	leibniz
+https://github.com/wbarfuss/cyexploit	cython / python implementation of the COPAN:Exploit model	Python	research	leibniz
+https://github.com/wbarfuss/DetRL	Python implementation of the deterministic limit of temporal difference reinforcement learning	Jupyter Notebook	research	leibniz
+https://github.com/wbarfuss/eca	Event Coincidence Analysis	Python	research	leibniz
+https://github.com/wbarfuss/EcoPG	Python implementation of the Ecological Public Good model	Python	research	leibniz
+https://github.com/wbarfuss/intrinsic-fluctuations-cooperation	All code to reproduce the results of https://arxiv.org/abs/2209.01013	Mathematica	research	leibniz
+https://github.com/wbarfuss/MARLDynamics	Modeling multi-agent reinforcement learning as dynamical systems	Jupyter Notebook	research	leibniz
+https://github.com/wbarfuss/netlogo-exploit	A netlogo implementation of PIK COPANS Exploit model	NetLogo	research	leibniz
+https://github.com/wbarfuss/Paradigms	Code for paradigms project	Jupyter Notebook	research	leibniz
+https://github.com/wbarfuss/POLD	Partially Observable multi-agent temporal-difference Learning Dynamics in the deterministic infinite memory limit	Jupyter Notebook	research	leibniz
+https://github.com/wbarfuss/pyCRLD	Collective Reinforcement Learning Dynamics in Python	Jupyter Notebook	research	leibniz
+https://github.com/09tangriro/Pearl	Adaptable tools to make reinforcement learning and evolutionary computation algorithms.	Python	research	pik
+https://github.com/09tangriro/ppg	Phasic Policy Gradient	Python	research	pik
+https://github.com/09tangriro/WHEELS	Wheels App	Java	research	pik
+https://github.com/0UmfHxcvx5J7JoaOhFSs5mncnisTJJ6q/moinput	Provides useful functions and a common structure to all the input data required to run models like MAgPIE and REMIND     of model input data.	R	research	pik
+https://github.com/0xsuu/mutual-information-regulariser		Python	research	pik
+https://github.com/aadeshnpn/cooperative-transport	Cooperative Transport with Cozmos	Python	research	pik
+https://github.com/aadeshnpn/knn-simple		Python	research	pik
+https://github.com/aadeshnpn/LTLf2BT		Python	research	pik
+https://github.com/aadeshnpn/nepali-mapper	Simple Rule Based Nepali Mapper	Python	research	pik
+https://github.com/aadeshnpn/OSDN	"Keras implementation for the research paper ""Towards Open Set Deep Networks"" A Bendale, T Boult, CVPR 2016"	Jupyter Notebook	research	pik
+https://github.com/aadeshnpn/PyGoal	An LTL based explicit goal specification and evaluation framework	Python	research	pik
+https://github.com/aadeshnpn/swarm	Simulation framework for Swarms related application	Python	research	pik
+https://github.com/abaisero/asym-rlpo	Asymmetric methods for partially observable reinforcement learning	Python	research	pik
+https://github.com/abaisero/gym-gridverse	Gridworld domains in the gym interface	Python	research	pik
+https://github.com/abaisero/gym-pomdps		Python	research	pik
+https://github.com/abaisero/gym-pyro	OpenAI Gym environments for MDPs, POMDPs, and confounded-MDPs implemented as pyro-ppl probabilistic programs.	Python	research	pik
+https://github.com/abaisero/one-to-one	Bijections between semantic value and index	Python	research	pik
+https://github.com/abaisero/pre-commit-hooks	Custom git pre-commit hooks	Python	research	pik
+https://github.com/abaisero/rl-rpsr	Code for reward-predictive state representations	Python	research	pik
+https://github.com/abdel/pathology-lab	Pathology lab reporting	PHP	research	pik
+https://github.com/abhimishr/dynamic_forestry_GitHub		GAMS	research	pik
+https://github.com/abhimishr/FADNUGent	FADN Data analysis from master thesis of Abhijeet Mishra @UGent, Belgium	R	research	pik
+https://github.com/abhimishr/LUMEN		GAMS	research	pik
+https://github.com/abhimishr/magpie_forestry		GAMS	research	pik
+https://github.com/AdamGleave/pytest-shard	Shard tests to support parallelism across multiple machines.	Python	research	pik
+https://github.com/Akhilez/DisCease	A complex system that studies migration and spread of diseases.	JavaScript	research	pik
+https://github.com/akifumi-wachi-4/safe_near_optimal_mdp	Safe Reinforcement Learning in Constrained Markov Decision Processes	Python	research	pik
+https://github.com/akifumi-wachi-4/spolf	Safe Policy Optimization with Local Features	Python	research	pik
+https://github.com/aklein1995/exploration_sil_im		Python	research	pik
+https://github.com/aklein1995/intrinsic_motivation_techniques_study		Python	research	pik
+https://github.com/aklein1995/Multi-Agent-Reinforcement-MADDPG		Python	research	pik
+https://github.com/aklein1995/Navigation_Bananas_DRL		Python	research	pik
+https://github.com/aklein1995/Pong_withDRL		Jupyter Notebook	research	pik
+https://github.com/AlexPasqua/Autoencoders	Pytorch implementation of various autoencoders (contractive, denoising, convolutional, randomized)	Python	research	pik
+https://github.com/AlexPasqua/DeepNetSlice	Reinforcement Learning tool for Network Slice Placement problems	Python	research	pik
+https://github.com/AlexPasqua/DM-project	Analysis of the spending behaviour of customers in an online shopping website	Jupyter Notebook	research	pik
+https://github.com/AlexPasqua/keras-caffe-converter	Keras - Caffe converter (both directions) with pruning demos in Keras. Originally developed as BSc thesis project @ University of Verona	Python	research	pik
+https://github.com/AlexPasqua/Sum-Product-Networks	Survey and presentation about Sum-Product Networks (SPNs)		research	pik
+https://github.com/amnmalik/gcam-v6-ceew		R	research	pik
+https://github.com/amnmalik/PhdSummary	Contains all output - published papers, presentations, code during the course of my PhD		research	pik
+https://github.com/amnmalik/PhDThesis	Contains code and figures to my PhD thesis	TeX	research	pik
+https://github.com/amnmalik/reducingstrandedassets	Contains data and code to produce figures published in the paper https://iopscience.iop.org/article/10.1088/1748-9326/ab8033#references		research	pik
+https://github.com/amy12xx/ml_notes_and_reports	Any and all reports / notes related to AI. 		research	pik
+https://github.com/anand-bala/deepsort_ros		Python	research	pik
+https://github.com/anand-bala/perception-algorithms	Repository of PyTorch-based perception algorithms I use/have used in my research	Python	research	pik
+https://github.com/anand-bala/symbolic-automata-monitors	Simple implementation of symbolic automata for monitoring real-valued signals	Python	research	pik
+https://github.com/andersthuesen/bachelor-project	Bachelor project for BSc Artificial Intelligence and Data Science	Jupyter Notebook	research	pik
+https://github.com/andersthuesen/ChromaAI	A deep neural network for colorizing greyscale images. DTU Project.	Jupyter Notebook	research	pik
+https://github.com/andersthuesen/reinforcement-exploration	This project investigates different methods of exploration in an reinforcement learning setting	Python	research	pik
+https://github.com/AnjaKatzenberger/CMIP-6-Very-wet-monsoon-seasons-in-India	Analysis of the projected very wet monsoon seasons on the Indian subcontinent using 32 CMIP6 models. Codes for publication: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098856	Python	research	pik
+https://github.com/AnjaKatzenberger/CMIP6-Indian-Monsoon	Analysis of the projected changes of the Indian summer monsoon using 32 CMIP6 models	Python	research	pik
+https://github.com/aodenweller/green-h2-upscaling	Model code and input data of the technology diffusion model for electrolysis capacity	R	research	pik
+https://github.com/araffin/eagerx_quadruped		Python	research	pik
+https://github.com/araffin/es-with-search-path	Implementation of the (μ/μ,λ)-Evolution Strategy (ES) with Search Path algorithm in C++	C	research	pik
+https://github.com/araffin/graph-annotation-tool	A graph annotation tool using a flask server and javascript	HTML	research	pik
+https://github.com/araffin/rl-baselines-zoo	A collection of 100+ pre-trained RL agents using Stable Baselines, training and hyperparameter optimization included.	Python	research	pik
+https://github.com/araffin/rl-handson-rlvs21	Stable-Baselines3 (SB3) reinforcement learning tutorial for the Reinforcement Learning Virtual School 2021.	Jupyter Notebook	research	pik
+https://github.com/araffin/robotics-rl-srl	S-RL Toolbox: Reinforcement Learning (RL) and State Representation Learning (SRL) for Robotics	Python	research	pik
+https://github.com/araffin/sbx	SBX: Stable Baselines Jax (SB3 + Jax)	Python	research	pik
+https://github.com/araffin/srl-zoo	State Representation Learning (SRL) zoo with PyTorch - Part of S-RL Toolbox	Python	research	pik
+https://git+A726+B726		Python	research	pik
+https://github.com/aseembits93/VS_CNN	"Implementation of IEEE ICRA 2017 paper ""Exploring Convolutional Networks for Visual Servoing"""	Matlab	research	pik
+https://github.com/atreyasha/language-detection	Language detection for WiLI-2018 via character n-gram profiles from Cavnar and Trenkle (1994)	Python	research	pik
+https://github.com/atreyasha/mimic3-benchmarks-occlusion	Perturbation analysis of MIMIC-III Benchmarks best IHM model using occlusion	Python	research	pik
+https://github.com/atreyasha/mv-temporal-rgan	Multivariate recurrent GANs aimed at generating biomedical time-series. Methodology involves drawing symmetries to adversarial image generation	Python	research	pik
+https://github.com/atreyasha/semantic-isometry-nmt	Investigating the isometric behaviour of Neural Machine Translation models on binary semantic equivalence spaces	Python	research	pik
+https://github.com/atreyasha/sentiment-argument-mining	Sentiment analysis and argumentation mining in UNSC Speeches	Python	research	pik
+https://github.com/atreyasha/spam-detection	Investigating whether sequential learning is inherently important for the task of spam classification, through a comparison of SVM vs. CNN-LSTM models	Python	research	pik
+https://github.com/ayeright/swafa		Python	research	pik
+https://github.com/bodirsky/lucode	R package | Landuse Coding Tools	R	research	pik
+https://github.com/BolunDai0216/DifferentiableOptimizationCBF	[IEEE RA-L 2023] Official Implementation of Safe Navigation and Obstacle Avoidance Using Differentiable Optimization Based Control Barrier Functions	Python	research	pik
+https://github.com/BolunDai0216/FR3Env		Python	research	pik
+https://github.com/BolunDai0216/ppo_torch		Python	research	pik
+https://github.com/bs538/PlanetImage	Basic utilities for exploratory data analysis with PlanetLabs satellite images	Jupyter Notebook	research	pik
+https://github.com/BurakDmb/DifferentiableSearchIndexAndRetrieval		Python	research	pik
+https://github.com/BurakDmb/mpc_example		Python	research	pik
+https://github.com/BurakDmb/quadsim	QuadSim: A Quadcopter Rotational Dynamics Simulation For Reinforcement Learning Algorithms	Python	research	pik
+https://github.com/Butanium/monte-carlo-tree-search-TSP	Monte Carlo tree search for the travelling salesman problem (MCTS for the TSP)	OCaml	research	pik
+https://github.com/camillebelmin/achieving-universal-energy-access	"Companion repository for the paper: Belmin et al. ""Achieving universal energy access while reducing energy demand? Evidence from energy-specific population projections"""	TeX	research	pik
+https://github.com/caviddhen/bowheads	scripts for processing of bowhead habitat analysis	R	research	pik
+https://github.com/caviddhen/ggcmi2agmip		R	research	pik
+https://github.com/caviddhen/MagpieNCGains	R Library that converts MAgPIE generated nc files into GAINS resolution	R	research	pik
+https://github.com/caviddhen/MarkupsChen	Calculation and analysis of consumer food price markups 	R	research	pik
+https://github.com/cchrisgong/aip_rockstar	Code for the paper on analyzing large-scale N-body dark matter simulation, finding halo pairs and their satellite galaxies, and identifying the origin of the distribution of the latter https://academic.oup.com/mnras/article-abstract/488/3/3100/5531334	Python	research	pik
+https://github.com/cchrisgong/dieter-coupling-remind		GAMS	research	pik
+https://github.com/cchrisgong/kuramoto_no_cluster	"Code for Chaos paper "" Repulsively coupled Kuramoto-Sakaguchi phase oscillators ensemble subject to common noise"""	Python	research	pik
+https://github.com/cchrisgong/remind-coupling-dieter		GAMS	research	pik
+https://github.com/christophbertram/covid-power-sector		R	research	pik
+https://github.com/christopher-hesse/computer-tennis	Pong-like reinforcement learning environment	Python	research	pik
+https://github.com/chroetz/PaperQuadRate19		TeX	research	pik
+https://github.com/chroetz/PaperStrong22		TeX	research	pik
+https://github.com/chroetz/poisrrr	Poission reduced-rank models in R	R	research	pik
+https://github.com/chroetz/spheregr		R	research	pik
+https://github.com/chroetz/TdaCpdSim	R package for simulations to evaluate change point detection via topological data analysis	R	research	pik
+https://github.com/chroetz/WhenMeasureChaos		R	research	pik
+https://github.com/CppMaster/SC2-AI		Python	research	pik
+https://github.com/cyl628/prompt-typing		Python	research	pik
+https://github.com/cyprienc/binary-Huffman-algorithm	Generate the binary coding of a given set of 'letters' with their respective probability.		research	pik
+https://github.com/d3sm0/dantebot		Python	research	pik
+https://github.com/d3sm0/gym-vdp	Van Der Pol Oscillator for RL	Python	research	pik
+https://github.com/d3sm0/svg	Implementation of stochastic value gradients	Python	research	pik
+https://github.com/danielhuppmann/binary_equilibrium	Illustrative examples of a multi-objective program subject to a binary quasi-equilibrium	Assembly	research	pik
+https://github.com/danielhuppmann/climate-risks-academy-2021	Advanced assignment for the EUI-FBF-OW Climate Risks Academy 2021	Jupyter Notebook	research	pik
+https://github.com/danielhuppmann/iea-netzero2050-datawrangler	Transform data supporting the IEA Netzero2050 Roadmap (2021) to the IAMC format	Jupyter Notebook	research	pik
+https://github.com/david-lindner/ai-safety-debate	Implementing 'AI Safety via Debate' experiments	Python	research	pik
+https://github.com/david-lindner/idrl	"Code accompanying the paper ""Information Directed Reward Learning for Reinforcement Learning"" (NeurIPS 2021)."	Python	research	pik
+https://github.com/david-lindner/safe-grid-gym	A gym interface for AI safety gridworlds created in pycolab.	Python	research	pik
+https://github.com/david-lindner/single-peaked-bandits	"Code accompanying ""Addressing the Long-term Impact of ML-based Decisions via Policy Regret"", IJCAI 2021. "	Python	research	pik
+https://github.com/dbantje/internalization		Jupyter Notebook	research	pik
+https://github.com/deleip/empirical_analysis_of_cascading_effects	"Code to internship report ""Empirical Analysis of Cascading Effects using CCM"""	R	research	pik
+https://github.com/dengemann/meeg-preprocessing	Preprocessing tools for MEG/EEG	Python	research	pik
+https://github.com/dengemann/paper-multimodal-stacking-figures	Figure repo for Engemann  et al 2019  multimodal stacing paper.	R	research	pik
+https://github.com/devcurmudgeon/cida		Python	research	pik
+https://github.com/dfilan/clusterability_in_neural_networks		Jupyter Notebook	research	pik
+https://github.com/elliottower/abstraction	This repo provides a scalable way of investigating the layer-by-layer evolution of abstraction in deep neural networks.	Python	research	pik
+https://github.com/elliottower/ProtoQA_Macaw	Baseline of Allenai's Macaw model for use with ProtoQA dataset	Python	research	pik
+https://github.com/emolinab/PlotsPaper	Plotting scripts for Inertia Paper	R	research	pik
+https://github.com/emolinab/PlottingScripts	Scripts to plot results. Inertia paper	R	research	pik
+https://github.com/enosair/bentkus_conf_seq		Jupyter Notebook	research	pik
+https://github.com/enosair/federated-fdp		Python	research	pik
+https://github.com/enosair/gdp-edgeworth		Jupyter Notebook	research	pik
+https://github.com/enosair/lightcurve-download	Download and process fits data	Shell	research	pik
+https://github.com/enosair/tensor-subspace-norm		Matlab	research	pik
+https://github.com/ernestum/clestus		JavaScript	research	pik
+https://github.com/ernestum/data-samples-printer	Don't be just mean and standard, print histograms as unicode instead!	Python	research	pik
+https://github.com/ernestum/GeodesicSphere	A bunch of helper functions that help to design and visualize geodesic spheres and domes of arbitrary frequency in OpenSCAD	OpenSCAD	research	pik
+https://github.com/etzinis/fedenhance	Code for the paper: Separate but togerher: Unsupervised Federated Learning for Speech Enhancement from non-iid data	Jupyter Notebook	research	pik
+https://github.com/etzinis/heterogeneous_separation	Code and data recipes for the paper: Heterogeneous Target Speech Separation	Python	research	pik
+https://github.com/etzinis/nldrp	Non linear dynamics for emotion classification	Python	research	pik
+https://github.com/etzinis/optimal_condition_training	Code and data recipes for the paper: Optimal Condition Training for Target Source Separation by Efthymios Tzinis, Gordon Wichern, Paris Smaragdis and Jonathan Le Roux 	Python	research	pik
+https://github.com/etzinis/polymorphisms_statistic_analysis	Code for my contribution in a medicine related project/paper with faculty form Kapodistrian University of Athens. 	Jupyter Notebook	research	pik
+https://github.com/etzinis/sudo_rm_rf	Code for SuDoRm-Rf networks for efficient audio source separation. SuDoRm-Rf stands for SUccessive DOwnsampling and Resampling of Multi-Resolution Features which enables a more efficient way of separating sources from mixtures.	Jupyter Notebook	research	pik
+https://github.com/etzinis/unsupervised_spatial_dc	"Code for the paper: ""Unsupervised Deep Clustering for Source Separation: Direct Learning from Mixtures using Spatial Information"""	Python	research	pik
+https://github.com/etzinis/unsup_speech_enh_adaptation	Unsupervised domain adaptation for conversational speech enhancement using RemixIT	Jupyter Notebook	research	pik
+https://github.com/FelicitasBeier/IrrigationPotentials	"This repository contains the outputs to the article Beier et al. (2022) ""Economically Efficient and Environmentally Sustainable Irrigation Potentials: a spatially explicit global assessment"""	HTML	research	pik
+https://github.com/FelicitasBeier/mrwater4SIMPLE-G	This repository provides the pipeline of preparing data provided by the mrwater hydro-economic irrigation water allocation algorithm to SIMPLE-G	R	research	pik
+https://github.com/FelicitasBeier/mrwaterPlots		R	research	pik
+https://github.com/filipinascimento/bigscience	Big Science Project	Jupyter Notebook	research	pik
+https://github.com/filipinascimento/bl-network-communities	App to obtain the community structure of networks by using the Louvain or Infomap methods. All the Louvain quality functions work for networks with negative weights.	Python	research	pik
+https://github.com/filipinascimento/bl-network-measurements	App to calculate several basic statistics for networks and their respective null model distributions.	Python	research	pik
+https://github.com/filipinascimento/bl-network-nullmodel	Generates an esemble of networks according to null models that try to reproduce the data. Erdos reyni (random), Barabási-Albert and Configuration model are implemented	Python	research	pik
+https://github.com/filipinascimento/bl-network-preprocess	App to preprocess connectivity/similarity matrices (conmat) and generate a filtered version of the network, which can be directed or undirected, weighted or unweighted.	Python	research	pik
+https://github.com/filipinascimento/bl-network-report	App to generate reports from networks. This includes network properties, node attributes and their respective distributions.	Python	research	pik
+https://github.com/filipinascimento/bl-network-template-matlab	Example template for network analyses using matlab inside brainlife.	MATLAB	research	pik
+https://github.com/filipinascimento/bl-timeseries2network	Calculates a similarity matrix (such as correlation, covariance, etc) from time series and convert it to a network datatype (JGFZ) so it can be used in the network pipeline.	Python	research	pik
+https://github.com/filipinascimento/cxnetworks-docker	Network science docker image with basic libraries. Currently being used to run brainlife network science apps.	Dockerfile	research	pik
+https://github.com/filipinascimento/malleability		C	research	pik
+https://github.com/filipinascimento/metabonet	Interactive visualization for metabolite networks. Under development.	JavaScript	research	pik
+https://github.com/filipinascimento/openalex-raw	Tools to process OpenAlex raw snapshot files	Python	research	pik
+https://github.com/filipinascimento/openalexnet	OpenAlex Networks is a helper library to process and obtain data from the OpenAlex dataset via API. It also provides functionality to generate citation and coauthorship networks from queries.	Jupyter Notebook	research	pik
+https://github.com/filipinascimento/RModularity	Small utility to calculate the robustness modularity, information modularity and modularity difference.	Python	research	pik
+https://github.com/filipinascimento/teleconnectionsgranger	Notebook to find teleconnections in Anomalies in Precipitation and Temperature cross the globe using lagged correlation or Granger causality	Jupyter Notebook	research	pik
+https://github.com/filipinascimento/WOSRaw	Collection of utilities to process raw XML data from the Web of Science.	Python	research	pik
+https://github.com/floringogianu/atari-agents	Code and links for over 25,000 trained Atari agents	Python	research	pik
+https://github.com/floringogianu/categorical-dqn	A working implementation of the Categorical DQN (Distributional RL).	Python	research	pik
+https://github.com/floringogianu/paper-notebooks	A collection of notebooks aiding the understanding of machine-learning papers.	Jupyter Notebook	research	pik
+https://github.com/floringogianu/per-study	Prioritized Experience Replay study, including reproduction of the BlindCliffWalk experiments in the original paper www.arxiv.org/pdf/1511.05952.pdf	Jupyter Notebook	research	pik
+https://github.com/floringogianu/rlog	Preconfigured python logging with some extra bells and whistles for RL	Python	research	pik
+https://github.com/floringogianu/schrodinger	An investigation into uncertainty estimates for deep neural networks.	Python	research	pik
+https://github.com/floringogianu/wintermute	A small and pragmatic library for Reinforcement Learning primitives	Python	research	pik
+https://github.com/ftl-traveller/youtube-sentiment-analysis-opinion-mining	Opinion mining through Sentiment Analysis on YouTube video comments	Jupyter Notebook	research	pik
+https://github.com/g-leech/masks_v_mandates	Data and code on the population effects of mask-wearing on COVID	Jupyter Notebook	research	pik
+https://github.com/g-leech/Py2HTK	Python wrapper for the Cambridge Hidden Markov Model Toolkit	Python	research	pik
+https://github.com/gabriel-abrahao/analyze_cesm		Python	research	pik
+https://github.com/glmcdona/FoosRL	Reinforcement learning for Foosball using a Unity physics model ml-agents and Keras tensorflow	ASP	research	pik
+https://github.com/glmcdona/LuxPythonEnvGym	Matching python environment code for Lux AI 2021 Kaggle competition, and a gym interface for RL models.	Python	research	pik
+https://github.com/glmcdona/MALM	MALM: Malware Monitor	C++	research	pik
+https://github.com/glmcdona/Process-Dump	Windows tool for dumping malware PE files from memory back to disk for analysis.	C	research	pik
+https://github.com/glmcdona/sparse-tabular-ml-benchmark	Benchmark for comparing tabular sparse categorical machine learning methods.	Python	research	pik
+https://github.com/harmening/HArtMuT	🧠 Head ARTefact Modelling Using Tripoles	Julia	research	pik
+https://github.com/harmening/MRIsegmentation	🧠 Automatic MRI segmentation pipeline for consistent FEM and BEM mesh creation from MRI scans of human heads	MATLAB	research	pik
+https://github.com/harmening/signature_extraction	💬NLP - Library for splitting email content into a human-written body and an automatically appended signature.	Python	research	pik
+https://github.com/hkraemer/Border-effect-corrections-for-diagonal-line-based-recurrence-quantification-analysis-measures	"This repository contains all correction schemes proposed and used in the article ""Border effect corrections for diagonal line based recurrence quantification analysis measures"" (submitted to Physics Letters A)"	MATLAB	research	pik
+https://github.com/hkraemer/InterSpikeSpectra-Matlab	InterSpikeSpectra for Matlab	MATLAB	research	pik
+https://github.com/hkraemer/MCDTS.jl		Julia	research	pik
+https://github.com/hkraemer/PECUZAL_Julia	For Hauke and George's code on delay coordinate embedding	Julia	research	pik
+https://github.com/hkraemer/PECUZAL_Matlab	PECUZAL implementation in Matlab	HTML	research	pik
+https://github.com/hkraemer/PECUZAL_python		Python	research	pik
+https://github.com/honglu2875/weirdonetworks	This is a collection of non-conventional neural networks plus a collection of helper function to assist a study	Jupyter Notebook	research	pik
+https://github.com/JacobPfau/introspective-self-consistency		Jupyter Notebook	research	pik
+https://github.com/JacobPfau/PENCIL	A Modular Pytorch Re-Implementation of Probabilistic End-to-end Noise Correction for Learning with Noisy Labels (CVPR 2019)	Python	research	pik
+https://github.com/JacobPfau/procgenAISC		C++	research	pik
+https://github.com/JakobBruenker/HDR	University project to combine several images at different exposures into one HDR image	C++	research	pik
+https://github.com/jakobkolb/fMRI_FF	fMRI experiment for Flavia Filimon @ MPIB	AGS Script	research	pik
+https://github.com/jakobkolb/Master-Thesis	"Code for Master thesis 'Competitive sorption to functional nanoparticles"""	TeX	research	pik
+https://github.com/jakobkolb/ml-covid-nowcasting	ML based nowcasting of covid cases from vital data from wearable devices and reported symptoms	HTML	research	pik
+https://github.com/jakobkolb/pysave	numerical model for testing the performance of different opinion formation models on finding the optimal savings rate in a Ramsey–Cass–Koopmans model.	Jupyter Notebook	research	pik
+https://github.com/jansteinhauser/masc	Thesis project modeling and analyzing synergies and conflicts between sustainability goals in agriculture and land use	GAMS	research	pik
+https://github.com/jbkjr/allennlp_sempar	Experiments with AllenNLP on semantic parsing datasets	Python	research	pik
+https://github.com/jbloomAus/ARENA_2.0-RLHF	Preparing content for the ARENA RLHF day. 	Jupyter Notebook	research	pik
+https://github.com/jbloomAus/toy_model_interpretability	I'd like to start playing around with toy models to better understand results in recent papers. 	Python	research	pik
+https://github.com/jhilaire/ssawosacarb	Data analysis of carbonization patterns in Sub-Saharan Africa (without South Africa)	R	research	pik
+https://github.com/jjshoots/DL_FasteNet	Very fast fastener detection algorithm based on saliency map and contour finding algorithm.	Python	research	pik
+https://github.com/jjshoots/PyFlyt	UAV Flight Simulator Gymnasium Environments	Python	research	pik
+https://github.com/jjshoots/pyflyt_dogfight	Aerial Combat environment build around PyFlyt	Python	research	pik
+https://github.com/jjshoots/railway_drone		Python	research	pik
+https://github.com/jkterry1/ASWS	"Code to use Augmented Shapiro Wilks Stopping, as well as code for the paper ""Statistically Signifigant Stopping of Neural Network Training"""	Python	research	pik
+https://github.com/jkterry1/MCMES_cleanup_scratch		Python	research	pik
+https://github.com/jkterry1/parameter-sharing-paper	A training framework for Stable Baselines3 reinforcement learning agents, with hyperparameter optimization and pre-trained agents included.	Python	research	pik
+https://github.com/jmhessel/BasicSpearmint	A simple tool for small scale experiments using bayesian optimization	Python	research	pik
+https://github.com/jmhessel/caption_contest_corpus	"Corpus to accompany: ""Do Androids Laugh at Electric Sheep? Humor ""Understanding"" Benchmarks from The New Yorker Caption Contest"""	Python	research	pik
+https://github.com/jmhessel/catrank	Pretrained models for the ranking task described in Cats and Captions vs. Creators and the Clock (WWW 2017)	Python	research	pik
+https://github.com/jmhessel/clipscore	CLIPScore EMNLP code	Python	research	pik
+https://github.com/jmhessel/FightingWords	Quick implementation of Monroe et al.'s algorithm for comparing languages	Python	research	pik
+https://github.com/jmhessel/fmpytorch	A PyTorch implementation of a Factorization Machine module in cython.	Python	research	pik
+https://github.com/jmhessel/multi-retrieval	Code for Unsupervised Discovery of Multimodal Links in Multi-Image/Multi-Sentence Documents	Python	research	pik
+https://github.com/jnnsbrr/PhotoBioDynamics	Small model to simulate biomass production on a global scale. Products are Gross Primary Production (GPP), Net Primary Production (NPP). It is based on a modified version of the Farquhar approach (Haxeltine and Prentice 1996, Farquhar et al. 1980). Where possible, it uses vectorization and parallelization and dynamically downloads latest av	R	research	pik
+https://github.com/jondurbin/airoboros	Customizable implementation of the self-instruct paper.	Python	research	pik
+https://github.com/joonleesky/train-procgen-pytorch	Pytorch implementation on OpenAI's Procgen ppo-baseline, built from scratch.	Python	research	pik
+https://github.com/jsalvatier/async_deep_reinforce		Python	research	pik
+https://github.com/jsalvatier/numexpr	adding user-func support to numexpr 	Python	research	pik
+https://github.com/jsalvatier/PyGame-Learning-Environment		Python	research	pik
+https://github.com/JSchapke/essential-gene-detection	Detection of essential genes with Graph Neural Networks on protein-protein interaction networks	Python	research	pik
+https://github.com/JSchapke/routing-environment		Python	research	pik
+https://github.com/JulesGM/AccelerateRL4LMs		Python	research	pik
+https://github.com/JulesGM/DeepNeuro	Detection of autism through the machine learning and deep learning analysis of Magnetoencephalography scans.	Jupyter Notebook	research	pik
+https://github.com/JulesGM/eli5_retrieval_large_lm		Jupyter Notebook	research	pik
+https://github.com/JulesGM/RL4LMS_fork		Python	research	pik
+https://github.com/juliusgarbe/modelling_sandbox	Examples of basic numerical modelling approaches used in ice-sheet modelling and some (very) simple ice-sheet models.	Jupyter Notebook	research	pik
+https://github.com/jvmncs/Contamination	A blood test contamination research project with the Cleveland Clinic	Jupyter Notebook	research	pik
+https://github.com/jvmncs/DeepIDS	Playing around with IDS data in Keras	Jupyter Notebook	research	pik
+https://github.com/jvmncs/ParamNoise	A comparison of parameter space noise methods for exploration in deep reinforcement learning	Python	research	pik
+https://github.com/jvmncs/PytorchAdversarialGym	A Gym environment for evaluating and enabling new research into attacking and defending neural networks with adversarial perturbations	Python	research	pik
+https://github.com/jvmncs/reinforcement-learning	Solutions to Denny Britz's reinforcement learning exercises	Jupyter Notebook	research	pik
+https://github.com/kachayev/car-racing-attention-agent	"Reproduce the results of ""Neuroevolution of Self-Interpretable Agents"" paper"	Python	research	pik
+https://github.com/kachayev/ssl-in-one-epoch	"Reproduce results of ""EMP-SSL: Towards Self-Supervised Learning in One Training Epoch"" paper."	Python	research	pik
+https://github.com/kachayev/timely0	"Minimalistic implementation of Naiad paper ""A Timely Dataflow System"" in Scala"	Scala	research	pik
+https://github.com/kcobbe/gans_mnist	Using GANs for Unsupervised and Semi-supervised Learning on MNIST	Python	research	pik
+https://github.com/kcobbe/ram_mnist	Recurrent Attention Model (RAM) on MNIST	Python	research	pik
+https://github.com/kcobbe/slitherin	Single agent and multi agent learning on Slitherin' game	Python	research	pik
+https://github.com/kronion/microrts-ppo-comparison	Compare PPO implementation performance on microrts gym env	Python	research	pik
+https://github.com/kzl/aop	Official codebase for Adaptive Online Planning for Continual Lifelong Learning.	Python	research	pik
+https://github.com/kzl/lifelong_rl	Pytorch implementations of RL algorithms, focusing on model-based, lifelong, reset-free, and offline algorithms. Official codebase for Reset-Free Lifelong Learning with Skill-Space Planning.	Python	research	pik
+https://github.com/kzl/universal-computation	Official codebase for Pretrained Transformers as Universal Computation Engines.	Python	research	pik
+https://github.com/langosco/neural-variational-gradient-descent	Code for the paper 'Neural Variational Gradient Descent'. We perform nonparametric variational inference by transporting samples along a dynamically learned trajectory. 	Python	research	pik
+https://github.com/langusta/sutton-reinforcement-learning-intro	"Excersises and figures from ""Reinforcement Learning, An Introduction"" by Sutton and Barto"	Python	research	pik
+https://github.com/lcswillems/ai-mx-docs		JavaScript	research	pik
+https://github.com/lcswillems/automatic-curriculum	"Algorithms for curriculum learning. The code of the ""Mastering Rate based Curriculum Learning"" paper."	Python	research	pik
+https://github.com/lcswillems/MVA-RecVis-project	Implementation and comparison of 2 behavior cloning algorithms: DART and DAGGER	Jupyter Notebook	research	pik
+https://github.com/lcswillems/MVA-RL-project	Implementation and comparison of 5 algorithms: EWF, Exp3, Exp3.P, CFR and CFR+	Python	research	pik
+https://github.com/lcswillems/MVA-TDA-article	"Reproduction of the experiments in the article ""Persistence-based Structural Recognition"""	Python	research	pik
+https://github.com/lcswillems/named-entity-recognizer	A simple and easy-to-use Named Entity Recognizer (written in Keras) with HTML output and links to Wikipedia pages	Python	research	pik
+https://github.com/leesharkey/deep_attractor_network		Python	research	pik
+https://github.com/lxuechen/inference-suboptimality	"Code for ""Inference Suboptimality in Variational Autoencoders"""	Python	research	pik
+https://github.com/lxuechen/private-transformers	A codebase that makes differentially private training of transformers easy.	Python	research	pik
+https://github.com/maibrittbergh/dischanalyst		R	research	pik
+https://github.com/maibrittbergh/lfanalyse	"R-Package to analyse discharge data. To get startet ""lfanalyse"" offers fucntions to load and structure the GRDC-Dataset. For the analysis package contains functions for a descriptive overview, a threshold base analysis as well as trend analysis. "	R	research	pik
+https://github.com/ManifoldFR/entropic-mfg	Library for solving variational mean-field games using optimal transport and the Sinkhorn algorithm	C++	research	pik
+https://github.com/ManifoldFR/point-process-rust	Simulation of point processes in the Rust programming language	Rust	research	pik
+https://github.com/marcwie/pycoment	Compute the entropy and the complexity of a given (set of) network(s)	Python	research	pik
+https://github.com/marcwie/sedac-gpw-parser	Download, crop, plot and analyze high-resolution population estimates from the Socioeconomic Data and Applications Center	Python	research	pik
+https://github.com/MathisFederico/coffeematon	A replication of the paper: Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton	Python	research	pik
+https://github.com/MathisFederico/LearnRL	A library to use and learn reinforcement learning algorithms	Python	research	pik
+https://github.com/matthiasmengel/fast_ant_sid	Antarctic ice discharge parametrization and calibration code	Fortran	research	pik
+https://github.com/matthiasmengel/pism_pik	merge pik modifications to stable versions of PISM.	C++	research	pik
+https://github.com/matthiasmengel/sealevel	"Source code for ""Sea level constrained by observations and commitment"""	Python	research	pik
+https://github.com/maximilian-gelbrecht/ChaoticNDETools.jl	A collection of tools, helper functions and layers to assist working with chaotic Neural Differential Equation in Julia	Julia	research	pik
+https://github.com/maximilian-gelbrecht/GhilSellersEBM.jl	Julia implementation of the Ghil-Sellers 1D Energy Balance Model	Julia	research	pik
+https://github.com/maximilian-gelbrecht/MCBB.jl	Monte Carlo Basin Bifurcation Analysis	Jupyter Notebook	research	pik
+https://github.com/Melanol/bacteria_evo		Python	research	pik
+https://github.com/mgoulao/Linear-Probing-for-RL		Python	research	pik
+https://github.com/Miffyli/nle-sample-factory-baseline		Python	research	pik
+https://github.com/Miffyli/policy-supervectors	Creating fixed-length vectors to describe RL/GA policies	Python	research	pik
+https://github.com/Miffyli/rl-action-space-shaping	Experiment code for testing effect of various action space transformations in reinforcement learning	Python	research	pik
+https://github.com/Miffyli/rl-human-prior-tricks	Evaluating different engineering tricks that make RL work	Python	research	pik
+https://github.com/Miffyli/sym	Website for detailed game mechanics	JavaScript	research	pik
+https://github.com/Miffyli/ToriLLE	Toribash Learning Environment	Lua	research	pik
+https://github.com/mikapfl/gin_ansible_role	Install the gin scientific data sharing service using docker via ansible	CSS	research	pik
+https://github.com/mikapfl/read_di_unfccc	Dataset containing all data available from the UNFCCC API available at https://di.unfccc.int, and scripts to generate it	Jupyter Notebook	research	pik
+https://github.com/mikapfl/unfccc_di_data	Dataset containing all data available from the UNFCCC API at https://di.unfccc.int	Makefile	research	pik
+https://github.com/mikewin-climsci/BGPvBGC	Prioritizing forestation based on biogeochemical and local biogeophysical impacts, Windisch et al.	Jupyter Notebook	research	pik
+https://github.com/miljanm/deep-learning-for-sentiment-mining	"Code created as part of my masters thesis project ""Deep learning for fine-grained document level sentiment mining"""	Python	research	pik
+https://github.com/miljanm/Political-Twitter-Sentiment-Mining	A model for determining sentiment of politically related tweets during a presidential debate	Python	research	pik
+https://github.com/minhlong94/Random-Mixup	[Practical-DL @ AAAI'23] Official code of R-Mix and RL-Mix, accepted at 2nd Practical-DL Workshop @ AAAI'23	Python	research	pik
+https://github.com/mjziebarth/pybalonor	Bayesian Analysis of the Log-Normal distribution in Python	C++	research	pik
+https://github.com/mjziebarth/REHEATFUNQ	Regional aggregate heat flow distributions and heat flow anomaly quantification	Jupyter Notebook	research	pik
+https://github.com/mppalves/NetLogo_Bacterial_Infection_Model	Agent based model of inflammatory process	NetLogo	research	pik
+https://github.com/mppalves/PIK-projects	Files related to my Master thesis research	Mathematica	research	pik
+https://github.com/mppalves/soilcemulator		R	research	pik
+https://github.com/neale/avoiding-side-effects	Code for reproducing the results from the paper Avoiding Side Effects in Complex Environments	Python	research	pik
+https://github.com/neale/HyperGAN	Generative Model for Neural Networks	Python	research	pik
+https://github.com/neale/neural-canvas	creative deep learning with implicit neural representations	Python	research	pik
+https://github.com/neale/neural-data-format	Data compression and retrieval with implicit neural representations	Python	research	pik
+https://github.com/neale/particle-based-vi_ood	Implementation of particle based VI methods for OOD detection	Python	research	pik
+https://github.com/PhilippVerpoort/blue-green-H2	Data and codes for blue-green hydrogen competition	Python	research	pik
+https://github.com/PhilippVerpoort/green-value-chains		Jupyter Notebook	research	pik
+https://github.com/PhilippVerpoort/posted	Potsdam Open-Source Techno-Economic Database	Python	research	pik
+https://github.com/pik-copan/MayaSim	Simulation of the raise and fall of the ancient Maya civilization on the Yucatan penisula	Jupyter Notebook	research	pik
+https://github.com/pik-copan/pycascades	Python framework for simulating tipping cascades on complex networks	Jupyter Notebook	research	pik
+https://github.com/pik-copan/pycopanbehave	Python implementation of COPAN:BEHAVE model	Python	research	pik
+https://github.com/pik-copan/pycopancore	reference implementation of the copan:CORE World-Earth modelling framework	Python	research	pik
+https://github.com/pik-copan/pycopandiscount	Python script to run the copan:DISCOUNT model	Python	research	pik
+https://github.com/pik-copan/pycopanpbcc	Python scripts for analyzing planetary boundaries in a conceptual model of the Earth's carbon cycle including geoengineering by terrestrial carbon dioxide removal	Python	research	pik
+https://github.com/pik-copan/pydrf	Python scripts for estimating dose response functions and performing surrogate analysis based on temporal network data	Jupyter Notebook	research	pik
+https://github.com/pik-copan/pyregimeshifts	Python scripts for detecting nonlinear regime shifts in multiple paleoclimate time series as in Donges et al., Clim. Past. 11, 709-741 (2015)	Python	research	pik
+https://github.com/pik-copan/pytippinginteractions	Python scripts for studying dynamics of interacting tipping elements	Python	research	pik
+https://github.com/pik-copan/pyunicorn	Unified Complex Network and Recurrence Analysis Toolbox	Python	research	pik
+https://github.com/pik-gane/vodle	We develop an interactive, consensus-oriented group decision app	JavaScript	research	pik
+https://github.com/PIK-LPJmL/LandInG	The Land Input Generator (LandInG) contains a collection of scripts to derive basic input datasets for terrestrial ecosystem models from diverse and partially conflicting data sources.	R	research	pik
+https://github.com/PIK-LPJmL/lpjmlkit	A collection of basic functions to facilitate the work with the DGVM LPJmL hosted at the Potsdam Institute for Climate Impact Research.     It provides functions for running LPJmL, as well as reading, processing and writing model-related data such as inputs and outputs or configuration files.	R	research	pik
+https://github.com/PIK-LPJmL/LPJmLmdi	LPJmLmdi - model-data integration for the LPJmL dynamic global vegetation model (R package)	R	research	pik
+https://github.com/pik-piam/blackmagicc	Generate warming pathways using MAGICC for your MAgPIE runs using reference REMIND emissions	R	research	pik
+https://github.com/pik-piam/brick		R	research	pik
+https://github.com/pik-piam/citation	R package | create cff citation file from R package metadata	R	research	pik
+https://github.com/pik-piam/demystas	R package | Demystifying Automation on Simple Tasks	R	research	pik
+https://github.com/pik-piam/edgeTransport	A detailed transport sector model.	R	research	pik
+https://github.com/pik-piam/edgeTrpLib	Support Library for EDGE-Transport.	R	research	pik
+https://github.com/pik-piam/GDPuc	R package for GDP unit conversion	R	research	pik
+https://github.com/pik-piam/gdx	R package | readGDX package for R	R	research	pik
+https://github.com/pik-piam/gms		R	research	pik
+https://github.com/pik-piam/goxygen	Documentation package for modular GAMS code	R	research	pik
+https://github.com/pik-piam/limes	Contains the LIMES-specific routines for data and model output manipulation.	R	research	pik
+https://github.com/pik-piam/lockfile-archive	Includes renv.lock files to document the pik-piam R package environment at different points in time	R	research	pik
+https://github.com/pik-piam/lpjclass	Package containing the LPJ-Object-Class together with relevant functions and methods.	R	research	pik
+https://github.com/pik-piam/lucode2	A collection of tools which allow to manipulate and analyze code.	R	research	pik
+https://github.com/pik-piam/luplot	Some useful functions to plot data such as a map plot function for     MAgPIE objects.	R	research	pik
+https://github.com/pik-piam/luscale	R package | Landuse Scaling Tools	R	research	pik
+https://github.com/pik-piam/lusweave	R package | Landuse Sweave Utilities	R	research	pik
+https://github.com/pik-piam/m4fsdp	Output routines for extracting results from the MAgPIE framework (versions 4.x) for the FSDP project	R	research	pik
+https://github.com/pik-piam/madrat	R package | May All Data be Reproducible and Transparent (MADRaT)	R	research	pik
+https://github.com/pik-piam/magclass	R package | Data Class and Tools for Handling Spatial-Temporal Data	R	research	pik
+https://github.com/pik-piam/magpie4	R package | MAgPIE outputs R package for MAgPIE version 4.x	R	research	pik
+https://github.com/pik-piam/MAgPIENCGains		R	research	pik
+https://github.com/pik-piam/magpiesets	R package | MAgPIE sets for R	R	research	pik
+https://github.com/pik-piam/mip	Model intercomparison visualization package	R	research	pik
+https://github.com/pik-piam/modelstats	A collection of tools for monitoring and diagnosing models	HTML	research	pik
+https://github.com/pik-piam/mrcommons		R	research	pik
+https://github.com/pik-piam/mrdieter	The mrdieter packages contains data preprocessing for the DIETER model. 	R	research	pik
+https://github.com/pik-piam/mrdownscale		R	research	pik
+https://github.com/pik-piam/mrdrivers	Create GDP and population scenarios	R	research	pik
+https://github.com/pik-piam/mredgebuildings		R	research	pik
+https://github.com/pik-piam/mredgetransport		R	research	pik
+https://github.com/pik-piam/mrfable	Tool for easy handling of FABLE project data (India Foodcrop)	HTML	research	pik
+https://github.com/pik-piam/mrfactors		R	research	pik
+https://github.com/pik-piam/mrfeed		R	research	pik
+https://github.com/pik-piam/mrfish	calculations connected to fish and aquaculture	R	research	pik
+https://github.com/pik-piam/mrland		R	research	pik
+https://github.com/pik-piam/mrmagpie	The package provides cellular magpie related data via the madrat framework.	R	research	pik
+https://github.com/pik-piam/mrremind	The mrremind packages contains data preprocessing for the REMIND model.	R	research	pik
+https://github.com/pik-piam/mrsoil	Package contains soil organic carbon cycling model based on IPCC Guidelines 2019 for data prepared in the madrat universe. 	R	research	pik
+https://github.com/pik-piam/mrtransport		R	research	pik
+https://github.com/pik-piam/mrtutorial	Tutorial for mr- world packages, made as part of MAgPIE workshop	R	research	pik
+https://github.com/pik-piam/mrvalidation	Package contains routines to prepare data for validation exercises.	R	research	pik
+https://github.com/pik-piam/mrvalidnitrogen	Madrat Sublibrary with validation-style reporting of nitrogen budgets	R	research	pik
+https://github.com/pik-piam/mrwaste	MADRAT-linked package calculates municipal solid waste projections and environmental impacts, doi.org/10.1088/1748-9326/ab8659	R	research	pik
+https://github.com/pik-piam/mrwater	MAgPIE water preprocessing	R	research	pik
+https://github.com/pik-piam/mrwaterplots	Plotting functions for water-specific output analysis of mrwater library	R	research	pik
+https://github.com/pik-piam/mstools	tool functions that can be used by several madrat-dependent or magpie4 output functions.	R	research	pik
+https://github.com/pik-piam/piamenv		R	research	pik
+https://github.com/pik-piam/piamInterfaces		R	research	pik
+https://github.com/pik-piam/piktests		R	research	pik
+https://github.com/pik-piam/project_interfaces	Project specific interfaces to REMIND / MAgPIE.	R	research	pik
+https://github.com/pik-piam/quitte	Bits and pieces of code to use with quitte-style data frames	R	research	pik
+https://github.com/pik-piam/r2databus		R	research	pik
+https://github.com/pik-piam/regressionworlddata	Model estimates parameters of model functions.	R	research	pik
+https://github.com/pik-piam/remind	Contains the REMIND-specific routines for data and model output manipulation.	R	research	pik
+https://github.com/pik-piam/remind2	The remind2 package contains the REMIND-specific routines for data and model output manipulation.	R	research	pik
+https://github.com/pik-piam/remindPypsa		R	research	pik
+https://github.com/pik-piam/remulator	A collection of R tools for fitting model results.	R	research	pik
+https://github.com/pik-piam/rmndt	Tools for data.table objects in the REMIND context. (Dis-)Aggregation, magpie conversion, interpolation etc.	R	research	pik
+https://github.com/pik-piam/rOpenscmRunner	Run different simple climate models from R using a unified interface	R	research	pik
+https://github.com/pik-piam/shinyresults	R package with shiny modules and apps to analyze model results	R	research	pik
+https://github.com/pik-piam/trafficlight	The package contains tools for data validation and aggregation of validation results.	R	research	pik
+https://github.com/pseudo-rnd-thoughts/Elastic-Resource-Allocation	Research project on Resource-elastic tasks for edge cloud computing	Jupyter Notebook	research	pik
+https://github.com/pvjeetze/Heterogeneity-RootWaterUptake	MATLAB code for modelling root water uptake in heterogeneous soil 	MATLAB	research	pik
+https://github.com/pweigmann/harmonic-power-flow	"""Julia-Based Open Source Software Module for Harmonic Power Flow"", Master thesis by Pascal Weigmann, TU Berlin."	Python	research	pik
+https://github.com/PwnerHarry/CLIA	"LaTeX source code and MATLAB implementation for paper ""A Many-Objective Evolutionary Algorithm With Two Interacting Processes: Cascade Clustering and Reference Point Incremental Learning""."	TeX	research	pik
+https://github.com/PwnerHarry/DQN	A PyTorch Implementation of DQN	Python	research	pik
+https://github.com/PwnerHarry/META	"Python implementation of ""META-Learning State-based Eligibility Traces for More Sample-Efficient Policy Evaluation"""	Python	research	pik
+https://github.com/PwnerHarry/SOOPLAT	A convenient PLATform for Single Objective Optimization	C++	research	pik
+https://github.com/PwnerHarry/Stronger_GCN	"Implementations of ""Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks"""	TeX	research	pik
+https://github.com/qgallouedec/panda-gym	Set of robotic environments based on PyBullet physics engine and gymnasium.	Python	research	pik
+https://github.com/qgallouedec/semantic_segmentation	BE3 Computer vision	Python	research	pik
+https://github.com/qxcv/asnets	Source for Action Schema Networks paper (AAAI'18)	PDDL	research	pik
+https://github.com/qxcv/comp2560	My project for the Semester 2, 2015 offering of COMP2560 (Studies in Advanced Computing R&D) at ANU	Matlab	research	pik
+https://github.com/qxcv/engn4528-project-public	Public release of ENGN4528 project (vision at ANU) with @KuangyiXing	Python	research	pik
+https://github.com/qxcv/magical	The MAGICAL benchmark suite for robust imitation learning (NeurIPS 2020)	Python	research	pik
+https://github.com/qxcv/structuredinference	DMMs for human pose forecasting. Fork of clinicalml/structuredinference (disassociated by Github because it was private for a while)	Jupyter Notebook	research	pik
+https://github.com/rajammanabrolu/Automated-Story-Generation			research	pik
+https://github.com/rajammanabrolu/C2PO	Automated Storytelling via Causal, Commonsense Plot Ordering	Python	research	pik
+https://github.com/rajammanabrolu/CRD3-extended	Data accompanying the SIGDIAL-2021 paper https://arxiv.org/abs/2105.15054 Telling Stories through Multi-User Dialogue by Modeling Character Relations by Wai Man Si, Prithviraj Ammanabrolu, Mark O. Riedl		research	pik
+https://github.com/rajammanabrolu/KG-A2C	Goal driven language generation using knowledge graph A2C agents	Python	research	pik
+https://github.com/rajammanabrolu/KG-DQN		Python	research	pik
+https://github.com/rajammanabrolu/Q-BERT	Agents that build knowledge graphs and explore textual worlds by asking questions	Python	research	pik
+https://github.com/rajammanabrolu/StoryRealization		Python	research	pik
+https://github.com/rajammanabrolu/WorldGeneration	Generating Interactive Fiction worlds from story plots	Python	research	pik
+https://github.com/rajcscw/nlp-gym	NLPGym - A toolkit to develop RL agents to solve NLP tasks.	Python	research	pik
+https://github.com/rajcscw/pytorch-optimize	A simple black-box optimization framework to train your pytorch models for optimizing non-differentiable objectives	Python	research	pik
+https://github.com/remindmodel/remind	REMIND - REgional Model of INvestments and Development	GAMS	research	pik
+https://github.com/Renato-Rodrigues/EU_2040_transformation	2040 greenhouse gas reduction targets and energy transitions in line with the EU Green Deal	HTML	research	pik
+https://github.com/rgieseke/opencoviddata	Code to download Covid-19 data from RKI SurvStat	Python	research	pik
+https://github.com/rizar/actor-critic-public	"The source code for ""An Actor Critic Algorithm for Structured Prediction"""	Jupyter Notebook	research	pik
+https://github.com/rizar/attention-lvcsr	End-to-End Attention-Based Large Vocabulary Speech Recognition	Python	research	pik
+https://github.com/rizar/CLOSURE	Systematic generalization test for CLEVR	Python	research	pik
+https://github.com/rizar/systematic-generalization-sqoop	"Code for ""Systematic Generalization: What Is Required and Can It Be Learned"""	Python	research	pik
+https://github.com/rmiddelanis/sandy_paper		Jupyter Notebook	research	pik
+https://github.com/Rocamonde/catevap	Cellular automata simulator for evaluating autonomous traffic policies	Python	research	pik
+https://github.com/Rocamonde/savannah-framework	Telemetry framework for advanced real-time data harvesting and monitoring.	Python	research	pik
+https://github.com/rockt/ChemSpot	ChemSpot is a named entity recognition tool for identifying mentions of chemicals in natural language texts, including trivial names, drugs, abbreviations, molecular formulas and IUPAC entities. Since the different classes of relevant entities have rather different naming characteristics, ChemSpot uses a hybrid approach combining a Conditional Random Field with a dictionary. ChemSpot is released under the Common Public License 1.0.	Java	research	pik
+https://github.com/rodrigodelazcano/d4rl-minari-dataset-generation	Scripts to recreate the D4RL datasets with Minari	Python	research	pik
+https://github.com/rtaori/Black-Box-Audio	Targeted Adversarial Examples for Black Box Audio Systems	Python	research	pik
+https://github.com/rtaori/data_feedback	"Code for the paper ""Data Feedback Loops: Model-driven Amplification of Dataset Biases"""	Jupyter Notebook	research	pik
+https://github.com/sawcordwell/MDPs.jl	Julia package for working with Markov decision processes (MDPs)	Julia	research	pik
+https://github.com/sawcordwell/pymdptoolbox	Markov Decision Process (MDP) Toolbox for Python	Python	research	pik
+https://github.com/ScheiklP/lap_gym	Meta-repository of the LapGym project		research	pik
+https://github.com/ScheiklP/sofa_env	Reinforcement learning environments for robot-assisted laparoscopic surgery	Python	research	pik
+https://github.com/ScheiklP/sofa_godot	The SOFA-Godot Plugin - Create SOFA scenes in Godot!	GDScript	research	pik
+https://github.com/ScheiklP/sofa_zoo	Reinforcement learning scripts for sofa_env environments.	Python	research	pik
+https://github.com/sgillen/fractal_mesh	Code to analyze policies trained with a reinforcement learning method that encourages low fractional dimension trajectories.	Jupyter Notebook	research	pik
+https://github.com/sgillen/fractal_rl	Code for CORL 2020 paper: Explicitly Encouraging Low Fractional Dimensional Trajectories Via Reinforcement Learning.	Jupyter Notebook	research	pik
+https://github.com/sgillen/fractal_rl_scratch		Jupyter Notebook	research	pik
+https://github.com/sgillen/gan_art	Exploring art from Generative Adversarial Networks.	Python	research	pik
+https://github.com/sgillen/matlab_ars	Augmented Random Search for Reinforcement Learning in Matlab	MATLAB	research	pik
+https://github.com/shwang/NNG	building off of pomonam/NoisyNaturalGradient.	Python	research	pik
+https://github.com/shwang/pedestrian_prediction	"realtime, confidence-varying trajectory prediction for ""Probabilistically Safe Robot Planning with Confidence-Based Human Predictions"". RSS '18"	Python	research	pik
+https://github.com/simoninithomas/Baselines_icm	[Work in Progress] ICM plugin for OpenAI Baselines	HTML	research	pik
+https://github.com/simoninithomas/Policy_gradients_CartPole	A Policy Gradient Learning with CartPole-v0 for Siraj Raval's challenge	Jupyter Notebook	research	pik
+https://github.com/simoninithomas/the_mayan_adventure	The Mayan Adventure is an open-source reinforcement learning environment for Unity ML-Agents.  In this environment, you train your agent (Indie) to find the golden statue in this dangerous environment full of traps.	ShaderLab	research	pik
+https://github.com/sparisi/pvr_habitat	Pre-Trained Visual Representations for Control	Python	research	pik
+https://github.com/stenzelf/biospheremetrics	This repository contains code for an R package to analyze outputs	R	research	pik
+https://github.com/SwamyDev/gym-quickcheck	Gym environments that allow for coarse but fast testing of AI agents.	Python	research	pik
+https://github.com/SwamyDev/reinforcement	Python module implementing reinforcement learning algorithms,	Python	research	pik
+https://github.com/thejat/active-curricula-for-efficient-reinforcement-learning	"Code for paper "" Faster Reinforcement Learning Using Active Simulators"" (2017)"	Jupyter Notebook	research	pik
+https://github.com/thejat/bandits-with-stochastic-impairments	Code accompanying the paper 'Bandits with Stochastic Impairments' (2018)	Python	research	pik
+https://github.com/thejat/dynamic-network-growth-models		Jupyter Notebook	research	pik
+https://github.com/thejat/facial-political-recognition		Jupyter Notebook	research	pik
+https://github.com/thejat/learning-realistic-buyer-models	Code for the paper 'An Online Algorithm for Learning Buyer Behavior under Realistic Pricing Restrictions'	Python	research	pik
+https://github.com/thejat/learning-to-partition-using-pairwise-compatibilities	"Code for the paper "" Learning to Partition Using Pairwise Compatibilities"""	Python	research	pik
+https://github.com/thejat/planout		JavaScript	research	pik
+https://github.com/thejat/profit-optimization-ride-sharing	"Code for the paper "" Impact of Detour-Aware Policies on Maximizing Profit in Ridesharing"""	Jupyter Notebook	research	pik
+https://github.com/thejat/scalable-data-driven-assortment-planning	"Code accompanying paper titled ""Optimizing Revenue over Data-driven Assortments"" (2021)"	Python	research	pik
+https://github.com/thejat/supervised-learning-with-side-knowledge	Code associated with http://arxiv.org/pdf/1405.7764	Matlab	research	pik
+https://github.com/thejat/Thompson-Sampling-for-a-Fatigue-aware-Online-Recommendation-System		Jupyter Notebook	research	pik
+https://github.com/Tiiiger/benchmark_llm_summarization			research	pik
+https://github.com/Tiiiger/QPyTorch	Low Precision Arithmetic Simulation in PyTorch	Python	research	pik
+https://github.com/Tiiiger/SGC	"official implementation for the paper ""Simplifying Graph Convolutional Networks"""	Python	research	pik
+https://github.com/Tiiiger/templm	"Code release for ""TempLM: Distilling Language Models into Template-Based Generators"""	Python	research	pik
+https://github.com/tobirohrer/gan-pretraining-ae		Jupyter Notebook	research	pik
+https://github.com/tobirohrer/reinforcement-learning-heat-pump		Jupyter Notebook	research	pik
+https://github.com/ToBraun/RECFLOW		Jupyter Notebook	research	pik
+https://github.com/ToBraun/RECLAC	RECLAC Python package	Jupyter Notebook	research	pik
+https://github.com/tom-doerr/FAKEBOB_fork_2		Python	research	pik
+https://github.com/tom-doerr/fakebob_offsets		Python	research	pik
+https://github.com/tom-doerr/Intrinsic-Image-Popularity		Shell	research	pik
+https://github.com/tomMcGrath/feeding-behaviour		Jupyter Notebook	research	pik
+https://github.com/tomMcGrath/feeding_analysis	"Open-sourced code for the paper ""A mathematical model of feeding in rodents predicts food intake and offers novel insight into feeding behavior""."	Jupyter Notebook	research	pik
+https://github.com/toshikwa/discor.pytorch	PyTorch implementation of Distribution Correction(DisCor) based on Soft Actor-Critic.	Python	research	pik
+https://github.com/toshikwa/fqf-iqn-qrdqn.pytorch	PyTorch implementation of FQF, IQN and QR-DQN.	Python	research	pik
+https://github.com/toshikwa/gail-airl-ppo.pytorch	PyTorch implementation of GAIL and AIRL based on PPO.	Python	research	pik
+https://github.com/toshikwa/sac-discrete.pytorch	PyTorch implementation of SAC-Discrete.	Python	research	pik
+https://github.com/toshikwa/slac-discrete.pytorch	PyTorch implementation of Stochastic Latent Actor-Critic(SLAC) extended for discrete action settings.	Python	research	pik
+https://github.com/toshikwa/slac.pytorch	PyTorch implementation of Stochastic Latent Actor-Critic(SLAC).	Python	research	pik
+https://github.com/toshikwa/soft-actor-critic.pytorch	PyTorch implementation of Soft Actor-Critic(SAC).	Python	research	pik
+https://github.com/toshikwa/vae.pytorch	PyTorch Implementation of Deep Feature Consistent Variational Autoencoder.	Python	research	pik
+https://github.com/toshikwa/wappo.pytorch	PyTorch implementation of Wasserstein Adversarial Proximal Policy Optimization(WAPPO).	Python	research	pik
+https://github.com/tscheypidi/mrorganic		R	research	pik
+https://github.com/vitusbenson/tropical_rainforest_resilience_nongaussian		Python	research	pik
+https://github.com/vwxyzjn/a2c_is_a_special_case_of_ppo	A2C is a special case of PPO!	Python	research	pik
+https://github.com/vwxyzjn/cleanba	CleanRL's implementation of DeepMind's Podracer Sebulba Architecture for Distributed DRL 	Python	research	pik
+https://github.com/vwxyzjn/cleanrl	High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)	Python	research	pik
+https://github.com/vwxyzjn/envpool-cleanrl		Python	research	pik
+https://github.com/vwxyzjn/gym-microrts-paper	The source code for the gym-microrts paper.	Python	research	pik
+https://github.com/vwxyzjn/invalid-action-masking	Source Code for A Closer Look at Invalid Action Masking in Policy Gradient Algorithms	Python	research	pik
+https://github.com/vwxyzjn/lm-human-preference-details		Python	research	pik
+https://github.com/wbarfuss/CognitiveLevels	Python implementation to create the figures used in the publication 'Dynamical systems as a level of cognitive analysis of multi-agent learning - Algorithmic foundations of temporal-difference learning dynamics'	Python	research	pik
+https://github.com/wbarfuss/cyexploit	cython / python implementation of the COPAN:Exploit model	Python	research	pik
+https://github.com/wbarfuss/DetRL	Python implementation of the deterministic limit of temporal difference reinforcement learning	Jupyter Notebook	research	pik
+https://github.com/wbarfuss/EcoPG	Python implementation of the Ecological Public Good model	Python	research	pik
+https://github.com/wbarfuss/intrinsic-fluctuations-cooperation	All code to reproduce the results of https://arxiv.org/abs/2209.01013	Mathematica	research	pik
+https://github.com/wbarfuss/netlogo-exploit	A netlogo implementation of PIK COPANS Exploit model	NetLogo	research	pik
+https://github.com/wbarfuss/Paradigms	Code for paradigms project	Jupyter Notebook	research	pik
+https://github.com/wbarfuss/POLD	Partially Observable multi-agent temporal-difference Learning Dynamics in the deterministic infinite memory limit	Jupyter Notebook	research	pik
+https://github.com/wbarfuss/pyCRLD	Collective Reinforcement Learning Dynamics in Python	Jupyter Notebook	research	pik
+https://github.com/YannDubs/disentangling-vae	Experiments for understanding disentanglement in VAE latent representations	Python	research	pik
+https://github.com/YannDubs/FourRussiansRNA	Faster algorithms for RNA-folding using the Four-Russians method	C++	research	pik
+https://github.com/YannDubs/Hash-Embeddings	PyTorch implementation of Hash Embeddings (NIPS 2017). Submission to the NIPS Implementation Challenge.	Python	research	pik
+https://github.com/YannDubs/Invariant-Self-Supervised-Learning	"Pytorch code for ""Improving Self-Supervised Learning by Characterizing Idealized Representations"""	Python	research	pik
+https://github.com/YannDubs/lossyless	"Generic image compressor for machine learning. Pytorch code for our paper ""Lossy compression for lossless prediction""."	Python	research	pik
+https://github.com/YannDubs/Mini_Decodable_Information_Bottleneck	Minimum viable code for the Decodable Information Bottleneck paper. Pytorch Implementation.	Python	research	pik
+https://github.com/YannDubs/Neural-Process-Family	Code for the Neural Processes website and replication of 4 papers on NPs. Pytorch implementation. 	Jupyter Notebook	research	pik
+https://github.com/YannDubs/RAW-Embedings	Novel word embeddings based on a simple and intuitive rolling average. Still in dev mode.	Jupyter Notebook	research	pik
+https://github.com/YannDubs/simulationPopulationGenetics	A general modelisation of Wright Fisher in a context of total  biological abstraction. And a specific modelisation of the evolution of the sickle cell anemia in Congo, Cameroon & Gaboon 	C++	research	pik
+https://github.com/YannDubs/SSL-Risk-Decomposition	"Benchmark and analysis of 165 pretrained SSL models. Code for ""Evaluating Self-Supervised Learning via Risk Decomposition""."	Jupyter Notebook	research	pik
+https://github.com/zeionara/marude	An http api client which allows to automatically convert russian short texts into speech using vk cloud	Python	research	pik
+https://github.com/ZikangXiong/diff-spec	Differentiable Symbolic Specification	Python	research	pik
+https://github.com/ZikangXiong/MFNLC	[IROS 22'] Model-free Neural Lyapunov Control	Python	research	pik
+https://github.com/ZikangXiong/mobrob	Mobile Robot Control via Goal-Conditioned Reinforcement Learning	Python	research	pik
+https://github.com/ZikangXiong/rl-detect-and-denoise-defense	[ECML 22'] Defending Observation Attacks in Deep Reinforcement Learning via Detection and Denoising	Python	research	pik
+https://github.com/ZikangXiong/RobotDesign		C++	research	pik
+https://github.com/adbar/coronakorpus	Material zum Aufbau eines deutschsprachigen COVID-19-Webkorpus / Building a corpus in German dedicated to coronavirus		research	bbaw
+https://github.com/adbar/courlan	Clean, filter and sample URLs to optimize data collection – includes spam, content type and language filters	Python	research	bbaw
+https://github.com/adbar/flux-toolchain	Filtering and Language-identification for URL Crawling Seeds (FLUCS) a.k.a. FLUX-Toolchain	Perl	research	bbaw
+https://github.com/adbar/geokelone	integrates spatial and textual data processing tools into a modular software package which features preprocessing, geocoding, disambiguation and visualization	Python	research	bbaw
+https://github.com/adbar/german-reddit	Extraction of a German Reddit Corpus	Python	research	bbaw
+https://github.com/adbar/htmldate	Fast and robust date extraction from web pages, with Python or on the command-line	Python	research	bbaw
+https://github.com/adbar/laclos	LAnguage-CLassified OpenSubtitles	Python	research	bbaw
+https://github.com/adbar/microblog-explorer	Perform crawls of social networks (identi.ca, reddit, friendfeed) to gather internal and external links and identify their language	Python	research	bbaw
+https://github.com/adbar/simplemma	Simple multilingual lemmatizer for Python, especially useful for speed and efficiency	Python	research	bbaw
+https://github.com/adbar/valency-oriented-chunker	A one-pass FSA valency-oriented chunker for German (proof of concept)	Perl	research	bbaw
+https://github.com/adbar/vardial-experiments	Experiments conducted on the occasion of the VarDial shared tasks	Python	research	bbaw
+https://github.com/AgnieszkaFalenska/IMSnPars	IMS Neural Dependency Parser	Python	research	bbaw
+https://github.com/alexmilowski/pygobo	Property Graphs for Open Biological and Biomedical Ontologies in Python	Python	research	bbaw
+https://github.com/ariporad/alfred-molar-mass-calculator	Calculate the Molar Mass of Molecules	JavaScript	research	bbaw
+https://github.com/axellelecroq/corresphumboldtlite	Discover the correspondence of Alexander von Humboldt with data visualisations in your browser.	Python	research	bbaw
+https://github.com/axellelecroq/digital-edition-bestiaire	"Digital edition of the medieval manuscript ""Vie de Saints"" by Richard de Fournival"	HTML	research	bbaw
+https://github.com/coltekin/dsl2016-source	DSL shared task participation - sources	Python	research	bbaw
+https://github.com/coltekin/emoji2018	The source code for the Tübingen-Oslo team in SemEval-2018 Multilingual Emoji Prediction shared task.	Python	research	bbaw
+https://github.com/coltekin/gk-treebank	A grammar-book treebank of Turkish	Python	research	bbaw
+https://github.com/duncdrum/cbdb-data	China Biographical Database (CBDB) data for use with exist-db.		research	bbaw
+https://github.com/fgeorges/ml-invoker	Invoker lib for MarkLogic	XQuery	research	bbaw
+https://github.com/FrederikeNeuber/lewald-correspondence-metadata	Metadata of Fanny Lewald's correspondences in CMIF-format		research	bbaw
+https://github.com/FrederikeNeuber/stgd-prototype-edition	Prototype edition 		research	bbaw
+https://github.com/FrederikeNeuber/typoo	RDF/OWL based ontology to describe microtypography (in digital scholarly editions)		research	bbaw
+https://github.com/gremid/idrovora	A pump station for your XProc pipelines	Clojure	research	bbaw
+https://github.com/gremid/ujwa	UJWA – XML processing experiments for the Uwe Johnson-Werkausgabe	Clojure	research	bbaw
+https://github.com/helmuthb/datascience-thesis	Code for my master thesis - working on Object Detection & Segmentation	Python	research	bbaw
+https://github.com/helmuthb/experiment-design-mediaeval	Experiment Design: Media-Evaluation, lecture winter term 2019	TeX	research	bbaw
+https://github.com/jadolan/zoomable_space	A zoomable map of a tiny fraction of the universe.	JavaScript	research	bbaw
+https://github.com/janpieterk/gemeentekaart-core	PHP library to create choropleth maps of the municipalities of the Netherlands	PHP	research	bbaw
+https://github.com/janpieterk/gemeentekaart-rest	REST interface to janpieterk/gemeentekaart-core	PHP	research	bbaw
+https://github.com/jcklie/hack-assembler	"An implementation of the hack assembler, as found in ""The Elements of Computing Systems""."	Assembly	research	bbaw
+https://github.com/jcklie/hanzi-website	Website to look up information about Hanzi, especially Heisig	JavaScript	research	bbaw
+https://github.com/jcklie/hanzitools	Library to work with Chinese Characters (Hanzi) in Python	Python	research	bbaw
+https://github.com/jcklie/ireval	Commonly used information retrieval (IR) metrics implemented in Python and trec_eval conform	Python	research	bbaw
+https://github.com/jcklie/seqviz	Visualize sequence tagging results.	Python	research	bbaw
+https://github.com/jochenklar/rdmo-advanced		CSS	research	bbaw
+https://github.com/jochenklar/rdmo-basic		CSS	research	bbaw
+https://github.com/lcahlander/scxml-xq	An SCXML interpreter in XQuery	XQuery	research	bbaw
+https://github.com/lguariento/og-h-am	Harnessing digital technologies to transform understanding of ogham writing, from the 4th century to the 21st		research	bbaw
+https://github.com/lpodl/Izhikevich-Neurons	We're discussing firing patterns of the different electrophysiological classes of neurons with the help of the simple model suggested by Eugene M.Izhikevich in 2003.	Jupyter Notebook	research	bbaw
+https://github.com/lpodl/Stein-Variational-Gradient-Descend	An application of Stein Variational Gradient descend including some visualizations.	Jupyter Notebook	research	bbaw
+https://github.com/nfcampos/treesampler		Python	research	bbaw
+https://github.com/Rein3ke/2d-game-immersive-prototype		C#	research	bbaw
+https://github.com/Rein3ke/com.rein3ke.virtualtour.core	Virtual museum tour - core project	C#	research	bbaw
+https://github.com/Rein3ke/VirtualMuseumTour	Master Thesis	C#	research	bbaw
+https://github.com/riccardodg/linguistic-tools-for-weblicht	A folder containing a list of linguistic tools eventually for the integration into weblicht	Java	research	bbaw
+https://github.com/riccardodg/psc2lemon	Scripts and stuff for converting Parole Simple Clips (names only) to LOD	Python	research	bbaw
+https://github.com/rknaebel/bbc-discourse	Discourse Relations extracted from BBC News Corpus for training a shallow discourse parser	Python	research	bbaw
+https://github.com/rknaebel/landslide	Research project on building and evaluating deep learning models for landslides detection on satellite images	Python	research	bbaw
+https://github.com/robcast/digilib	A versatile image viewing environment for the internet.	Java	research	bbaw
+https://github.com/tboenig/ocrd_bbaw_pilotbibliothek	Bericht über die OCR-D-Teststellung an Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)	HTML	research	bbaw
+https://github.com/telota/archiv-editor		Java	research	bbaw
+https://github.com/telota/bbaw-schoell	BBAW Schoell font		research	bbaw
+https://github.com/telota/ChronoTool		HTML	research	bbaw
+https://github.com/telota/CIL-ACE	CIL | ACE at BBAW, Berlin, DE	PHP	research	bbaw
+https://github.com/telota/corpus-nummorum-editor	A Laravel-Vue-Application for Numismatics	Vue	research	bbaw
+https://github.com/telota/edition-humboldt-digital	TEI-XML dataset of the edition humboldt digital		research	bbaw
+https://github.com/telota/existance		Python	research	bbaw
+https://github.com/telota/jean_paul_briefe_ediarum	Publikation des projektspezifischen ediarum Frameworks der Jean Paul Edition	CSS	research	bbaw
+https://github.com/telota/LinkEdLeibniz-data			research	bbaw
+https://github.com/telota/PIR	PROSOPOGRAPHIA IMPERII ROMANI, Laravel, PHP, Vue	PHP	research	bbaw
+https://github.com/telota/quoteSalute	Inspiring greetings for your correspondence	CSS	research	bbaw
+https://github.com/telota/wsp-forschungsaktivitaet		HTML	research	bbaw
+https://github.com/uiur/kanji_to_hanzi	Translate Japanese Kanji to Chinese Hanzi (simplified and traditional)	Ruby	research	bbaw
+https://github.com/ulf1/bwsample	Sampling algorithm for best-worst scaling sets.	Python	research	bbaw
+https://github.com/ulf1/flexion		Python	research	bbaw
+https://github.com/ulf1/ipasymbols	Properties of IPA symbols	Python	research	bbaw
+https://github.com/ulf1/keras-bcr	Batch Correlation Regularizer for TF2/Keras	Python	research	bbaw
+https://github.com/ulf1/keras-cor	Correlated Outputs Regularization	Python	research	bbaw
+https://github.com/ulf1/keras-hrp	Hashed Random Projection layer for TF2/Keras	Python	research	bbaw
+https://github.com/ulf1/keras-multilabel-embedding		Python	research	bbaw
+https://github.com/ulf1/keras-quadopt	Solving quadratic optimization problems with Keras.	Python	research	bbaw
+https://github.com/ulf1/keras-tweaks		Python	research	bbaw
+https://github.com/ulf1/kshingle	Split strings into (character-based) k-shingles	Python	research	bbaw
+https://github.com/ulf1/lagmat	Lagmatrix. Create array with time-lagged copies of the features	Python	research	bbaw
+https://github.com/ulf1/maxjoshua	Feature selection for hard voting classifier and NN sparse weight initialization.	Python	research	bbaw
+https://github.com/ulf1/node-distance	Compute distance between all nodes of a tree, and estimate an histogram that can be used as features for other models	Python	research	bbaw
+https://github.com/ulf1/node-distance-ray	ray.io wrapper for node-distance package	Python	research	bbaw
+https://github.com/ulf1/numpy-fracadf	Determine fractal order by the ADF test	Python	research	bbaw
+https://github.com/ulf1/numpy-fracdiff	Fractional differentiation as numpy function 	Python	research	bbaw
+https://github.com/ulf1/numpy-linreg	Linear Regression with numpy only.	Python	research	bbaw
+https://github.com/ulf1/pad-sequences	pad variable length sequences with multiples features	Python	research	bbaw
+https://github.com/ulf1/quaxa	quaxa - QUAlity of sentence eXAmples	Python	research	bbaw
+https://github.com/ulf1/scipy-psdm	transform an ill-conditioned quadratic matrix to a positive semidefinite matrix	Python	research	bbaw
+https://github.com/ulf1/scipy-quadopt	Wrapper and utility functions to apply scipy's SLSQP algorithm to quadratic optimization problems with resource constraints and upper boundaries	Python	research	bbaw
+https://github.com/ulf1/scipy-tweaks		Python	research	bbaw
+https://github.com/ulf1/sentence-embedding-evaluation-german	Basically SentEval with German language downstream tasks	Python	research	bbaw
+https://github.com/ulf1/simiscore-biblio	An ML API to compute similarity scores between meta information about sentence examples.	Python	research	bbaw
+https://github.com/ulf1/simiscore-kshingle	An ML API to compute similarity scores between shingled sentence examples.	Python	research	bbaw
+https://github.com/ulf1/simiscore-semantic	An ML API to compute semantic similarity scores between sentence examples.	Python	research	bbaw
+https://github.com/ulf1/simiscore-syntax	An ML API to compute the Jaccard similarity based on shingled subtrees of the dependency grammar.	Python	research	bbaw
+https://github.com/ulf1/sklearn-fracdiff		Python	research	bbaw
+https://github.com/ulf1/sklearn-pipelinetweak	additional wrapper and classes for sklearn's pipeline API	Python	research	bbaw
+https://github.com/ulf1/sparsity-pattern	Generate different types of sparsity pattern for sparse matrices.	Python	research	bbaw
+https://github.com/ulf1/study-370b		Jupyter Notebook	research	bbaw
+https://github.com/ulf1/torch-hrp	Hashed Random Projection layer for PyTorch	Python	research	bbaw
+https://github.com/ulf1/torch-multilabel-embedding	Training of multi-label embeddings with k-shingled input sequences	Python	research	bbaw
+https://github.com/ulf1/torch-tweaks		Python	research	bbaw
+https://github.com/ulf1/treesimi	Compute similarity between trees, e.g. dependency trees	Python	research	bbaw
+https://github.com/ulf1/ulf1			research	bbaw
+https://github.com/ulf1/vue-fit2box	Resize the font-size in rem units so that the text fits into the html element.	JavaScript	research	bbaw
+https://github.com/windauer/ws21-tp7-ws	"Uni Wuppertal ""Winter School"" event 2021 - TEI Publisher 7 hands on workshop"	XQuery	research	bbaw
+https://github.com/wrznr/timur	Finite-state morphology for German	Python	research	bbaw
+https://github.com/xlhrld/retro-dict	Historical etymological dictionaries	HTML	research	bbaw
+https://github.com/zentrum-lexikographie/dwdsmor	SFST/SMOR/DWDS-based German Morphology	XSLT	research	bbaw
+https://github.com/zentrum-lexikographie/e-lexicography-2020-WiSe	Wintersemester 2020	Python	research	bbaw
+https://github.com/a-moi/political-argument-mining	Mining arguments in political discourse with BERT and RoBERTa. We also present a new corpus of UNSC speeches annotated wrt their argumentative structure	Jupyter Notebook	research	up
+https://github.com/Abdelwahab86/Water-polygons-photogrammetry	My master thesis at Potsdam University	Jupyter Notebook	research	up
+https://github.com/Adrian-Ziupka/ba-thesis	My bachelor thesis about evaluating pavement distress of point clouds.	TeX	research	up
+https://github.com/aeye-lab/ecml-ADHD		Python	research	up
+https://github.com/aeye-lab/etra-fairness		Jupyter Notebook	research	up
+https://github.com/aeye-lab/etra-reading-comprehension		Python	research	up
+https://github.com/aeye-lab/Eyettention		Python	research	up
+https://github.com/aeye-lab/pymovements	A python package for processing eye movement data	Python	research	up
+https://github.com/aeye-lab/python-wmc-battery	  Python reimplementation of the WMC battery described in Lewandowsky, Oberauer, Yang, & Ecker (2010), Behavior Research Methods.	Python	research	up
+https://github.com/aeye-lab/sp-eyegan		Jupyter Notebook	research	up
+https://github.com/alecamcr/Immigration-RSE	This project aims at summarizing important factors of immigration in Germany, such as: number of immigrants, origin countries, sex, age, and concentration and movement between Bundesländer. This project was done for the course of research  software engineering at the University of Potsdam	Jupyter Notebook	research	up
+https://github.com/alisher-turubayev/dl-normalizing-flows	Utilizing Normalizing Flows for Anime Face Generation - Journey Log	Jupyter Notebook	research	up
+https://github.com/alisher-turubayev/trent-university-code	University Code from all classes | Trent University | 2017-2021	C#	research	up
+https://github.com/alisher-turubayev/uni-potsdam-code	University Code from all classes | Universität Potsdam - Hasso-Plattner Institut | 2021-2023		research	up
+https://github.com/alsino/vmt-network	A quick sketch for a network visualization for vmt using d3 force-directed network and d3 symbols.	JavaScript	research	up
+https://github.com/alyonavyshnevska/bert_for_coreference_resolution	Exploring Span Representations in Neural Coreference Resolution	Python	research	up
+https://github.com/AnjaKatzenberger/CMIP-6-Very-wet-monsoon-seasons-in-India	Analysis of the projected very wet monsoon seasons on the Indian subcontinent using 32 CMIP6 models. Codes for publication: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098856	Python	research	up
+https://github.com/aodenweller/green-h2-upscaling	Model code and input data of the technology diffusion model for electrolysis capacity	R	research	up
+https://github.com/arne-cl/discoursegraphs	linguistic converter / merging tool for multi-level annotated corpora. graph-based (using Python and NetworkX).	Python	research	up
+https://github.com/arne-cl/feng-hirst-rst-parser	fork of Vanessa Wei Feng's RST-style discourse parser	Shell	research	up
+https://github.com/arne-cl/ppi_graphkernel	all-paths graph kernel for protein-protein interaction extraction	Python	research	up
+https://github.com/AvitBhowmik/ATRIC	ATRIC: automated Accumulation Threshold selection and RIparian Corridor delineation	R	research	up
+https://github.com/AvitBhowmik/Poster-on-Spatial-Statistics-2015	"This repository contains my poster presented at Spatial Statistics: Emerging Patterns 2015 conference, in Avignon, France on June 12, 2015. The title of the poster is ""Estimating pooled within-time series variograms with spatially shifted temporal points"", reference number: P3.03, abstract sequel: SPAT2015_0024. The poster was created using Latex a0poster and multicol packages."	TeX	research	up
+https://github.com/AvitBhowmik/Presentation-at-SEFS9	"This repository contains my slides presented at 9th Symposium of European Freshwater Sciences - SEFS 9 2015 conference, in Geneva, Switzerland on July 6, 2015. The title of the oral presentation is ""Are aerial dispersers good adapters? Association of large scale spatial autocorrelation of semi-aquatic insect trait distribution with climate"", reference number: 00570, session: RS02-Impacts of climate change on freshwater ecosystems. The slides were created using Latex Beamer package and mtheme."	TeX	research	up
+https://github.com/bgailleton/DAGGER	Directed Acyclic Graph for digital topoGrahic manipulations Eventually cRoss-platform	C++	research	up
+https://github.com/bgailleton/TVD_Condat2013	Python implementation of the 1D Total Variation Denoising algorithm A Direct Algorithm for 1D Total Variation Denoising (Sign. Proc. Letters, DOI:10.1109/LSP.2013.2278339) using xtensor and pybind11 to bind c++ and numpy.	C++	research	up
+https://github.com/bgroenks96/generative-downscaling	Research and experiments for downscaling climate/weather data via generative learning	Jupyter Notebook	research	up
+https://github.com/bgroenks96/normalizing-flows	Implementations of normalizing flows using python and tensorflow	Jupyter Notebook	research	up
+https://github.com/bmarv/Psychology_Experiment	encoding during the stimulation of the vagus nerve, recognition in an unattended online session	Python	research	up
+https://github.com/BodoBookhagen/ChanGeom	ChanGeom - Channel Geometry, River Width, and along-stream distance extraction from KML	Python	research	up
+https://github.com/BodoBookhagen/ICESat-2_SVDA	The Sparse Vegetation Detection Algorithm (SVDA) for ICESat-2 data	Jupyter Notebook	research	up
+https://github.com/BodoBookhagen/PC_geomorph_roughness	PointCloud (PC) statistics and roughness calculation for geomorphologic analysis	Python	research	up
+https://github.com/bptlab/Context-Aware-Change-Pattern-Detection		Jupyter Notebook	research	up
+https://github.com/bptlab/relationships-between-change-patterns		Jupyter Notebook	research	up
+https://github.com/bptlab/scylla	Extensible BPMN process simulator	Java	research	up
+https://github.com/braunfuss/thermalintertia	Optimize for real thermal inertia from two differential thermal images	Matlab	research	up
+https://github.com/briemadu/codraw-icr-v1		Jupyter Notebook	research	up
+https://github.com/briemadu/inc-bidirectional		Python	research	up
+https://github.com/briemadu/inc-eval-revisions	Framework for evaluation of edits and revisions in incremental sequence labelling.	Jupyter Notebook	research	up
+https://github.com/briemadu/scorekeeping		Jupyter Notebook	research	up
+https://github.com/ClemensKubach/bicycle-bell-sed-models		Jupyter Notebook	research	up
+https://github.com/ClemensKubach/vae-art-restoration		Jupyter Notebook	research	up
+https://github.com/crpiceda/dynamictopography	Lab exercise on dynamic topography for Neotectonics and Geodynamics course at University of Potsdam		research	up
+https://github.com/dagtann/hardTimes	"Replication materials for ""Hard Times and Regime Failure. Autocratic Responses to Economic Downturns"""	R	research	up
+https://github.com/damariszurell/4D-niche-overlap	Codes for: Zurell D, Gallien L, Graham CH, Zimmermann NE (2018) Do long-distance migratory birds track their niche through seasons? Journal of Biogeography 45: 1459-1468.doi: 10.1111/jbi.13351	R	research	up
+https://github.com/damariszurell/SSDM-JSDM	Codes for Zurell et al. (2020) Testing species assemblage predictions from stacked and joint species distribution models. Journal of Biogeography 47: 101-113. DOI: 10.1111/jbi.13608.	R	research	up
+https://github.com/danielrm84/DeepLearning_AnimalVocalizations	This repository includes deep learning models I have developed during my postdoc in Hannover to process mouse lemur vocalizations data. They are in the form of jupyter notebooks. The first model is a binary classification problem intented to remove unwanted noise from the database. The second one is a multiclass supervised classification problem that classifies the data according to predefined categories	Jupyter Notebook	research	up
+https://github.com/danielrm84/Netlogo_Map_Generator	This is a map generator of artificial landscapes for Netlogo. It can be used to create scenarios of fragmented landscapes (habitat suitability maps)	NetLogo	research	up
+https://github.com/danielrm84/PanModel33	Hello! this is an eco-evolutionary model that I developed together with my colleagues Sandra Kahl, Sophia Paraskevopoulou, and Remco Folkertsma, as part of my PhD at the University of Potsdam, Germany. It was designed for theory development, communication and learning.	NetLogo	research	up
+https://github.com/danielrm84/Romero-Mujalli-et-al.-BMC-Evolutionary-Biology	This repository contains the data used for the paper in BMC Evolutionary Journal. For this project we used an extended version of the PanModel33 to simulate the evolution of the mutation rate. The PanModel33 can be found in its own repository (see my github repositories)	NetLogo	research	up
+https://github.com/danielrm84/Social-Learning-Project-Robotics	This repository contains the simulator I created and used for my research on social learning during my Master studies at the Simon Bolivar University in Venezuela. It consists of individual agents or robots navigating the arena and finding the target feeding patch. The movement behavior of each robot is governed by artificial neural networks (AI). The full simulator is programmed in C++ and can be visualized on Netlogo (optional).	C++	research	up
+https://github.com/delwarhub/Multimodal_Task_and_Feature_Attribution		HTML	research	up
+https://github.com/delwarhub/Multimodal_Task_with_Prompting_Large_Language_Models		Jupyter Notebook	research	up
+https://github.com/Diego-Dam/paper_co_creation_mobility_planning_germany	"This repository provides the scripts and data for recreating the results documented by Michelini G., Dametto D., & Michel in the paper ""Participation to co-creation: methods for the involvement of stakeholders in mobility planning in Germany"""	Jupyter Notebook	research	up
+https://github.com/discourse-lab/dimlex	A Lexicon of German discourse markers	XSLT	research	up
+https://github.com/discourse-lab/DisCoDict	A Dictionary of Dutch Discourse Connectives		research	up
+https://github.com/discourse-lab/pocores	coreference resolution for German	Python	research	up
+https://github.com/ekaterinailin/AltaiPony	Find flares in Kepler and TESS light curves. Notebooks for quickstart inside.	Jupyter Notebook	research	up
+https://github.com/ekaterinailin/flare-locations-ensembles-science		Python	research	up
+https://github.com/ekaterinailin/flaring-spi		Jupyter Notebook	research	up
+https://github.com/ekaterinailin/Orbital_Flare_Declustering	Orbital phase flare de-clustering in close-in star-planet systems	Jupyter Notebook	research	up
+https://github.com/ekaterinailin/TESS_UCD_flares	Find and analyse flares in TESS UCD light curves	Jupyter Notebook	research	up
+https://github.com/flying-bear/thesis	Automated Assessment of Discourse Coherence in Schizophrenia and Schizoaffective Disorder	Jupyter Notebook	research	up
+https://github.com/fpottbaecker/st-data-gen	Data generation utilities for spatial trascriptomics (especially scanpy).	Jupyter Notebook	research	up
+https://github.com/geveh/GLOFdetection	Scripts and input data to detect GLOFs from Landsat images and DEMs		research	up
+https://github.com/geveh/GLOFsusceptibility	Repository to model the susceptibility of Himalayan glaciers to sudden outburst floods.		research	up
+https://github.com/geveh/IceDamFailures		R	research	up
+https://github.com/geveh/ReportingBias	Scripts for estimating historic trends in GLOF occurrences and potential biases in reporting	R	research	up
+https://github.com/hallerp/dyslexia-seqmod		Python	research	up
+https://github.com/heyhen/funNCion	predicting LOF vs GOF variant effects in SCN and CACNA1 genes	R	research	up
+https://github.com/hkraemer/Border-effect-corrections-for-diagonal-line-based-recurrence-quantification-analysis-measures	"This repository contains all correction schemes proposed and used in the article ""Border effect corrections for diagonal line based recurrence quantification analysis measures"" (submitted to Physics Letters A)"	MATLAB	research	up
+https://github.com/hkraemer/PECUZAL_Julia	For Hauke and George's code on delay coordinate embedding	Julia	research	up
+https://github.com/hkraemer/PECUZAL_Matlab	PECUZAL implementation in Matlab	HTML	research	up
+https://github.com/hkraemer/PECUZAL_python		Python	research	up
+https://github.com/hpi-sam/minimum-wage-rl	Project to share documentation, source code and analyzes on the topic of simulating effects of minimum wage interventions on employment and other economic metrics.	Python	research	up
+https://github.com/hydrogo/KALI	KALI	Jupyter Notebook	research	up
+https://github.com/hydrogo/KALIv2	KALIv2	Jupyter Notebook	research	up
+https://github.com/hydrogo/LHMP	Lumped Hydrological Models Playgroud	Python	research	up
+https://github.com/hydrogo/rainnet	RainNet: a convolutional neural network for radar-based precipitation nowcasting	Python	research	up
+https://github.com/hydrogo/rainymotion	Python library for radar-based precipitation nowcasting based on optical flow techniques	Python	research	up
+https://github.com/jgontrum/uuparser-with-attention	A transistion-based dependency parser utilizing attention for predicting the correct transition/label.	Python	research	up
+https://github.com/jhilaire/ssawosacarb	Data analysis of carbonization patterns in Sub-Saharan Africa (without South Africa)	R	research	up
+https://github.com/juliusgarbe/modelling_sandbox	Examples of basic numerical modelling approaches used in ice-sheet modelling and some (very) simple ice-sheet models.	Jupyter Notebook	research	up
+https://github.com/juliusgarbe/pism-debm-simple	Code repository for PISM-dEBM-simple	C++	research	up
+https://github.com/katjakon/Coreference-Resolution	Ein Projekt für den Kurs Programmierung II im Sommersemester 2021	Python	research	up
+https://github.com/KatrinSch/msc-thesis-call-detection	Detection of bird calls during nocturnal migration using machine learning	R	research	up
+https://github.com/krr-up/bibliography	📚 BibTeX bibliography files of all papers referenced by the group	TeX	research	up
+https://github.com/linusha/bundesweiter-mietendeckel-visualisierung	This repository contains code for an interactive explanation/visualization of the effects a federal rent cap would have in Germany.	JavaScript	research	up
+https://github.com/linusha/twitter-sentiment-2020-election	"Code for data collection, processing and analysis as well as the data-set used for the research paper ""Crafting Audience Engagement in Social Media Conversations: Evidence from the U.S. 2020 Presidential Elections"" presented at HICSS 2022."	Python	research	up
+https://github.com/maxifischer/gensim-MCC	Masterthesis on Multi-Prototype Diachronic Word Embeddings	Python	research	up
+https://github.com/maximilian-gelbrecht/GhilSellersEBM.jl	Julia implementation of the Ghil-Sellers 1D Energy Balance Model	Julia	research	up
+https://github.com/maximilian-gelbrecht/MCBB.jl	Monte Carlo Basin Bifurcation Analysis	Jupyter Notebook	research	up
+https://github.com/mcvidomi/MFI	Measure of Feature Importance	HTML	research	up
+https://github.com/mittelmark/snha	St. Nicolas House Algorithm implementation in R - predicting correlation networks using association chains	R	research	up
+https://github.com/mmrabe/hypr	hypr is an R package for easy translation between experimental (null) hypotheses and contrast matrices as used for linear regression.	R	research	up
+https://github.com/paulrozdeba/varanneal	A Python package for state and parameter estimation in partially observed ODE and neural network systems, using variational annealing.	Python	research	up
+https://github.com/peldszus/arg-microtexts	An annotated corpus of argumentative microtexts	Python	research	up
+https://github.com/peldszus/arg-microtexts-multilayer	Argumentative microtexts annotated with RST, SDRT and argumentation structure	ActionScript	research	up
+https://github.com/peldszus/emnlp2015		Python	research	up
+https://github.com/peldszus/evidencegraph	Evidence graphs for parsing argumentation structure	Python	research	up
+https://github.com/peldszus/joty-rstparser-docker	Dockerfile for the Joty 2013 RST Parser	Dockerfile	research	up
+https://github.com/PFischbeck/cn-noise-experiments	"The code and data for the PAKDD 2023 paper ""The Common-Neighbors Metric is Noise-Robust & Reveals Substructures of Real-World Networks"""	Python	research	up
+https://github.com/PFischbeck/pygirgs	Python package for girgs and hypergirgs generators	Jupyter Notebook	research	up
+https://github.com/plauth/lib842		C	research	up
+https://github.com/potassco/benchmark-tool	🏎️ Git-mirror of the benchmark-tool	Python	research	up
+https://github.com/potassco/clingo-lpx	🧮 A simplistic simplex solver for checking satisfiability of a set of equations.	C++	research	up
+https://github.com/potassco/clingo-vs-telingo-planning		ASP	research	up
+https://github.com/potassco/clingo-xor	 📟 Clingo + XOR-constraints + Simplex	C++	research	up
+https://github.com/potassco/clingoLP	Theory propagator for linear programming using clingo theory language and interface.	Python	research	up
+https://github.com/potassco/ginkgo	🌱 Generalize learned constraints with ASP	C++	research	up
+https://github.com/potassco/pddl-instances	🌍 PDDL instances covering the International Planning Competitions	Common Lisp	research	up
+https://github.com/prassepaul/mlmed_transfer_learning	"This repository contains the code for the paper ""Pretraining on In-Vitro and Fine-Tuning on Patient-Derived Data Improves Neural Drug Sensitivity Models for Precision Oncology"""	Jupyter Notebook	research	up
+https://github.com/pschonev/deepanomaly4docs	"Code for Master thesis ""Deep Anomaly Detection for Text Documents"" (University of Potsdam, 2021)"	Jupyter Notebook	research	up
+https://github.com/resfahani/GMD	Construction of a Neural Network Autoencoder to map the Fourier spectral amplitudes of ground motion triggered by earthquakes to a low dimensional manifold	Jupyter Notebook	research	up
+https://github.com/resfahani/GVM-Player	Audiovisual representation of video streams together with multiple audio tracks.	JavaScript	research	up
+https://github.com/resfahani/SparseTFR	Sparse Time-Frequency representation (Sparse STFT, and Sparse Stockwell transfrom)	Python	research	up
+https://github.com/resfahani/SWDCI	Surface Wave Dispersion Curve Inversion	Python	research	up
+https://github.com/rknaebel/bbc-discourse	Discourse Relations extracted from BBC News Corpus for training a shallow discourse parser	Python	research	up
+https://github.com/rokcestnik/oscillator_snap	Python package for modeling oscillatory systems using artificial neural networks	Python	research	up
+https://github.com/RoshanRane/Deviance_explained	Deviance explained metric implemented in python	Jupyter Notebook	research	up
+https://github.com/RoshanRane/ML_for_IMAGEN		Jupyter Notebook	research	up
+https://github.com/RoshanRane/PredNet-and-Predictive-Coding-A-Critical-Review	Performing video classificaiton by using the predictive processing architecture. The model is trained in a self-supervised manner to predict the next frames in videos along with the supervised video action classification task.	Jupyter Notebook	research	up
+https://github.com/RoshanRane/segmentation-moving-MNIST	The Moving-MNIST video dataset reformulated for the task of semantic segmentation.	Jupyter Notebook	research	up
+https://github.com/Rullec/argus-win10	configure argus on win10	C++	research	up
+https://github.com/sarahkiener/compound-sensitivity	This repository contains the code and matrials that I used in my Master's Thesis to investigate and enhance the sensitivity of trained neural metrics to German compounds.	Python	research	up
+https://github.com/SemanticMultimedia/JungGraphMeasures	JungGraphMeasures - PageRank and HITS implementations for large RDF graphs 	Java	research	up
+https://github.com/susuhahnml/asp-game-strategies	Learning game strategies in ASP (clingo) using minimax and inductive logic programming (ILASP) :clubs: :game_die:	Python	research	up
+https://github.com/TamaraAtanasoska/AMR_ArgumentSimilarity	Argument and opinion mining Project Module - Reproduction project	Python	research	up
+https://github.com/tasmi/SnowmeltTracking	Algorithm for tracking the onset and end of the snowmelt season from passive microwave data	Python	research	up
+https://github.com/tasnimul-unipotsdam/EuroSAT		Python	research	up
+https://github.com/tasnimul-unipotsdam/ms_thesis	This repository contains code that are used in my thesis. 	Python	research	up
+https://github.com/TillF/directional_CRNS	Illustrate theoretical discernability and accuracy of CRNS signal of a directional CRNS probe	HTML	research	up
+https://github.com/TillF/ssc_prediction	prediction of sedigraphs and hydrographs from other predictors using RF / QRF	R	research	up
+https://github.com/ToBraun/RECLAC	RECLAC Python package	Jupyter Notebook	research	up
+https://github.com/TScheffler/Connectives			research	up
+https://github.com/TScheffler/UK_DiMLex	Lexicon of Ukrainian connectives		research	up
+https://github.com/tzwenn/myLambda	A minimalistic functional language. Play ground for wannabes. 	Python	research	up
+https://github.com/University-of-Potsdam-MM/cff2pages	This package should create a generic page based on your cff.	Python	research	up
+https://github.com/University-of-Potsdam-MM/GRANT	GRANT - GRafische ANwendungen auf Taktilen Displays	C#	research	up
+https://github.com/UP-macroecology/EBBA_Niche_vs_Range_shifts	Niche and range shifts analyses of European breeding bird atlas data.	R	research	up
+https://github.com/UP-macroecology/Malchow_DemogEnv_2022	"Supplementary informaion to the publication: ""Demography-environment relationships improve mechanistic understanding of range dynamics under climate change""  by Anne-Kathleen Malchow, Florian Hartig, Jette Reeg, Marc Kéry, and Damaris Zurell."	R	research	up
+https://github.com/UP-macroecology/Malchow_IBMcalibration_2023	"This is supplementary material to the publication  ""Fitting individual-based models of species range dynamics to long-term monitoring data""  by Anne-Kathleen Malchow, Guillermo Fandos, Urs G. Kormann, Martin Grüebler, Marc Kéry, Florian Hartig, Damaris Zurell."	R	research	up
+https://github.com/UP-macroecology/ODMAP		R	research	up
+https://github.com/UP-RS-ESP/DEM-KZP	Digital Elevation Model (DEM) and KnickZone-Picker (KZP) Analyzer (http://onlinelibrary.wiley.com/doi/10.1002/2017JF004250/full)	Matlab	research	up
+https://github.com/UP-RS-ESP/LidarPC-KDTree	Comparison of KDTree implementations for Lidar PointClouds (PC)	Jupyter Notebook	research	up
+https://github.com/UP-RS-ESP/mfdrouting	Multiple Flow Direction (MFD) flow routing after Freeman (1991)	C	research	up
+https://github.com/UP-RS-ESP/TopoMetricUncertainty	Uncertainties in topographic metrics due to truncation errors and elevation uncertainty	Python	research	up
+https://github.com/vasishth/HubermanBreathing	Reanalysis of a paper in Cell Reports in Medicine from the Huberman lab in Stanford on breathing.	HTML	research	up
+https://github.com/vasishth/HusainEtAlJEMR2015	Data and code relating to Husain, Narayanan, Vasishth, 2015. Integration and prediction difficulty in Hindi sentence comprehension: Evidence from an eye-tracking corpus. Journal of Eye Movement Research, 8(2):1-12, 2015.	Stan	research	up
+https://github.com/vasishth/manuscript_LogacevVasishth_CogSci_SMCM	Code + Data for the Logacev & Vasishth paper on underspecification and parallel processing. Proposes the SMCM as a task-dependent model of ambiguity resolution.	TeX	research	up
+https://github.com/vasishth/MetaAnalysisJaegerEngelmannVasishth2017	Code and data to accompany paper by L.A. Jäger, Engelmann, & Vasishth, 2017. Similarity-based interference in sentence comprehension:  Literature review and Bayesian meta-analysis.  Journal of Memory and Language. doi:10.1016/j.jml.2017.01.004	R	research	up
+https://github.com/vasishth/NicenboimVasishthPart2	Code and data to accompany the article Statistical methods for linguistic research: Foundational Ideas - Part II, by Bruno Nicenboim and Shravan Vasishth. Language and Linguistics Compass, 2016. doi: 10.1111/lnc3.12207	R	research	up
+https://github.com/vasishth/powerpose	Reanalysis of Carney, Cuddy, and Yap 2010 data on power posing.	Stan	research	up
+https://github.com/vasishth/StanJAGSexamples	Example code using Stan and JAGS for psycholinguistic data	R	research	up
+https://github.com/vasishth/uncertainty		R	research	up
+https://github.com/vasishth/VasishthNicenboimPart1	This repository contains the code and data that accompany the paper: Statistical methods for linguistic research: Foundational Ideas - Part I, by Shravan Vasishth and Bruno Nicenboim. Language and Linguistics Compass 10/8 (2016): 349–369, doi: 10.1111/lnc3.12201.	R	research	up
+https://github.com/vasishth/VNEBTiCS2019	code for the draft of the paper by Vasishth et al: Computational models of retrieval processes in sentence processing	R	research	up
+https://github.com/warpaint97/plan-merging-project	Project in Intelligent Logistics - University of Potsdam	Jupyter Notebook	research	up
+https://github.com/wschwanghart/ncquantreg	Non-crossing polynomial quantile regression	Matlab	research	up
+https://github.com/xarxaxdev/gans_blanc		Python	research	up
+https://github.com/XiaoxiangGuanGFZ/GR4J	GR4J hydrological model	R	research	up
+https://github.com/XiaoxiangGuanGFZ/kNN_MOF_cp	k-nearest resampling (kNN) and method-of-fragments (MOF) based rainfall temporal disaggregation model conditioned on circulation patterns (cp) (written in c)	C	research	up
+https://github.com/XiaoxiangGuanGFZ/KNN_MOF_CPs	weather variable temporal disaggregation model	Python	research	up
+https://github.com/XiaoxiangGuanGFZ/RCCC-WBM	Water Balance hydrological model from RCCC	R	research	up
+https://github.com/yadavhimanshu059/crossing_constraints_baselines		Python	research	up
+https://github.com/yadavhimanshu059/Hindi_DS_to_PS_Conversion	The algorithm can be run with input SSF format of Hindi-urdu Dependency Treebank. It will generate Phrase structure trees for the corresponding dependency trees. A have given a sample of dependency tree file that can be used as an input.	Python	research	up
+https://github.com/yadavhimanshu059/Hindi_DS_to_PS_Conversion_v2.0	This version of conversion algorithm handles non-projective trees. In addition to generating phrase structure trees for projective dependencies, the current version also converts the non-projective dependencies. This version of the our algorithm successfully converts 98.2% of the dependency trees.	Python	research	up
+https://github.com/yadavhimanshu059/LV05	R package for using Lewis and Vasishth (2005) model. Under testing.	R	research	up
+https://github.com/YanaPalacheva/avoidance_study	"Question Avoidance Study: the final project for the ""Question Processing"" module at Uni Potsdam."	Jupyter Notebook	research	up
+https://github.com/YanaPalacheva/experiments_neuralcoref	Neuralcoref adapted for Russian	Jupyter Notebook	research	up
+https://github.com/YanaPalacheva/lyrics-generation	Song lyrics generation based on RNN&Markov poetry generator.	Python	research	up
+https://github.com/yanweiser/Beyond-Task-Success-But-Bert		Jupyter Notebook	research	up
+https://github.com/zentrum-lexikographie/dwdsmor	SFST/SMOR/DWDS-based German Morphology	XSLT	research	up
+https://github.com/zentrum-lexikographie/eval-de-lemma		Jupyter Notebook	research	up
+			research	
+https://github.com/andrewdolman/Maehrlein_et_al_length_mass_data		R	research	awi
+https://github.com/andrewdolman/phytotraitr	An R data package for phytoplankton traits	R	research	awi
+https://github.com/EarthSystemDiagnostics/hamstr	An rstan implementation of Bacon-like age-depth modelling but with hierarchically structured multi-resolution depth scales.	R	research	awi
+https://github.com/EarthSystemDiagnostics/hamstrbacon	Interface between rbacon and hamstr	R	research	awi
+https://github.com/EarthSystemDiagnostics/optimalcores	An R software project to analyse optimal ice core locations.	R	research	awi
+https://github.com/EarthSystemDiagnostics/proxysnr	An R package to separate the common signal from local noise in climate proxy records using spectral analyses.	R	research	awi
+https://github.com/EarthSystemDiagnostics/psem	Proxy Spectral Error Model	R	research	awi
+https://github.com/EarthSystemDiagnostics/sedproxy	An R package for modelling sediment archived climate proxy records.	R	research	awi
+https://github.com/EarthSystemDiagnostics/simproxyage	An R package to simulate age uncertainty in layer-counted climate proxy records.	R	research	awi
+https://github.com/EarthSystemDiagnostics/TrenchR	An R package to analyse and plot trench-like proxy records	HTML	research	awi
+https://github.com/GPawi/CarbStock21k		Jupyter Notebook	research	awi
+https://github.com/GPawi/LANDO	LANDO: Linked age-depth modeling	Python	research	awi
+https://github.com/GPawi/LANDOnline	Repository for LANDO on binder / docker	MATLAB	research	awi
+https://github.com/GPawi/MAYHEM	"This repository contains scripts, figures and listings of data sources for the publication by Pfalz et al. - ""Harmonizing heterogeneous multi-proxy data from lake systems"". (submitted to Computers & Geosciences in 2020)"	Jupyter Notebook	research	awi
+https://github.com/slisovski/23-143-D-INSPIRES-B			research	awi
+https://github.com/slisovski/Bauer_et_al.-2018-JApplEcol	Supplemental code: Bauer et al. 2018 Journal of Applied Ecology	C++	research	awi
+https://github.com/slisovski/BTGodwit_Alaska_SnowNDVI	Seasonal characteristics and trends of snow melt data and vegetation greenup within the bar-tailed godwit (Limosa lapponica) breeding range in Alaska, US.		research	awi
+https://github.com/slisovski/Inspires			research	awi
+https://github.com/slisovski/invMovement	R package to identify and extract movement information from solar geolocation data.	R	research	awi
+https://github.com/slisovski/Lisovski-et-al.-2016-AmNat	Supplememtary Materials		research	awi
+https://github.com/slisovski/Lisovski-et-al.-2017-Oikos		R	research	awi
+https://github.com/slisovski/Optimal-migration-along-the-Indo-European-Flyway	Simulation code for: The Indo-European Flyway: Opportunities and constraints reflected by Common Rosefinches breeding across Europe. Lisovski et al. 2021 Journal of Biogeography	R	research	awi
+https://github.com/slisovski/SGAT_calibration_movement	Code and description of methods that can be applied to calibrate light-level geolocation data and perform movement analysis	R	research	awi
+https://github.com/slisovski/van-Gils-et-al.-2016-Science	Appendix: van Gils et al. 2016 Science	R	research	awi
+https://github.com/twollnik/YETI	A bottom-up traffic emission calculation tool developed at the Institute for Advanced Sustainability Studies in Potsdam and built in Python.	Python	research	awi
+https://github.com/Aaronzinhoo/SingleShotDetector-TF	Single Shot Detector created in Tensorflow	Python	research	hpi
+https://github.com/abstraktor/multileveldebugging-QoppaS	qoppa in squeak	HTML	research	hpi
+https://github.com/aksub99/molecular-vae	"Pytorch implementation of the paper ""Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules"""	Jupyter Notebook	research	hpi
+https://github.com/aksub99/U-Net-Pytorch	Pytorch implementation of U-Net	Python	research	hpi
+https://github.com/arne-z/BachelorThesis		TeX	research	hpi
+https://github.com/bptlab/Context-Aware-Change-Pattern-Detection		Jupyter Notebook	research	hpi
+https://github.com/bptlab/relationships-between-change-patterns		Jupyter Notebook	research	hpi
+https://github.com/bptlab/scylla	Extensible BPMN process simulator	Java	research	hpi
+https://github.com/Buguemar/GRTC_GNNs	Public repository of our paper accepted to the Findings of EMNLP 2023: Graph Representations for Text Classification Using GNNs: Exploring Advantages and Limitations.	Jupyter Notebook	research	hpi
+https://github.com/calclavia/DeepJ	A deep learning model for style-specific music generation.	Python	research	hpi
+https://github.com/calclavia/NOS	Neural optimizer search based on https://arxiv.org/pdf/1709.07417.pdf	Python	research	hpi
+https://github.com/calclavia/Performer-Pytorch	"Pytorch implementation of Performer from the paper ""Rethinking Attention with Performers""."	Python	research	hpi
+https://github.com/calclavia/story-generation	Code for Improving Neural Story Generation by Targeted Common Sense Grounding	Python	research	hpi
+https://github.com/calclavia/tal-asrd	Code for the Paper Speech Recognition and Multi-Speaker Diarization of Long Conversations	Python	research	hpi
+https://github.com/cenguix/Text2KGBench	Repo ISWC-2023 Tekgen Corpus Submission	Jupyter Notebook	research	hpi
+https://github.com/chrisseaton/dfscala-benchmarks	Benchmarks for DFScala	Scala	research	hpi
+https://github.com/chrisseaton/low-overhead-polling-ruby	Low Overhead Polling For Ruby	C	research	hpi
+https://github.com/christianwarmuth/explainable-predictive-process-monitoring-with-text	On the Potential of Textual Data for Explainable Predictive Process Monitoring (ICPM 2022)	Jupyter Notebook	research	hpi
+https://github.com/christianwarmuth/treatment-based-patient-discharge-classification	Patient Discharge Classification based on the Hospital Treatment Process (ICPM 2021)	Jupyter Notebook	research	hpi
+https://github.com/cosminbasca/ellipsedetector	"The project offers an implementation of the Randomized Hough Transform for Ellipse Detection, as described in the Basca et al. article (1).  (1) Cosmin A. Basca, Mihai Talos and Remus Brad, Randomized Hough Transform for Ellipse Detection with Result Clustering, Proceedings of IEEE EUROCON 2005, The International Conference on ""Computer as a Tool"", vol. II, pp.1397-1400, Belgrade Serbia November 2005, ISBN 1-4244-0049-X, http://remus.ulbsibiu.ro/publications/papers/eurocon2005.pdf"	Java	research	hpi
+https://github.com/danijar/crafter	Benchmarking the Spectrum of Agent Capabilities	Python	research	hpi
+https://github.com/danijar/daydreamer	DayDreamer: World Models for Physical Robot Learning	Jupyter Notebook	research	hpi
+https://github.com/danijar/diamond_env	Standardized Minecraft Diamond Environment for Reinforcement Learning	Python	research	hpi
+https://github.com/danijar/dreamer	Dream to Control: Learning Behaviors by Latent Imagination	Python	research	hpi
+https://github.com/danijar/dreamerv2	Mastering Atari with Discrete World Models	Python	research	hpi
+https://github.com/danijar/dreamerv3	Mastering Diverse Domains through World Models	Python	research	hpi
+https://github.com/danijar/elements	Building blocks for productive research	Python	research	hpi
+https://github.com/danijar/embodied	Fast reinforcement learning research	Python	research	hpi
+https://github.com/danijar/imptools	Tools for improving Python imports	Python	research	hpi
+https://github.com/danijar/layered	Clean implementation of feed forward neural networks	Python	research	hpi
+https://github.com/erksch/fnet-pytorch	Unofficial PyTorch implementation of Google's FNet: Mixing Tokens with Fourier Transforms. With checkpoints.	Python	research	hpi
+https://github.com/ferbsx/Fungal-DeePaC	code and supplemantary materials for my Master's thesis	R	research	hpi
+https://github.com/florian-papsdorf/kip-company-acquisition	Modelling the company acquisition process with its knowledge-intensive nature		research	hpi
+https://github.com/fmannhardt/pddp	Process Discovery with Differential Privacy	C#	research	hpi
+https://github.com/gvanrossum/old-demos	Very old demos and examples removed from the cpython repo	Python	research	hpi
+https://github.com/HaidYi/admm-l1-2-logistic-regression	Admm l1/2 logistic regression using MPI and GSL	C	research	hpi
+https://github.com/HaidYi/cvxbiclustr	Accelerated Full Path Solution for Convex Biclustering	C++	research	hpi
+https://github.com/HaidYi/DASC	Detecting hidden batch factors through data adaptive adjustment for biological effects	R	research	hpi
+https://github.com/hdnl/sparse-bert-ner		Python	research	hpi
+https://github.com/hpi-swa-lab/babylonian-programming-smalltalk	An implementation of the Babylonian Programming Editor for Squeak/Smalltalk	Smalltalk	research	hpi
+https://github.com/hpi-swa-lab/home-desktop-system	The Home Desktop System	Smalltalk	research	hpi
+https://github.com/hpi-swa-lab/SandBlocks-BlocksToTheRescue	Blocks to the Rescue: Live Exploration of an Interactive Environment to Support Education, Construction, and Reflection in Program Design	StringTemplate	research	hpi
+https://github.com/hpi-swa-lab/squeak-inbox-talk	Bringing squeak-dev into your image	Smalltalk	research	hpi
+https://github.com/hpi-swa-lab/squeak-polymorphic-identifiers	A Squeak/Smalltalk implementation of polymorphic identifiers	Smalltalk	research	hpi
+https://github.com/hpi-swa-lab/squeak-tracedebugger	A lightweight and efficient back-in-time debugger for Squeak to trace and retrace past method invocations and state changes. Powered by SimulationStudio.	Smalltalk	research	hpi
+https://github.com/JakobEdding/Collaborative-Filtering-Kafka		Java	research	hpi
+https://github.com/jaSunny/MA-enriched-Health-Data		R	research	hpi
+https://github.com/jirkamarsik/esa-wordseg	An implementation of the ESA unsupervised word segmentation algorithm in Clojure.	Clojure	research	hpi
+https://github.com/kanihal/vatic_modified		HTML	research	hpi
+https://github.com/Lando-L/ocd-detection	The aim of this project is to make the assessment and treatment of OCD more accessible and effective. 	Python	research	hpi
+https://github.com/LeonBein/masterThesisCode		Jupyter Notebook	research	hpi
+https://github.com/levjj/wahlomat-visualization	Visualization of the Wahl-o-mat	Python	research	hpi
+https://github.com/LinqLover/downstream-repository-mining	Mine usage information about your JavaScript/TypeScript package from dependent repositories.	TypeScript	research	hpi
+https://github.com/linusha/twitter-saxony-anhalt-election-2021-sentiment	"Code and data used in the research paper ""Emotions and Information Diffusion on Social Media: A Replication in the Context of Political Communication on Twitter"" (Hagemann, L., Abramova, O.), to be published in AIS Transactions on Replication Research."	HTML	research	hpi
+https://github.com/linusha/twitter-sentiment-2020-election	"Code for data collection, processing and analysis as well as the data-set used for the research paper ""Crafting Audience Engagement in Social Media Conversations: Evidence from the U.S. 2020 Presidential Elections"" presented at HICSS 2022."	Python	research	hpi
+https://github.com/luisebenkert/Potree-Extension		JavaScript	research	hpi
+https://github.com/m0e33/REST-bot		Python	research	hpi
+https://github.com/marcfreiheit/generic-functions-squeak	An implementation of generic functions in Squeak/Smalltalk	Smalltalk	research	hpi
+https://github.com/maxifischer/gensim-MCC	Masterthesis on Multi-Prototype Diachronic Word Embeddings	Python	research	hpi
+https://github.com/mdickinson/polyhedron	Robust point-in-polyhedron testing.	Python	research	hpi
+https://github.com/nicolas-alder/difflogictest		Python	research	hpi
+https://github.com/nicolas-alder/KAFKA-EFDT	"Implementing the paper ""Extremely Fast Decision Tree"" on Apache Kafka by Nicolas B. Alder and Henrik Wenck"	Java	research	hpi
+https://github.com/onsetsu/d3-bundleview	A d3 implementation of bundleviews (circular edge bundles)	JavaScript	research	hpi
+https://github.com/PFischbeck/cn-noise-experiments	"The code and data for the PAKDD 2023 paper ""The Common-Neighbors Metric is Noise-Robust & Reveals Substructures of Real-World Networks"""	Python	research	hpi
+https://github.com/prithviraj-maurya/mapreduce-based-machine-learning	Large-scale Artificial Neural Network: MapReduce-based for Machine Learning	Python	research	hpi
+https://github.com/SanJSp/FCMFromSudbueBasedPatternExtractor	This is an implementation of a toolchain to extract FCM patterns from event logs	Python	research	hpi
+https://github.com/ThorbenLindhauer/cosimin	Efficient search by similarity in large amounts of vectors.	Java	research	hpi
+https://github.com/timgarrels/LazyFox	Parallelization enabled Implementation of FOX, an Overlapping Clustering Algorithm	C++	research	hpi
+https://github.com/timgarrels/TableRecognition21	Table Recognition Seminar SS21 HPI	Jupyter Notebook	research	hpi
+https://github.com/Tobias314/blainder	Copy of the original BlAInder repository with minor modifications	Python	research	hpi
+https://github.com/witsyke/thesis	Masterthesis: On mobility for COVID-19 forecasts in Germany using Ordinary Differential Equations and Graph Neural Networks	R	research	hpi

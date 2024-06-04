@@ -1,0 +1,944 @@
+﻿html_url;description;organisation;research_group;project
+https://github.com/Open-Systems-Pharmacology/Suite;Open Systems Pharmacology Suite Setup ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/PK-Sim;PK-Sim¬Æ is a comprehensive software tool for whole-body physiologically based pharmacokinetic modeling;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/MoBi;MoBi¬Æ is a software tool for multiscale physiological modeling and simulation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Matlab-Toolbox;Collection of Matlab¬Æ functions for the processing of PK-Sim¬Æ or MoBi¬Æ models;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/R-Toolbox;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Vision-Mission;Vision & Mission of Open Systems Pharmacology ;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.BDDHelper;Helper functions for BDD Development used in the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Forum;Discussion forum for the Open Systems Pharmacology Project;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/MiKTeX;MiKTeX distribution used by the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.Utility;Cross-cutting concerns implementation used in the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.Serializer;Xml serialization engine used in the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.DataBinding;DataBinding framework for WinForms application used in the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.DataBinding.DevExpress;DataBinding Framework for DevExpress components used by the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.TeXReporting;LaTeX Reporting Component for the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/DCI;Data Component Interface used in the Open-Systems-Pharmacology Suite ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.FuncParser;Function parser for numeric and logic expressions used by the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.SimModel;Calculation engine for models built with PK-Sim¬Æ or MoBi¬Æ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.SimModel.Solver.CVODES.282;ODE solver used by OSPSuite.SimModel. Based on CVODES solver version 2.8.2 (Copyright ¬© 2002-2016, Lawrence Livermore National Security);startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.SimModelSolverBase;Base implementation for all solver used by OSPSuite.SimModel;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/build-scripts;Collection of rake tasks used during build;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.Core;Core functionalities of the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.Dimensions;List of dimensions supported by the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.PKParameters;List of PK parameters supported by the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation;Documentation files for the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/InstallationValidator;Installation Validation Tool for the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Glucose-Insulin-Model;The physiologically-based whole-body model of the glucose-insulin-glucagon regulatory system;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/PAGE2017-Budapest;Training materials for the OSP workshop at PAGE 2017 Budapest;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/ISSX-2017-Cologne;Training materials for the OSP workshop at ISSX 2017, Cologne;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/ISOP-webinar---PK-Sim-MoBi-introduction;ISOP QSP Webinar Series: Bridging and Tackling the Gap between Empirical and Systems Pharmacology Models: Where do we stand? Part 7: PK-Sim/Mobi ‚Äì Open Systems Pharmacology Suite by Jan Schlender;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/OSP-based-publications-and-content;Publications of all kind based on the Open Systems Pharmacology Suite;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Example_Diclofenac;MoBi example projects for Diclofenac;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Example_ManualModel;MoBi example project for a model created in MoBi from scratch;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Example_Aciclovir;PK-Sim example project for Aciclovir;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Example_Caffeine;PK-Sim example project for Caffeine;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Example_Paracetamol;PK-Sim example project for Paracetamol;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Example_Theophylline;PK-Sim example project for Theophylline;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Reporting-Engine;(Matlab) Reporting-Engine;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Matlab-Toolbox-Core;Collection of Matlab¬Æ core functions for the processing of PK-Sim¬Æ or MoBi¬Æ models ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/ACoP-2017-FortLauderdale;Training materials for the OSP workshop at ACoP 2017, Fort Lauderdale;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.SimModel.Schema;Schema definition for xml model created for the OSPSuite.SimModel calculation engine ;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/open-systems-pharmacology.github.io;Open Systems Pharmacology Website (www.open-systems-pharmacology.org);startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Pregnancy-Models;Physiologically Based Pharmacokinetic Models for Pregnant Women;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/ICRP-Extended;On going work regarding ICRP Population improvement;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/PAGE-2018-Workshop;PK-Sim¬Æ & MoBi¬Æ (OSPS¬Æ) workshop on integrating PBPK with QSP for in-silico first-in-man PD predictions ;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/PharMetrX-Workshop-March-2018;Training materials for the PharMetrX POSP PBPK workshop, Potsdam March 2018;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Exemplary-Protein-Models;Exemplary Protein PBPK Models ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/ACoP-2018-Workshop;PK-Sim¬Æ & MoBi¬Æ (OSPS¬Æ) workshop on integrating PBPK with QSP;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/BOSTON-2018-Workshop; PK-Sim¬Æ & MoBi¬Æ workshop on integrating PBPK with QSP;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/2-Day-BOSTON-Workshop-2018;PK-Sim¬Æ & MoBi¬Æ (OSPS¬Æ) workshop on integrating PBPK with QSP;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Clarithromycin-Model;Whole-body PBPK model of clarithromycin as CYP3A4 and P-gp DDI perpetrator drug ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Alfentanil-Model;Whole-body PBPK model of alfentanil as CYP3A4 DDI victim drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Digoxin-Model;Whole-body PBPK model of digoxin as P-gp DDI victim drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Itraconazole-Model;Whole-body PBPK model of itraconazole as CYP3A4 and P-gp DDI perpetrator drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Midazolam-Model;Whole-body PBPK model of midazolam as CYP3A4 DDI victim drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Model;Whole-body PBPK model of rifampicin as CYP3A4 and P-gp DDI perpetrator drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Clarithromycin-Midazolam-DDI;Modeling of published clinical Clarithromycin-Midazolam-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Itraconazole-Digoxin-DDI;Modeling of published clinical Itraconazole-Digoxin-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Itraconazole-Midazolam-DDI;Modeling of published clinical Itraconazole-Midazolam-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Alfentanil-DDI;Modeling of published clinical Rifampicin-Alfentanil-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Digoxin-DDI;Modeling of published clinical Rifampicin-Digoxin-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Midazolam-DDI;Modeling of published clinical Rifampicin-Midazolam-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Clarithromycin-Digoxin-DDI;Modeling of published clinical Clarithromycin-Digoxin-DDI studies for model evaluation ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Hormonal-Contraceptive-Agents-Datasets; Concentration data from studies performed during proprietary drug development  programs by Bayer;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/docs;Open Systems Pharmacology  - Live Documentation;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Protein-Abundance-Database;WIP: Protein Abundance Database;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/SGLT2i-hyperfiltration-model;A Quantitative Systems Pharmacology kidney model of diabetes associated renal hyperfiltration and the effects of SGLT inhibitors.;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/QualificationPlan;Creation and processing of a qualification plan;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Gene-Expression-Databases;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/BERLIN-2019-WORKSHOP;[FULLY BOOKED] SGS Exprimo and the FU Berlin will run a two-days hands-on PK-Sim¬Æ & MoBi¬Æ workshop on introducing PBPK for human dose projection and drug-drug interaction (DDI) prediction on 21st-22nd Feb 2019 at the Institute of Pharmacy, FU-Berlin, Germany.;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/2-Day-WASHINGTON-Workshop-2019;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.SimModel.Solver.CVODES;ODE solver used by OSPSuite.SimModel. Based on CVODES solver (Copyright ¬© 2002-2018, Lawrence Livermore National Security);startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/PAGE-2019-PB-QSP-Workshop;PK-Sim¬Æ & MoBi¬Æ (OSP Suite) workshop on PBPK-basd QSP;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/PAGE-2019-PBPK-Workshop;PK-Sim¬Æ & MoBi¬Æ (OSP Suite) workshop on PBPK;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/2-Day-Orlando-Workshop-2019;PK-Sim¬Æ & MoBi¬Æ workshop on PBPK and PBPK-based QSP;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/QualificationRunner;Qualification runner in charge of managing a qualification workflow;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Model;Whole-body PBPK model of fluvoxamine as CYP1A2 and CYP3A4 DDI perpetrator drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Theophylline-DDI;Modeling of published clinical Fluvoxamine-Theophylline-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Theophylline-DDI;Modeling of published clinical Rifampicin-Theophylline-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Caffeine-DDI;Modeling of published clinical Fluvoxamine-Caffeine-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Midazolam-DDI;Modeling of published clinical Fluvoxamine-Midazolam-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Theophylline-Model;Whole-body PBPK model of theophylline as CYP1A2 DDI victim drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Triazolam-Model;Whole-body PBPK model of triazolam;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Alprazolam-Model;Whole-body PBPK model of alprazolam;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/PharMetrX-Workshop-March-2019;Training materials for the PharMetrX POSP PBPK workshop, Potsdam March 2019;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/IFN-alpha;A multiscale QSP model of IFN-alpha induced activation of the JAK/STAT pathway in human liver cells (Kalra et al., 2019);startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite-R;R package for the OSPSuite;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/markdown-joiner;Reporting tool allowing different markdown files to be exported in a cohesive structure (html, md, pdf);startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Qualification-text-modules;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Skin-permeation-model;Implementation of Dancik et al (2013) skin permeation model in MoBi;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Qualification-DDI-CYP3A4;Qualification of OSP platform for CYP3A4-mediated DDI;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Gemfibrozil-Model;Whole-body PBPK model of gemfibrozil as CYP2C8 and OATP1B1 DDI perpetrator drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Repaglinide-Model;Whole-body PBPK model of repaglinide as CYP2C8, CYP3A4, OATP1B1 and OATP1B3 DDI victim drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Pioglitazone-Model;Whole-body PBPK model of pioglitazone as CYP2C8 DDI victim drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Gemfibrozil-Repaglinide-DDI;Modeling of published clinical gemfibrozil-repaglinide-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Gemfibrozil-Pioglitazone-DDI;Modeling of published clinical gemfibrozil-pioglitazone-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Itraconazole-Repaglinide-DDI;Modeling of published clinical itraconazole-repaglinide-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Itraconazole-Pioglitazone-DDI;Modeling of published clinical itraconazole-pioglitazone-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Gemfibrozil-Itraconazole-Repaglinide-DDI;Modeling of published clinical gemfibrozil-itraconazole-repaglinide-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Gemfibrozil-Itraconazole-Pioglitazone-DDI;Modeling of published clinical gemfibrozil-itraconazole-pioglitazone-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Repaglinide-DDI;Modeling of published clinical rifampicin-repaglinide-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Pioglitazone-DDI;Modeling of published clinical rifampicin-pioglitazone-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Clarithromycin-Repaglinide-DDI;Modeling of published clinical clarithromycin-repaglinide-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Amikacin-Model;Whole-body PBPK model of Amikacin;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Vancomycin-Model;Whole-body PBPK model of Vancomycin ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Pregabalin-Model;Whole-body PBPK model of Pregabalin;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Sufentanil-Model;Whole-body PBPK model of Sufentanil;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/ACoP-10-PBPK-Workshop-2019;PBPK Workshop at ACoP 10 2019;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/ACoP-10-Antibody-PBPKPD-Workshop-2019;Workshop on PBPK/PD of ADCs in Tumor Treatment;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Montelukast-Model;Whole-body PBPK model of montelukast;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Paclitaxel-Model;Whole-body PBPK model of paclitaxel;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Pediatric_Qualification_Package_GFR_Ontogeny;Pediatric Qualification Package for GFR Ontogeny ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Pediatric_Qualification_Package_CYP3A4_Ontogeny;Pediatric Qualification Package for CYP3A4 Ontogeny ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Pediatric_Qualification_Package_CYP2C8_Ontogeny;Pediatric Qualification Package for CYP2C8 Ontogeny ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/TLF-Library;TLF Library implementation in R;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Boston-PBPKPD-Workshop-Sept-2019;PBPK/PD Workshop for Small Molecules and Antibodies with PK-Sim and MoBi;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/OSMOSES;Open-Source MOdeling framework for automated quality control and management of complex life Science systEms modelS (OSMOSES);startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Dapagliflozin-Model;Whole-body PBPK model of dapagliflozin;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Evaluation-plan-template;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Raltegravir-Model;Whole-body PBPK model of Raltegravir;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Atazanavir-Raltegravir-DDI;Modeling of published clinical atazanavir-raltegravir-DDI studies ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Atazanavir-Model;Whole-body PBPK model of atazanavir ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Mefenamic_acid-Dapagliflozin-DDI;Modeling of published clinical mefenamic acid-dapagliflozin-DDI studies;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.ReportingEngine;R implementation of the reporting engine ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Ondansetron-Model;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Oxycodone-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/ASCPT-Satelite-OSPS-Workshops;ASCPT2020 satellite workshops: PK-Sim¬Æ & MoBi¬Æ hands-on training for PBPK and PBPK-based QSP at University of Houston, College of Pharmacy (www.esqlabs.com/news-events);startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/rClr;R package for accessing .NET;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/QSPC-Satellite-OSPS-Workshops;QSPC2020 satellite workshops: PK-Sim¬Æ & MoBi¬Æ hands-on training for PBPK and PBPK-based QSP in Leiden, Netherlands (April 21st and 25th) (www.esqlabs.com/news-events) ;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/OSPS-Workshop-Afrika-Cape-Town-2020;PK-Sim goes Africa! Open source PBPK modelling with the OSPSuite (PK-Sim¬Æ & MoBi¬Æ) for MIDD at WCOP2020;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Qualification-DDI-UGT;Qualification of UGT-mediated drug-drug interactions;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Mefenamic-acid-Model;Whole-body PBPK model of mefenamic acid;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Database-for-observed-data;Database for published pharmacokinetic data;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPS-PBPK-and-QSP-Workshop-at-PAGE-2020;PAGE 2020 satellite workshops: PK-Sim¬Æ & MoBi¬Æ hands-on training for PBPK and PBPK-based QSP (www.esqlabs.com/news-events) ;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Idarucizumab-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Dabigatran-Reversal-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/tracelib;package to capture and store workflow traceability metadata;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/test-appveyor;Repository for testing purposes only;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.CentOS;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Itraconazole-Alprazolam-DDI;Modeling of published clinical Itraconazole-Alprazolam-DDI studies for model evaluation ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Itraconazole-Triazolam-DDI;Modeling of published clinical Itraconazole-Triazolam-DDI studies for model evaluation ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Erythromycin-Midazolam-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Erythromycin-Alprazolam-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Erythromycin-Alfentanil-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Erythromycin-Triazolam-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Clarithromycin-Triazolam-DDI;Modeling of published clinical Clarithromycin-Triazolam-DDI studies for model evaluation ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Alprazolam-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Nicotine-Cotinine-Model;Whole-body PBPK/PD model of nicotine and cotinine;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Alprazolam-DDI;Modeling of published clinical Rifampicin-Alprazolam-DDI studies for model evaluation ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Triazolam-DDI;Modeling of published clinical Rifampicin-Triazolam-DDI studies for model evaluation ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Efavirenz-Model;Whole-body PBPK model of efavirenz as CYP3A4 perpetrator drug ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Efavirenz-Midazolam-DDI;Modeling of published clinical Efavirenz-Midazolam-DDI studies for model evaluation ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Efavirenz-Alfentanil-DDI;Modeling of published clinical Efavirenz-Alfentanil-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSP-Qualification-Reports;Qualification Reports recreated with every new OSP Release;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library;Library of released PBPK substance models and evaluation reports;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Erythromycin-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Verapamil-Midazolam-DDI;Modeling of published clinical Verapamil-Midazolam-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Verapamil-Model;Verapamil PBPK model (parent only);startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Metformin-Model;Whole-body PBPK model of metformin (OCT2/MATE DDI victim drug);startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Cimetidine-Metformin-DDI;Modeling of published clinical Cimetidine-Metformin-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Cimetidine-Midazolam-DDI;Modeling of published clinical Cimetidine-Midazolam-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Cimetidine-Model;Whole-body PBPK model of cimetidine (OCT2/MATE and CYP3A4 DDI perpetrator drug);startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Incretins-Model;Physiologically-based Quantitative Systems Pharmacology model of GLP-1 and GIP and DPP4-inhibitor sitagliptin;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.CPP-Toolbox;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/PharMetrX-Workshop-June-2020;Training materials for the PharMetrX OSP PBPK workshop, online, June 2020;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Buprenorphine-Model;Whole-body PBPK models of buprenorphine for adults, children and preterm neonates;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/CompiledModel-Template;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Amoxicillin-Model;Whole-body PBPK model of intravenously administered amoxicillin for adults, pregnant women and postpartum women;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fentanyl-Model;Physiologically-Based Pharmacokinetic (PBPK) Modeling of Fentanyl in Adults and Pediatric Patients;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Lung-absorption-model;Pulmonary drug absorption implemented in MoBi (Eriksson et al. 2020);startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Roadmap;Roadmap for the Open Systems Pharmacology Platform;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Trimethoprim-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Trimethoprim-Metformin-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Trimethoprim-Repaglinide-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Trimethoprim-Pioglitazone-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Trimethoprim-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Levonorgestrel;Whole-body PBPK model of levonorgestrel with and without ethinyl estradiol as CYP3A4 DDI victim drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Cimetidine-Verapamil-DDI;Modeling of published clinical Cimetidine-Verapamil-DDI studies for model evaluation ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Cimetidine-Alprazolam-DDI;Modeling of published clinical Cimetidine-Alprazolam-DDI studies for model evaluation ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Cimetidine-Triazolam-DDI;Modeling of published clinical Cimetidine-Triazolam-DDI studies for model evaluation ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Cimetidine-Alfentanil-DDI;Modeling of published clinical Cimetidine-Alfentanil-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Furosemide-Model;Whole-body PBPK model of furosemide (OAT victim drug) ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Probenecid-Model;Whole-body PBPK model of probenecid (OAT perpetrator drug);startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Probenecid-Furosemide-DDI;Modeling of published clinical Probenecid-Furosemide-DDI studies for model evaluation ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Probenecid-Rifampicin-DDI;Modeling of published clinical Probenecid-Rifampicin-DDI studies for model evaluation ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Verapamil-DDI;Modeling of published clinical Rifampicin-Verapamil-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/BE-Studies;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Ethinylestradiol-Model;Whole-body PBPK model of ethinylestradiol as CYP1A2 DDI perpetrator drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Mexiletine-Model;Whole-body PBPK model of mexiletine as CYP1A2 DDI substrate and inhibitor drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Moclobemide-Model;Whole-body PBPK model of moclobemide as  a substrate and a moderate inhibitor of CYP2C19;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Omeprazole-Model;Whole-body PBPK model of omeprazole as a substrate of CYP2C19 and CYP3A4 and an inhibitor of CYP2C19.;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/S-Mephenytoin-Model;Whole-body PBPK model of s-mephenytoin as a substrate of CYP2C19;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Tizanidine-Model;Whole-body PBPK model of tizanidine as a substrate of CYP1A2;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Metoprolol-Model;PBPK model of metoprolol and metoprolol-CYP2D6 drug-gene interactions;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Ethinylestradiol-Caffeine-DDI;Modeling of published clinical Ethinylestradiol-Caffeine-DDI studies for model evaluation.;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Mexiletine-Caffeine-DDI;Modeling of published clinical Mexiletine-Caffeine-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Mexiletine-DDI;Modeling of published clinical Fluvoxamine-Mexiletine-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Ethinylestradiol-Tizanidine-DDI;Modeling of published clinical Ethinylestradiol-Tizanidine-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Tizanidine-DDI;Modeling of published clinical Fluvoxamine-Tizanidine-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Mexiletine-Tizanidine-DDI;Modeling of published clinical Mexiletine-Tizanidine-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Omeprazole-DDI;Modeling of published clinical Fluvoxamine-Omeprazole-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Moclobemide-Omeprazole-DDI;Modeling of published clinical Moclobemide-Omeprazole-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluvoxamine-S-mephenytoin-DDI;Modeling of published clinical Fluvoxamine-S-mephenytoin-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Qualification-DDI-CYP1A2;Qualification of OSP platform for CYP1A2-mediated DDI;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Qualification-DDI-CYP2C19;Qualification of OSP platform for CYP2C19-mediated DDI;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Inhalation-model;Implementation of inhalation model in MoBi;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite-Epics;Repository used to define epics for our releases;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Quetiapine-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Aripiprazole-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Bupropion-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Bupropion-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Voriconazole-Bupropion-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/PharMetrX-Workshop-April-2021;Training materials for the PharMetrX OSP PBPK workshop, online, April 2021;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Carbamazepine-Model;PBPK model of carbamazepine as CYP3A4 and CYP2B6 substrate and inducer;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Carbamazepine-Alprazolam-DDI;Modeling of published clinical Carbamazepine-Alprazolam-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Carbamazepine-Bupropion-DDI;Modeling of published clinical Carbamazepine-Bupropion-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Erythromycin-Carbamazepine-DDI;Modeling of published clinical Erythromycin-Carbamazepine DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Carbamazepine-Efavirenz-DDI;Modeling of published clinical Carbamazepine-Efavirenz DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/FDA-OSP-workshop-April-2021;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Irinotecan-Model;Whole-body PBPK model of Irinotecan (CPT-11) & SN-38 determining tumor tissue kinetics of both parent drug & active metabolite.;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/IVIVC-with-particle-dissolution-module-in-OSP;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.ParameterIdentification;R package for parameter identification for OSPS models;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Cabozantinib-Model;Cabozantinib PBPK;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Docker-Base-Images;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Docker-Images;Temporary solution - images are created manually. Later docker images should be created automatically as part of CI;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Docker-Images-Ospsuite-R;Temporary solution - images are created manually. Later docker images should be created automatically as part of CI;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Docker-Images-ReportingEngine;Temporary solution - images are created manually. Later docker images should be created automatically as part of CI;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Fluconazole-Model;Whole-body PBPK model of fluconazole ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/BIGS-Workshop-2021---University-of-Bonn;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Finerenone-Model;Whole-body PBPK model of finerenone (KERENDIA).;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Alfentanil-Pediatrics;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Amikacin-Pediatrics;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Raltegravir-Pediatrics;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Montelukast-Pediatrics;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Sufentanil-Pediatrics;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Vancomycin-Pediatrics;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluconazole-Alfentanil-DDI;Modeling of published clinical Fluconazole-Alfentanil-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluconazole-Midazolam-DDI;Modeling of published clinical Fluconazole-Midazolam-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Fluconazole-Triazolam-DDI;Modeling of published clinical Fluconazole-Triazolam-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Propofol-Pediatrics;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Propofol-Model;Whole-body pbpbk model of Propofol;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Pediatric_Qualification_Package_UGT1A1_Ontogeny;Pediatric Qualification Package for UGT1A1 Ontogeny;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Rosuvastatin-DDI;Modeling of published clinical Rifampicin-Rosuvastatin-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Gemfibrozil-Rosuvastatin-DDI;Modeling of published clinical Gemfibrozil-Rosuvastatin-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Probenecid-Rosuvastatin-DDI;Modeling of published clinical Probenecid-Rosuvastatin-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rosuvastatin-Model;Whole-body PBPK model of rosuvastatin (OATP1B1/OATP1B3/BCRP DDI victim drug);startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Pediatric_Qualification_Package_UGT1A9_Ontogeny;Pediatric Qualification Package for UGT1A9 Ontogeny ;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.BuildingBlockTemplates;List of PK-Sim building block templates available on demand for PK-Sim users;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/OSPSuite.RUtils;Utility functions for Open Systems Pharmacology R packages;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/AGePOP-OSP-Workshop-2021;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Olanzapine-Model;PBPK model of olanzapine;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Lactation-PBPK-model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/.github;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/TestCases;Test cases for the new OSP features;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Dextromethorphan-Model;PBPK Model of Dextromethorphan and its Metabolites;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/PharMetrX-Workshop-April-2022;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/2022_june_pbpk_page_workshop;Leveraging in vitro data for MIDD pre-PAGE 2-day workshop ;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Workflows;Reusable workflows (e.g. GitHub Actions) which can be used in any OSP repository;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Cimetidine-Carbamazepine-DDI;Modeling of published clinical Cimetidine-Carbamazepine DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Carbamazepine-Midazolam-DDI;Modeling of published clinical Carbamazepine-Midazolam-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Clopidogrel-Model;Whole-body parent-metabolite PBPK model of Clopidogrel for CYP2B6, CYP2C8, CYP2C19, and CYP3A4 DDGI Predictions;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Clopidogrel-Bupropion-DDI;Modeling of published clinical Clopidogrel-Bupropion-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Clopidogrel-Montelukast-DDI;Modeling of published clinical Clopidogrel-Montelukast-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Clopidogrel-Pioglitazone-DDI;Modeling of published clinical Clopidogrel-Pioglitazone-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Clopidogrel-Repaglinide-DDI;Modeling of published clinical Clopidogrel-Repaglinide-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Omeprazole-Clopidogrel-DDI;Modeling of published clinical Omeprazole-Clopidogrel-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Clopidogrel-DDI;Modeling of published clinical Rifampicin-Clopidogrel-DDI studies for model evaluation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Creatinine-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/N1-Methylnicotinamide-NMN-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Creatinine-drug-biomaker-interactions;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/N1-Methylnicotinamide-NMN-drug-biomaker-interactions;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Sildenafil-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Felodipine-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Voriconazole-Model;Whole-body PBPK model of voriconazole as CYP2C19 substrate and CYP3A4 perpetrator drug;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Birds-PBK-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Thyroid-Hormones-PB-QSP-Model;Physiology-based systems pharmacology model of thyroid hormones regulation in rat and human;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/dAb2-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Inulin-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/MEDI524-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/MEDI524YTE-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/CDA1-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/BAY794620-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Qualification-CKD;Chronic Kidney Disease - Qualification of PK-Sim implementation;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Tefibazumab-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/7E3-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Erythromycin-Digoxin-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Digoxin-Pediatrics;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Warfarin-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Pediatric_Qualification_Package_P-gp_Ontogeny;Pediatric Qualification Package P-gp Ontogeny;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Ketoconazole-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Ketoconazole-Midazolam-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Ketoconazole-Alfentanil-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Ketoconazole-Digoxin-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Ketoconazole-Alprazolam-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Ketoconazole-Triazolam-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/pharmetheus_pbpk_workshop;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/PharMetrX-Workshop-March-2023;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/developer-docs;;startup;open_systems_pharmacology;no_research
+https://github.com/Open-Systems-Pharmacology/Quinidine-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Quinidine-DDGI-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Tacrolimus-Model;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Itraconazole-Tacrolimus-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Voriconazole-Tacrolimus-DDGI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Rifampicin-Tacrolimus-DDI;;startup;open_systems_pharmacology;research
+https://github.com/Open-Systems-Pharmacology/Sundials;;startup;open_systems_pharmacology;no_research
+https://github.com/potsdamer-buergerstiftung/inselbuehne;Die Website der Inselb√ºhne Potsdam;startup;potsdamer_b√ºrgerstiftung;no_research
+https://github.com/potsdamer-buergerstiftung/projects;A monorepo that holds all of our web-related projects;startup;potsdamer_b√ºrgerstiftung;no_research
+https://github.com/potsdamer-buergerstiftung/portal;Our web portal for volunteer and content management;startup;potsdamer_b√ºrgerstiftung;no_research
+https://github.com/potsdamer-buergerstiftung/app;The app designed for volunteers at Potsdam Civic Foundation;startup;potsdamer_b√ºrgerstiftung;no_research
+https://github.com/potsdamer-buergerstiftung/umami;Umami is a simple, fast, privacy-focused alternative to Google Analytics.;startup;potsdamer_b√ºrgerstiftung;no_research
+https://github.com/potsdamer-buergerstiftung/web;;startup;potsdamer_b√ºrgerstiftung;no_research
+https://github.com/aeye-lab/pymovements;A python package for processing eye movement data;up;aeya;research
+https://github.com/aeye-lab/etra-fairness;;up;aeya;research
+https://github.com/aeye-lab/etra-reading-comprehension;;up;aeya;research
+https://github.com/aeye-lab/ecml-ADHD;;up;aeya;research
+https://github.com/aeye-lab/neurips-gmml-2022-xai-eye-tracking-evaluation;;up;aeya;no_research
+https://github.com/aeye-lab/pymovements-conda-staged-recipes;A place to submit conda recipes before they become fully fledged conda-forge feedstocks;up;aeya;no_research
+https://github.com/aeye-lab/pymovements-toy-dataset;Example toy dataset resource for the pymovements package;up;aeya;no_research
+https://github.com/aeye-lab/Eyettention;;up;aeya;research
+https://github.com/aeye-lab/sp-eyegan;;up;aeya;research
+https://github.com/aeye-lab/etra-2023-bridging-the-gap;;up;aeya;no_research
+https://github.com/aeye-lab/pymovements-toy-dataset-eyelink;;up;aeya;no_research
+https://github.com/potassco/lc2casp;A translator for logic programs with constraint atoms to CASP.;up;potassco;no_research
+https://github.com/potassco/clingo;ü§î A grounder and solver for logic programs.;up;potassco;research
+https://github.com/potassco/clasp;‚öôÔ∏è A conflict-driven nogood learning answer set solver;up;potassco;research
+https://github.com/potassco/ginkgo;üå± Generalize learned constraints with ASP;up;potassco;research
+https://github.com/potassco/xclasp;A variant of the clasp solver for extracting learned constraints;up;potassco;no_research
+https://github.com/potassco/plasp;üó∫Ô∏è ASP planning tools for PDDL;up;potassco;research
+https://github.com/potassco/libcsp;;up;potassco;no_research
+https://github.com/potassco/clingcon;‚õìÔ∏è Extension of clingo to handle constraints over integers;up;potassco;research
+https://github.com/potassco/potassco.github.io;‚ÑπÔ∏è The Potassco website;up;potassco;no_research
+https://github.com/potassco/libpotassco;üß± A utility library used by various potassco projects;up;potassco;research
+https://github.com/potassco/clingo-rs;üóùÔ∏è Rust bindings to the clingo library;up;potassco;research
+https://github.com/potassco/clingoLP;Theory propagator for linear programming using clingo theory language and interface.;up;potassco;research
+https://github.com/potassco/clingo-dl;üìè Theory propagator for difference logic using clingo's theory language and C++ API.;up;potassco;research
+https://github.com/potassco/asprin;üíä Qualitative and quantitative optimization in answer set programming;up;potassco;research
+https://github.com/potassco/pddl-instances;üåç PDDL instances covering the International Planning Competitions;up;potassco;no_research
+https://github.com/potassco/anthem;üéº Translate answer set programs to first-order theorem prover language;up;potassco;research
+https://github.com/potassco/fz2aspif;Translating flatzinc format to ASP intermediate language aspif. To be used with clingcon-3.x series.;up;potassco;no_research
+https://github.com/potassco/coala;coala is a translation tool for BC to ASP;up;potassco;research
+https://github.com/potassco/acclingo;Automatic algorithm configuration for clingo;up;potassco;research
+https://github.com/potassco/asprilo-encodings;Collection of ASP encodings for asprilo;up;potassco;no_research
+https://github.com/potassco/asprilo;ü§ñ ASPRILO, an intra-logistics benchmark suite for answer set programming;up;potassco;no_research
+https://github.com/potassco/planner;An ASP-based planner;up;potassco;research
+https://github.com/potassco/aspcud;A solver for package problems in CUDF format;up;potassco;research
+https://github.com/potassco/guide;ü¶Æ An introduction to our Answer Set Programming tools focusing on gringo, clingo, and clasp.;up;potassco;no_research
+https://github.com/potassco/benchmark-tool;üèéÔ∏è Git-mirror of the benchmark-tool;up;potassco;no_research
+https://github.com/potassco/tel;;up;potassco;no_research
+https://github.com/potassco/telingo;üï∞Ô∏è A solver for temporal programs.;up;potassco;no_research
+https://github.com/potassco/conda;üì¶ Conda recepies for potassco projects.;up;potassco;no_research
+https://github.com/potassco/qasp2qbf;üßä A translator from quantified answer set programming to quantified boolean formula;up;potassco;research
+https://github.com/potassco/xorro;‚öîÔ∏è A solver for programs with XOR constraints.;up;potassco;research
+https://github.com/potassco/asprilo-seminar;;up;potassco;no_research
+https://github.com/potassco/asp-planning-benchmarks;A repository of ASP planning benchmarks;up;potassco;no_research
+https://github.com/potassco/aspStream;A simple approach to stream reasoning in clingo;up;potassco;no_research
+https://github.com/potassco/multiclingo;A simple approach to multi-shot solving with clingo;up;potassco;no_research
+https://github.com/potassco/guess_and_check;Guess and Check Answer Set Programming;up;potassco;no_research
+https://github.com/potassco/clorm;üóÉÔ∏è A Python ORM-like interface for the Clingo Answer Set Programming (ASP) reasoner;up;potassco;research
+https://github.com/potassco/train-scheduling-with-clingo-dl;üöÑ Benchmark scripts, encodings and instances for train scheduling with clingo-dl;up;potassco;research
+https://github.com/potassco/clingo-vs-telingo-planning;;up;potassco;research
+https://github.com/potassco/clingo_derive;derive macro for the clingo::ToSymbol trait;up;potassco;no_research
+https://github.com/potassco/eclingo;üß† A solver for epistemic logic programs.;up;potassco;research
+https://github.com/potassco/eclingo-prototype;Epistemic logic programming with clingo;up;potassco;research
+https://github.com/potassco/teaspoon;ü•Ñ ASP encodings to solve the curriculum-based course timetabling problem;up;potassco;research
+https://github.com/potassco/train-scheduling-with-hybrid-asp;"üöÇ Benchmark instances and encoding for the paper ""Train Scheduling With Hybrid Answer Set Programming""";up;potassco;research
+https://github.com/potassco/tefoli;üêô Theory Loading For Clingo;up;potassco;research
+https://github.com/potassco/clingo-cmake-example;üèóÔ∏è Example how to use the clingo library in a cmake based project.;up;potassco;research
+https://github.com/potassco/asp-date-lib;üìÖ ASP Library for dates ;up;potassco;research
+https://github.com/potassco/xls2asp;üìä Convert excel spreadsheets to ASP facts;up;potassco;research
+https://github.com/potassco/aspic-legacy;üèöÔ∏è aspic legacy code: last development snapshot from Sep 2016.;up;potassco;research
+https://github.com/potassco/flatzinc;ü´ì A parser for the FlatZinc modelling language;up;potassco;research
+https://github.com/potassco/foliage;üçÅ Rust crate for first-order logic with integer arithmetics;up;potassco;research
+https://github.com/potassco/fzn2lp;ü•û A converter from FlatZinc into an ASP fact format;up;potassco;research
+https://github.com/potassco/flatzingo;:flamingo: A flatzinc frontend for clingcon ;up;potassco;research
+https://github.com/potassco/clingo-sys;Raw Rust FFI bindings to the C API of clingo library;up;potassco;research
+https://github.com/potassco/python-clingox;üß∞ Library with auxilary functions to use along with the clingo module.;up;potassco;no_research
+https://github.com/potassco/clingo-server;üåê Clingo via HTTP;up;potassco;research
+https://github.com/potassco/clingomil;Meta-interpretive learning in clingo;up;potassco;research
+https://github.com/potassco/clingo-lpx;üßÆ A simplistic simplex solver for checking satisfiability of a set of equations.;up;potassco;research
+https://github.com/potassco/clingo-dl-theory-rs;Raw Rust FFI bindings to the C API of clingo-dl library ;up;potassco;no_research
+https://github.com/potassco/mu-gringo;üå± A prototypical grounder implementation;up;potassco;no_research
+https://github.com/potassco/clingcon-theory-rs;Raw Rust FFI bindings to the C API of clingcon library ;up;potassco;no_research
+https://github.com/potassco/atlingo;Automata for dynamic answer set solving;up;potassco;no_research
+https://github.com/potassco/tree-sitter-clingo;üå≥ Clingo grammar for tree-sitter;up;potassco;no_research
+https://github.com/potassco/clintest;üß™ A test framework for clingo programs;up;potassco;no_research
+https://github.com/potassco/clingraph;üï∏Ô∏è A visualizer for graphs defined as logic programs;up;potassco;research
+https://github.com/potassco/clingofmt;‚ôªÔ∏è Experimental formatter for clingo code;up;potassco;no_research
+https://github.com/potassco/mapf-subgraph-system;üïµÔ∏è Solving MAPF under map-to-subgraph transformation with SAT and ASP;up;potassco;research
+https://github.com/potassco/mapf-subgraph-instances;Instance set for Solving MAPF under map-to-subgraph transformation;up;potassco;no_research
+https://github.com/potassco/clingo-xor; üìü Clingo + XOR-constraints + Simplex;up;potassco;research
+https://github.com/potassco/plingo;üçÄ A system for probabilistic reasoning in clingo;up;potassco;research
+https://github.com/potassco/clinguin;üêß Clingo Interactive UI;up;potassco;no_research
+https://github.com/potassco/configuration-encoding;üß© An encoding for solving configuration problems with ASP;up;potassco;no_research
+https://github.com/potassco/ngo;Non Ground Optimizer for logic programs.;up;potassco;no_research
+https://github.com/UP-macroecology/ODMAP;;up;macroecology;research
+https://github.com/UP-macroecology/Response_Summerschool;;up;macroecology;no_research
+https://github.com/UP-macroecology/Malchow_DemogEnv_2022;"Supplementary informaion to the publication: ""Demography-environment relationships improve mechanistic understanding of range dynamics under climate change""  by Anne-Kathleen Malchow, Florian Hartig, Jette Reeg, Marc K√©ry, and Damaris Zurell.";up;macroecology;research
+https://github.com/UP-macroecology/Malchow_IBMcalibration_2022;"This is supplementary material to the publication  ""Fitting individual-based models of species range dynamics to long-term monitoring data""  by Anne-Kathleen Malchow, Guillermo Fandos, Urs G. Kormann, Martin Gr√ºebler, Marc K√©ry, Florian Hartig, Damaris Zurell.";up;macroecology;research
+https://github.com/UP-macroecology/EBBA_Niche_vs_Range_shifts;Niche and range shifts analyses of European breeding bird atlas data.;up;macroecology;research
+https://github.com/krr-up/bibliography;üìö BibTeX bibliography files of all papers referenced by the group;up;krr;no_research
+https://github.com/krr-up/latex-style-comments;A scaled down version of Torsten's comments style that is hopefully more compatible;up;krr;no_research
+https://github.com/krr-up/asp-macros;LaTeX macros for concepts from ASP (originally built for ASP book);up;krr;no_research
+https://github.com/krr-up/logos;Collection of logos, eg for use in slides;up;krr;no_research
+https://github.com/krr-up/latex-collaboration-guide;;up;krr;no_research
+https://github.com/krr-up/latex-paper-template;;up;krr;no_research
+https://github.com/krr-up/latex-slides-template;Template for creating (blue) slides with LaTeX beamer class;up;krr;no_research
+https://github.com/krr-up/notebook;;up;krr;research
+https://github.com/krr-up/robot-scheduling-encodings;Encodings and benchmarking for the robot-scheduling paper;up;krr;research
+https://github.com/krr-up/action_juggling_robot;;up;krr;research
+https://github.com/krr-up/latex-class-ceurart;latex-class-ceurart;up;krr;no_research
+https://github.com/krr-up/asp-dse;ASP-based solution for Design Space Exploration;up;krr;research
+https://github.com/krr-up/mapf-instance-generator;MAPF instance generator;up;krr;research
+https://github.com/krr-up/path-repair;;up;krr;no_research
+https://github.com/krr-up/python-project-template;üìÑ Template for python based projects.;up;krr;research
+https://github.com/krr-up/clinguin-course-scheduling;Course scheduling project using clinguin;up;krr;no_research
+https://github.com/krr-up/renopro;Reifying non-ground ASP programs.;up;krr;research
+https://github.com/krr-up/meta-metric-temporal;Experiments in implementing metric temporal answer set programming using metaprogramming.;up;krr;no_research
+https://github.com/krr-up/clingo-explaid;Tools to aid the development of explanation systems using clingo;up;krr;no_research
+https://github.com/krr-up/latex-class-lni;;up;krr;no_research
+https://github.com/krr-up/metric-temporal-experiments;Various approaches to implementing metric temporal ASP.;up;krr;no_research
+https://github.com/krr-up/study-reg-configuration;Describing the study regulation problem as a configuration problem;up;krr;no_research
+https://github.com/discourse-lab/pocores;coreference resolution for German;up;discourse-lab;research
+https://github.com/discourse-lab/dimlex;A Lexicon of German discourse markers;up;discourse-lab;research
+https://github.com/discourse-lab/GraPat;A tool for graph annotations;up;discourse-lab;research
+https://github.com/discourse-lab/DiscourseSegmenter;A collection of various discourse segmenters;up;discourse-lab;research
+https://github.com/discourse-lab/DisCoDict;A Dictionary of Dutch Discourse Connectives;up;discourse-lab;research
+https://github.com/discourse-lab/Connective-Lex.info;A web app for a multilingual connective database.;up;discourse-lab;research
+https://github.com/discourse-lab/DiMLex-Bangla;DiMLex Bangla is a lexicon of Bangla discourse connectives;up;discourse-lab;no_research
+https://github.com/discourse-lab/en_dimlex;A Lexicon of English discourse markers;up;discourse-lab;research
+https://github.com/discourse-lab/arg-microtexts-part2;An annotated corpus of argumentative microtexts - Part 2;up;discourse-lab;research
+https://github.com/discourse-lab/turkish_connective_lexicon;;up;discourse-lab;research
+https://github.com/discourse-lab/naijalex;Nigerian Pidgin Connective Lexicon;up;discourse-lab;research
+https://github.com/discourse-lab/chinese-dimlex;A lexicon of Chinese discourse connectives;up;discourse-lab;no_research
+https://github.com/discourse-lab/russian-dimlex;A lexicon of Russian discourse connectives;up;discourse-lab;no_research
+https://github.com/cslm-lab/.github;;up;cslm-lab;no_research
+https://github.com/cslm-lab/pcibex;Python and R scripts to make pre-processing of data collected with Prolific/PCIbex easier;up;cslm-lab;no_research
+https://github.com/cslm-lab/reliability;reliability;up;cslm-lab;no_research
+https://github.com/cslm-lab/cognitive_skills;Experiment 2 from SFB Phase 1;up;cslm-lab;research
+https://github.com/cslm-lab/reliability_project;reliability_project;up;cslm-lab;research
+https://github.com/UP-RS-ESP/addem;Analysis of Distributions from Digital Elevation Models (ADDEM);up;rs-esp;research
+https://github.com/UP-RS-ESP/CorrCoef;Python C-extension for memory efficient and multithreaded Pearson product-moment correlation coefficient estimation using OpenMP;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/Codes;Codes  pertinent for the analysis for remote sensing or earth-surface data;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/DEM-KZP;Digital Elevation Model (DEM) and KnickZone-Picker (KZP) Analyzer (http://onlinelibrary.wiley.com/doi/10.1002/2017JF004250/full);up;rs-esp;research
+https://github.com/UP-RS-ESP/bpl;Python module to work with bounded power-law (BPL) distributed random variables.;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/demnets;Digital Elevation Model Networks;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/DEM_fourier_noise;Matlab code for DEM noise analysis using 2D DFT;up;rs-esp;research
+https://github.com/UP-RS-ESP/Normalize;Normalize time series by quantile normalization to the normal distribution.;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/SnowmeltTracking;Algorithm for tracking the onset and end of the snowmelt season from passive microwave data;up;rs-esp;research
+https://github.com/UP-RS-ESP/mkt;Python module to compute the Mann-Kendall test for trend in time series data;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/PointCloudWorkshop-June2017;Point-Cloud Workshop from 7-9 June 2017;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/ChanGeom;ChanGeom - Channel Geometry, River Width, and along-stream distance extraction from KML;up;rs-esp;research
+https://github.com/UP-RS-ESP/Transects;Create a set of windows perpendicular to a given line shapefile;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/mfdrouting;Multiple Flow Direction (MFD) flow routing after Freeman (1991);up;rs-esp;research
+https://github.com/UP-RS-ESP/MinGrid;MinGrid creates a gridded DEM from point clouds by the minimum elevation per grid cell;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/PC_geomorph_roughness;;up;rs-esp;research
+https://github.com/UP-RS-ESP/TanDEM-SRTM-dh;Python scripts for the correction of raw SRTM-C tiles with TanDEM-X and potential vertical land-level change mapping;up;rs-esp;research
+https://github.com/UP-RS-ESP/river-clusters;Code for river profile clustering;up;rs-esp;research
+https://github.com/UP-RS-ESP/TopoMetricUncertainty;Uncertainties in topographic metrics due to truncation errors and elevation uncertainty;up;rs-esp;research
+https://github.com/UP-RS-ESP/GEW-DAP05-2018;;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/up-rs-esp.github.io;University of Potsdam - Remote Sensing and Earth Surface Processes;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/GEW-DAP04-WS201819;;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/qreg;Python module to carry out quantile regression;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/GNSS-Correction-RTKLIB;GNSS Collection and Post-Processing with RTKLIB;up;rs-esp;research
+https://github.com/UP-RS-ESP/PebbleCounts;PebbleCounts: grain-sizing algorithm for gravel-bed river imagery;up;rs-esp;research
+https://github.com/UP-RS-ESP/FacetFlowNetwork;Flow accumulation on TINs of point-cloud data ;up;rs-esp;research
+https://github.com/UP-RS-ESP/PointCloudWorkshop-Oct2019;From point clouds and full-waveform data to DEM analysis (Sep-30 to Oct-4 2019);up;rs-esp;no_research
+https://github.com/UP-RS-ESP/LidarPC-KDTree;Comparison of KDTree implementations for Lidar PointClouds (PC);up;rs-esp;research
+https://github.com/UP-RS-ESP/pulsewaves;Python3 module for reading lidar full waveform PulseWaves files;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/HillslopeAsymmetry;;up;rs-esp;research
+https://github.com/UP-RS-ESP/laspy-waveform;Laspy based lidar waveform reading;up;rs-esp;research
+https://github.com/UP-RS-ESP/GeologicalRemoteSensing_Manuals;Manuals (Markdown, PDF) for Python, Remote-Sensing Software, and SSH installation;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/MoraineAge_GaussianMixture;Calculating the Moraine Age from Cosmogenic Nuclide Boulder Ages using a Gaussian Mixture Model ;up;rs-esp;research
+https://github.com/UP-RS-ESP/PebbleCounts-Application;;up;rs-esp;research
+https://github.com/UP-RS-ESP/Gaussian-kernel-interpolation;Voxelize a point-cloud variable via Gaussian kernel interpolation to voxel centers;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/DEM_ConnectedComponents;Connected Components (CC) from longitudinal river profiles for debris flow mapping;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/volumetric-diffusion;Fast volumetric diffusion of signed scalar fields;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/DEM-Consistency-Metrics;;up;rs-esp;research
+https://github.com/UP-RS-ESP/msc-rsiv;MSc Remote Sensing, geoInformation, and Visualization at the University of Potsdam;up;rs-esp;research
+https://github.com/UP-RS-ESP/ICESat-2_SVDA;The Sparse Vegetation Detection Algorithm (SVDA) for ICESat-2 data;up;rs-esp;research
+https://github.com/UP-RS-ESP/PointCloudWorkshop-May2022;Point Cloud and Change Detection in the Geoscience;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/Ames-Stereo-Pipeline-SPOT;Scripts to process SPOT6/7 (or other satellite) imagery with the Ames Stereo Pipeline (https://github.com/NeoGeographyToolkit/StereoPipeline);up;rs-esp;research
+https://github.com/UP-RS-ESP/ICESat-2_QdelToro;Geometric based filtering of ICESat-2 ATL03 data for ground profile retrieval in Quebrada del Toro, Argentina;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/gaussian_kde_gpu;GPU Gaussian kernel density estimation;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/dtm-surface-area-and-slope;Tools for the estimation of surface area of digital terrain models (DTMs) and its effect on slope distributions;up;rs-esp;no_research
+https://github.com/UP-RS-ESP/PlanetScope_landslide_tracking;;up;rs-esp;research
+https://github.com/hpi-sam/ask-your-repository-old-api;;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/BP2018HG1;Bachelor Project Documentation;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/ask-your-repository-web;React Web Application for visualising and managing image data. Main user interface of the Ask You Repository project.;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/ask-your-repository-api;This service provides an api to store artefacts with their related meta-data and tags and performs machine learning on them;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/ask-your-repository-dialogflow-adapter;NodeJS API for handling voice query fulfilment with Dialogflow.;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/ask-your-repository-docker;Docker Deployment of Ask-Your-Repository;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/rl-4-self-repair;Reinforcement Learning Models for Online Learning of Self-Repair and Self-Optimization;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/bandits-4-self-repair;Multi-Armed bandits models for online learning of self-repair actions;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/GNN-Course-2020;Lecture Materials;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/GNN-Effectants;Investigate different methods for link prediction and their effectiveness for the polypharmacy problem. ;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/GNN-EntityLinking;Exploration of Graph Neural Network techniques to represent, predict, and intervene on Entity Linking tasks.;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/GNN-Commenters;Exploration of Graph Neural Network techniques for representation, prediction, and intervention on networks of comments on news sites.;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/GNN-SpaceTimeGraphs;Graph Neural Networks utilization for Spatiotemporal graphs. These methods will be applied into the problem of forecasting traffic flow on PEMS-Bay, METR-LA and Seattle Loop Datasets;hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/GNN-CommunityInteraction;Repo fro Bastian, Leo and Berkay project;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/GNN-Connectomics;Exploration of Graph Neural Networks techniques for Connectomics ;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/GNN-NLP;Exploration of Graph Neural Networks for representation, prediction, and intervention in NLP tasks;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/MarkovModels_Lecture;Hidden Markov Models Learning for Self-Adaptive Systems. Defintion of hidden states, observations, and application of the Baum-Welch algorithm;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/RL_SelfSupervised_GameEngine;"Exploring Self-supervised Self-Adaption Mechanisms Based on Continuous Reinforcement Learning with Application to Game Systems""";hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/MachineLearningControl;Machine Learning-Based Control of Dynamical Systems ;hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/QuantumProgramming;Exercises, Tasks, and Projects for the Course on Quantum Programming;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/dps.training_shared_files;;hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/RL_4_Feedback_Control;Train a reinforcement learning agent online to control a self-healing mechanism;hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/robust-marl4sas;Research project on robust multi-agent reinforcement learning (marl) for self-adaptive systems (sas);hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/minimum-wage-rl;Project to share documentation, source code and analyzes on the topic of simulating effects of minimum wage interventions on employment and other economic metrics.;hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/GNN-Course-2021;Materials of the Graph Neural Networks course taught in Winter Semester 2021 at the Hasso-Plattner Institute University of Potsdam;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/Adversarial-Digital-Twins;Materials from the course Adversarial Self-Supervised Learning with Digital Twins;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/AI_Ethics_Engineering;Prototypes, Tutorials, Speifications for Engineering Ethical AI Systems;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/digital-fuesim-manv;A German simulation system for training emergency medical services leadership personnel on how to manage Mass Casualty Incidents.;hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/ethical-recsys-engineering;Ethical concerns and solutions for engineering recommender systems;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/GNN_Graph_Query-Matching;Graph Neural Networks for Graph Query Matching Tasks;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/host-graph-sensitive-rete-nets;Repository containing evaluation artifacts for host-graph-sensitive RETE nets.;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/multi-version-models;Repository containing evaluation artifacts for multi-version models.;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/Spatio-Temporal-Graphs;Projects on Spatio-Temporal Graphs;hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/MARL-TransferLearning;Projects on Transfer Learning for Multi-Agent Reinforcement Learning (MARL) in Self-Adaptive Systems;hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/HT_WithinBetweenGroups;Hypotheses tests for within and between group experiments ;hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/sct-validation-framework;Tool Support for the Teaching of State-Based Behavior Modeling: A validation framework that simulates and animated environments interacting with the code generated from statecharts to be used for teaching modeling.;hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/sct-teaching-materials;;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/Meta-Reinforcement-Learning-for-SAS;Exploration of meta-learning methods and techniques in reinforcement learning with appication to self-adaptives systems;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/GNN-for-Knowledge-Graphs;Graph Neural Networks for Knowledge-Graph Systesm ;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/ProbabilisticModels_WiSe22_23;Projects on Discrete Time Markov Chains, Continuous Time Markov Chains, Hidden Markov Models, Markov Decision Processes;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/TGGs-for-Multi-Version-Models;Evaluation artifacts for TGGs for multi-version models;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/Extended-GDNs;Evaluation artifacts for extended Generalized Discrimination Networks;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/digital-fuesim-manv-public-test-scenarios;Public test scenarios for the Digital Fuesim MANV project.;hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/Responsible-AI;Course work of Responsible Artificial Intelligence Project Seminar;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/RL.4.Autonomous.Vehicles;Training reinforcement learning agents to coordinate autonomous vehicles ;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/hpi-sam/Safe-RL-4-SAS;;hpi;system_analysis_and_modeling_group;research
+https://github.com/hpi-sam/Incremental-TGGs-for-Multi-version-Models;;hpi;system_analysis_and_modeling_group;no_research
+https://github.com/bptlab/chimera;Chimera: Execution Engine for Case Management;hpi;business_process_technology;research
+https://github.com/bptlab/processeditor;Home of the true Open Source BPM Framework.;hpi;business_process_technology;research
+https://github.com/bptlab/promnicat;Automatically exported from code.google.com/p/promnicat;hpi;business_process_technology;no_research
+https://github.com/bptlab/bibtex.js;JavaScript bibtex Library;hpi;business_process_technology;no_research
+https://github.com/bptlab/bpt-resource-management;Automatically exported from code.google.com/p/bpt-resource-management;hpi;business_process_technology;no_research
+https://github.com/bptlab/JUserManagement;The JUserManagement offers a user management support to the JEngine to enable a role feature within PCM;hpi;business_process_technology;research
+https://github.com/bptlab/BPMConverter;Converts different BPM representations.;hpi;business_process_technology;no_research
+https://github.com/bptlab/codebase;The jBPT code library is a compendium of process technologies that support research on the design, execution, and evaluation of processes. The idea originated from observations on the evolution of process-related research disciplines. The library offers a broad range of basis analysis and utility functionality and, due to its open publishing model, can easily be extended. ;hpi;business_process_technology;no_research
+https://github.com/bptlab/Coffee-in-the-Cloud;A webapp for managing a tally list for coffee consumption.;hpi;business_process_technology;no_research
+https://github.com/bptlab/gryphon;web-based modeler based on bpmn.io for fCM case models (to be executed by https://github.com/bptlab/chimera);hpi;business_process_technology;research
+https://github.com/bptlab/Unicorn;Unicorn Event Processing Platform;hpi;business_process_technology;research
+https://github.com/bptlab/argos-backend;This is the repository for the argos backend server. The server controls and serves product, event type and event data for an event dashboard. It requires an Event Processing Platform, eg. Unicorn;hpi;business_process_technology;research
+https://github.com/bptlab/argos-frontend;;hpi;business_process_technology;no_research
+https://github.com/bptlab/scylla;Extensible BPMN process simulator;hpi;business_process_technology;research
+https://github.com/bptlab/wiki-resources;;hpi;business_process_technology;no_research
+https://github.com/bptlab/argos;Documentation for the Argos project.;hpi;business_process_technology;no_research
+https://github.com/bptlab/lola-webservice;A web service wrapper for LoLA 2.0 (Low-Level Analyzer for petri nets);hpi;business_process_technology;no_research
+https://github.com/bptlab/scylla-ui;UI visualizing results of the BPMN process simulator Scylla;hpi;business_process_technology;research
+https://github.com/bptlab/bpt-docker-zoo;Docker-compose file to easily deploy bpt lab applications Gryphon, Unicorn and Chimera;hpi;business_process_technology;no_research
+https://github.com/bptlab/bookshelf-docs;;hpi;business_process_technology;no_research
+https://github.com/bptlab/goodberry;This service implements an IoT device on a Raspberry Pi. The event data is sent to an arbitrary webservice.;hpi;business_process_technology;no_research
+https://github.com/bptlab/bookshelf-frontend;;hpi;business_process_technology;no_research
+https://github.com/bptlab/chimera-webservice-mock;Mocked Service to test Chimera Webservice Activitites;hpi;business_process_technology;no_research
+https://github.com/bptlab/bpt-iot-website;;hpi;business_process_technology;no_research
+https://github.com/bptlab/bpstruct;Archived code from old google code project;hpi;business_process_technology;no_research
+https://github.com/bptlab/chor-js;An editor for BPMN 2.0 choreography diagrams based on bpmn-js;hpi;business_process_technology;research
+https://github.com/bptlab/blockchain-choreography;Tamper proof collaborative modelling of choreograpy models based on distributed ledger technology.;hpi;business_process_technology;no_research
+https://github.com/bptlab/chor-js-demo;A demo showcasing the chor-js BPMN 2.0 choreography diagram modeler.;hpi;business_process_technology;research
+https://github.com/bptlab/caz;Generic adapter to handle communication between Unicorn and Third Party APIs;hpi;business_process_technology;research
+https://github.com/bptlab/mantichor-frontend;Frontend for the Mantichor choreography framework;hpi;business_process_technology;no_research
+https://github.com/bptlab/mantichor-tezos;Tezos adapter for the Mantichor choreography framework ;hpi;business_process_technology;no_research
+https://github.com/bptlab/mantichor-corda;Corda R3 adapter for the Mantichor choreography framework ;hpi;business_process_technology;no_research
+https://github.com/bptlab/rembrandt-frontend;The front end for the Rembrandt Resource-Management-Platform.;hpi;business_process_technology;no_research
+https://github.com/bptlab/rembrandt-backend;The back end for the Rembrandt Resource-Management-Platform.;hpi;business_process_technology;no_research
+https://github.com/bptlab/rembrandt;A resource organization and resource usage optimization platform.;hpi;business_process_technology;no_research
+https://github.com/bptlab/bpic19;;hpi;business_process_technology;no_research
+https://github.com/bptlab/bpm2019ws-fcm-compliance;Checking Compliance in Data-Driven Case Management;hpi;business_process_technology;no_research
+https://github.com/bptlab/mantichor-share;;hpi;business_process_technology;no_research
+https://github.com/bptlab/active-chor-js;Extension of chor-js for blockchain-based active choreographies;hpi;business_process_technology;no_research
+https://github.com/bptlab/cepta;CEPTA - Complex Event Processing Transportation Analysis;hpi;business_process_technology;research
+https://github.com/bptlab/awesome-master-thesis;A curated list of awesome master thesis related things;hpi;business_process_technology;no_research
+https://github.com/bptlab/correlation-analysis;"Code for the master thesis ""Deriving Decisive Case Characteristics in Process Performance Analysis"" by Jonas Beyer";hpi;business_process_technology;research
+https://github.com/bptlab/chor-checker;TLAplus based model checking framework for choreographies;hpi;business_process_technology;no_research
+https://github.com/bptlab/chor-checker-frontend;Frontend for the choreography model checking framework;hpi;business_process_technology;no_research
+https://github.com/bptlab/subscription-point-visualizer;Visualizes subscription points in bpmn choreography diagrams.;hpi;business_process_technology;research
+https://github.com/bptlab/ds2020-data-driven-case-management-compliance;;hpi;business_process_technology;no_research
+https://github.com/bptlab/fcm2cpn;;hpi;business_process_technology;research
+https://github.com/bptlab/fiber2xes;This project contains a python utility intended to use EHR data coming from fiber to create .xes event logs.;hpi;business_process_technology;research
+https://github.com/bptlab/blockchain-deferred-choice;;hpi;business_process_technology;research
+https://github.com/bptlab/bpi-challenge-2020;The purpose of this repository is to maintain code and text produced to analyze this year's BPI Challenge.;hpi;business_process_technology;no_research
+https://github.com/bptlab/fCM-Engine;An Execution Engine for fragment-based Case Management (fCM) based on Access/CPN;hpi;business_process_technology;no_research
+https://github.com/bptlab/ark_automate;An open source RPA tool which uses BPMN to create bots.;hpi;business_process_technology;research
+https://github.com/bptlab/bpmn-js-properties-panel;A properties panel for bpmn-js.;hpi;business_process_technology;research
+https://github.com/bptlab/ark_automate_local;Execute robots build with ark_automate locally;hpi;business_process_technology;no_research
+https://github.com/bptlab/fCM-query-generator;;hpi;business_process_technology;research
+https://github.com/bptlab/rpa-dmn-operation;This repo contains examples how DMN can be integrated in RPA tools.;hpi;business_process_technology;research
+https://github.com/bptlab/odea-light;The purpose of this repository is to¬†provide and maintain code to quantify, interpret, and configure ontology-based event abstraction for process mining.;hpi;business_process_technology;research
+https://github.com/bptlab/fCM-design-support;Modeling Tool with Design-Time Support for Fragment-Based Case Management;hpi;business_process_technology;research
+https://github.com/bptlab/onto-rpa-frontend;;hpi;business_process_technology;no_research
+https://github.com/bptlab/conceptual-bot-backend;;hpi;business_process_technology;no_research
+https://github.com/bptlab/onto-rpa-platform;A meta repository for the components of the conceptual bot platform;hpi;business_process_technology;no_research
+https://github.com/bptlab/mimic-log-extraction;A CLI tool for extracting event logs out of MIMIC Databases.;hpi;business_process_technology;research
+https://github.com/bptlab/holistic-process-platform;A BPMN-based platform that combines BPMS and RPA.;hpi;business_process_technology;research
+https://github.com/bptlab/fCM-Collection;A collection of fCM models;hpi;business_process_technology;no_research
+https://github.com/bptlab/data-based-process-variant-analysis;;hpi;business_process_technology;no_research
+https://github.com/bptlab/Context-Aware-Change-Pattern-Detection;;hpi;business_process_technology;research
+https://github.com/bptlab/relationships-between-change-patterns;;hpi;business_process_technology;research
+https://github.com/bptlab/model-driven-RPA;Master Project 2023 | Model-driven RPA Bot Development;hpi;business_process_technology;research
+https://github.com/bptlab/MdRPA_Library;;hpi;business_process_technology;research
+https://github.com/hpi-swa-lab/Nemo;;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/TargetSpecific-ICOOOLPS;Paper on Call-target-specific Method Arguments for ICOOOLPS 2015;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/hpitr;LaTeX class for technical reports at the HPI Potsdam;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/GazeTracker;Support for gaze/eye tracking in Squeak;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/SQPyte;;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/GlyphHub;The Font Engineering Toolkit: Live Font Creation in a Self-supporting Programming Environment;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/CommunityCodeReview;;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/home-desktop-system;The Home Desktop System;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/simplelanguage;A simple example language built using the Truffle API.;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/squeak-polymorphic-identifiers;A Squeak/Smalltalk implementation of polymorphic identifiers;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/teaching-image;A repository for scripts to build a teaching image;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/SandBlocks-BlocksToTheRescue;Blocks to the Rescue: Live Exploration of an Interactive Environment to Support Education, Construction, and Reflection in Program Design;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/learning-liveness;;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/polyglot-adapters;Polyglot adapters prototype for the GraalVM.;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/graalpython;A Python 3 implementation built on GraalVM;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/babylonian-programming-smalltalk;An implementation of the Babylonian Programming Editor for Squeak/Smalltalk;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/tools-interactive-simulations;;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/cpython;The Python programming language;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/Rack;A hierarchical ordering system for objects in Squeak/Smalltalk with a graphical interface;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/SqueakByExample-english;An introductory book about the Squeak/Smalltalk programming system, guiding students and developers through the environment, language, tools, and the Morphic framework by means of a series of examples and exercises.;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/BP2019RH1;;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/squeak-graphics-canvas;A collection of projects related to hardware-accelerated rendering of Squeak's Morphic.;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/px20-code-finder;;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/graal;GraalVM: Run Programs Faster Anywhere :rocket:;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/lively.next;Repository for work on lively.next at HPI's chair for software architecture.;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/QoppaS;An implementation of Qoppa Scheme using Ohm/S;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/qinoq;Create wonderful scrollytellings inside of lively.next ‚ùÑ;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/squeak-graphics-opengl;A collection of projects related to using OpenGL in Squeak/Smalltalk;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/squeak-inbox-talk;Bringing squeak-dev into your image;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/graalpython-java-example;Java and Python Integration Example for GraalVM;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/squeak-spelling-services;;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/BP2021RH1;Crowd-Sourced Picture Archive for Bad Harzburg / BP2021RH1;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/sb-visual-primitives;;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/sb-tree-sitter;Integration of Sandblocks with Tree-Sitter to load block-based languages from grammars;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/squeak-tracedebugger;A lightweight and efficient back-in-time debugger for Squeak to trace and retrace past method invocations and state changes. Powered by SimulationStudio.;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/godot-squeak;;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/sb-terminal;;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/ts-edit-action-detector;;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/pivr;;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/pivr-tools;;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/pivr-tools-assets;;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/native-image-visualizations;Visualizing GraalVM Native Images for Exploring Ways of Reducing File Sizes;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/react-midi;An MIDI generator built on top of React/S;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/Probe-S;;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/serverless-squeak;;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/aws-sdk-smalltalk;AWS SDK for Smalltalk (Squeak port);hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/cloud-squeak;Minimal Squeak for Cloud Functions (Experimental);hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/godot-pronto;;hpi;software_architecture_group;research
+https://github.com/hpi-swa-lab/vr-shell;;hpi;software_architecture_group;no_research
+https://github.com/hpi-swa-lab/graalvm-causality-graph;;hpi;software_architecture_group;no_research
+https://github.com/SemanticMultimedia/locopod;LOcal COPy On Demand;hpi;semantic_multimedia_research_group;research
+https://github.com/SemanticMultimedia/JungGraphMeasures;JungGraphMeasures - PageRank and HITS implementations for large RDF graphs ;hpi;semantic_multimedia_research_group;research
+https://github.com/SemanticMultimedia/DBpedia_HITS_Scores;DBpedia_HITS_Scores;hpi;semantic_multimedia_research_group;no_research
+https://github.com/SemanticMultimedia/DBpedia_PageinLinkCounts_Cleaned;DBpedia_PageinLinkCounts_Cleaned;hpi;semantic_multimedia_research_group;no_research
+https://github.com/SemanticMultimedia/DBpedia_PageoutLinkCounts_Cleaned;DBpedia_PageoutLinkCounts_Cleaned;hpi;semantic_multimedia_research_group;no_research
+https://github.com/SemanticMultimedia/DBpedia_PageRank_Scores;DBpedia_PageRank_Scores;hpi;semantic_multimedia_research_group;no_research
+https://github.com/SemanticMultimedia/vocabularies;vocabularies;hpi;semantic_multimedia_research_group;no_research
+https://github.com/SemanticMultimedia/tlr;a platform for preserving history on the web of data;hpi;semantic_multimedia_research_group;research
+https://github.com/SemanticMultimedia/COAL;web media content analysis framework;hpi;semantic_multimedia_research_group;research
+https://github.com/SemanticMultimedia/tlr-java-api;Java API for tailr;hpi;semantic_multimedia_research_group;no_research
+https://github.com/SemanticMultimedia/RefreshQueries;;hpi;semantic_multimedia_research_group;no_research
+https://github.com/Museum-Barberini/twitterscraper;Scrape Twitter for Tweets;hpi;museum_barberini;research
+https://github.com/Museum-Barberini/Barberini-Analytics;A suite of data mining, analytics, and visualization solutions for analyzing museum data;hpi;museum_barberini;research
+https://github.com/Museum-Barberini/twint;An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.;hpi;museum_barberini;research
+https://github.com/Museum-Barberini/FlightReset;Microsoft Office 365/2019/2016 for Mac Flight Reset Tool;hpi;museum_barberini;no_research
+https://github.com/Museum-Barberini/OutlookFontPoke;Microsoft Outlook 365/2019/2016 for Mac Default Font Changer;hpi;museum_barberini;no_research
+https://github.com/pik-copan/pyunicorn;Unified Complex Network and Recurrence Analysis Toolbox;pik;copan;research
+https://github.com/pik-copan/MayaSim;Simulation of the raise and fall of the ancient Maya civilization on the Yucatan penisula;pik;copan;research
+https://github.com/pik-copan/pymofa; collection of simple functions to run and evaluate computer models systematically;pik;copan;no_research
+https://github.com/pik-copan/pycopancore;reference implementation of the copan:CORE World-Earth modelling framework;pik;copan;research
+https://github.com/pik-copan/pycopanbehave;Python implementation of COPAN:BEHAVE model;pik;copan;research
+https://github.com/pik-copan/pycopanpbcc;Python scripts for analyzing planetary boundaries in a conceptual model of the Earth's carbon cycle including geoengineering by terrestrial carbon dioxide removal;pik;copan;research
+https://github.com/pik-copan/pyregimeshifts;Python scripts for detecting nonlinear regime shifts in multiple paleoclimate time series as in Donges et al., Clim. Past. 11, 709-741 (2015);pik;copan;research
+https://github.com/pik-copan/pycascades;Python framework for simulating tipping cascades on complex networks;pik;copan;research
+https://github.com/pik-copan/pytippinginteractions;Python scripts for studying dynamics of interacting tipping elements;pik;copan;research
+https://github.com/pik-copan/pycopandiscount;Python script to run the copan:DISCOUNT model;pik;copan;no_research
+https://github.com/pik-copan/pydrf;Python scripts for estimating dose response functions and performing surrogate analysis based on temporal network data;pik;copan;research
+https://github.com/pik-copan/thinkathon2021inunsafewaters;;pik;copan;no_research
+https://github.com/pik-piam/madrat;R package | May All Data be Reproducible and Transparent (MADRaT);pik;pik-piam;research
+https://github.com/pik-piam/magclass;R package | Data Class and Tools for Handling Spatial-Temporal Data;pik;pik-piam;research
+https://github.com/pik-piam/mip;Model intercomparison visualization package;pik;pik-piam;research
+https://github.com/pik-piam/magpie4;R package | MAgPIE outputs R package for MAgPIE version 4.x;pik;pik-piam;research
+https://github.com/pik-piam/gdx;R package | readGDX package for R;pik;pik-piam;research
+https://github.com/pik-piam/lusweave;R package | Landuse Sweave Utilities;pik;pik-piam;research
+https://github.com/pik-piam/magpiesets;R package | MAgPIE sets for R;pik;pik-piam;research
+https://github.com/pik-piam/luscale;R package | Landuse Scaling Tools;pik;pik-piam;research
+https://github.com/pik-piam/goxygen;Documentation package for modular GAMS code;pik;pik-piam;research
+https://github.com/pik-piam/shinyresults;R package with shiny modules and apps to analyze model results;pik;pik-piam;research
+https://github.com/pik-piam/citation;R package | create cff citation file from R package metadata;pik;pik-piam;research
+https://github.com/pik-piam/demystas;R package | Demystifying Automation on Simple Tasks;pik;pik-piam;research
+https://github.com/pik-piam/remulator;A collection of R tools for fitting model results.;pik;pik-piam;research
+https://github.com/pik-piam/remind;Contains the REMIND-specific routines for data and model output manipulation.;pik;pik-piam;research
+https://github.com/pik-piam/luplot;Some useful functions to plot data such as a map plot function for     MAgPIE objects.;pik;pik-piam;research
+https://github.com/pik-piam/trafficlight;The package contains tools for data validation and aggregation of validation results.;pik;pik-piam;research
+https://github.com/pik-piam/mrvalidation;Package contains routines to prepare data for validation exercises.;pik;pik-piam;research
+https://github.com/pik-piam/regressionworlddata;Model estimates parameters of model functions.;pik;pik-piam;research
+https://github.com/pik-piam/lpjclass;Package containing the LPJ-Object-Class together with relevant functions and methods.;pik;pik-piam;research
+https://github.com/pik-piam/quitte;Bits and pieces of code to use with quitte-style data frames;pik;pik-piam;research
+https://github.com/pik-piam/limes;Contains the LIMES-specific routines for data and model output manipulation.;pik;pik-piam;research
+https://github.com/pik-piam/rmndt;Tools for data.table objects in the REMIND context. (Dis-)Aggregation, magpie conversion, interpolation etc.;pik;pik-piam;research
+https://github.com/pik-piam/mstools;tool functions that can be used by several madrat-dependent or magpie4 output functions.;pik;pik-piam;research
+https://github.com/pik-piam/edgeTrpLib;Support Library for EDGE-Transport.;pik;pik-piam;research
+https://github.com/pik-piam/coupling-doc;Documentation and instructions for model coupling;pik;pik-piam;no_research
+https://github.com/pik-piam/mrcommons;;pik;pik-piam;research
+https://github.com/pik-piam/mrremind;The mrremind packages contains data preprocessing for the REMIND model.;pik;pik-piam;research
+https://github.com/pik-piam/mrfeed;;pik;pik-piam;research
+https://github.com/pik-piam/mrland;;pik;pik-piam;research
+https://github.com/pik-piam/mrsoil;Package contains soil organic carbon cycling model based on IPCC Guidelines 2019 for data prepared in the madrat universe. ;pik;pik-piam;research
+https://github.com/pik-piam/project_interfaces;Project specific interfaces to REMIND / MAgPIE.;pik;pik-piam;no_research
+https://github.com/pik-piam/lucode2;A collection of tools which allow to manipulate and analyze code.;pik;pik-piam;research
+https://github.com/pik-piam/gms;;pik;pik-piam;research
+https://github.com/pik-piam/mrmagpie;The package provides cellular magpie related data via the madrat framework.;pik;pik-piam;research
+https://github.com/pik-piam/primap;Coordination of primap development;pik;pik-piam;no_research
+https://github.com/pik-piam/edgeTransport;A detailed transport sector model.;pik;pik-piam;research
+https://github.com/pik-piam/mrfable;Tool for easy handling of FABLE project data (India Foodcrop);pik;pik-piam;research
+https://github.com/pik-piam/mrwater;MAgPIE water preprocessing;pik;pik-piam;research
+https://github.com/pik-piam/mrtutorial;Tutorial for mr- world packages, made as part of MAgPIE workshop;pik;pik-piam;research
+https://github.com/pik-piam/MAgPIENCGains;;pik;pik-piam;research
+https://github.com/pik-piam/remind2;The remind2 package contains the REMIND-specific routines for data and model output manipulation.;pik;pik-piam;research
+https://github.com/pik-piam/piamModelTests;R package to work with IAMC-format data;pik;pik-piam;research
+https://github.com/pik-piam/modelstats;A collection of tools for monitoring and diagnosing models;pik;pik-piam;research
+https://github.com/pik-piam/mrvalidnitrogen;Madrat Sublibrary with validation-style reporting of nitrogen budgets;pik;pik-piam;research
+https://github.com/pik-piam/GDPuc;R package for GDP unit conversion;pik;pik-piam;research
+https://github.com/pik-piam/mrfish;calculations connected to fish and aquaculture;pik;pik-piam;research
+https://github.com/pik-piam/mrwaste;MADRAT-linked package calculates municipal solid waste projections and environmental impacts, doi.org/10.1088/1748-9326/ab8659;pik;pik-piam;research
+https://github.com/pik-piam/universe;;pik;pik-piam;no_research
+https://github.com/pik-piam/mrdrivers;Create GDP and population scenarios;pik;pik-piam;research
+https://github.com/pik-piam/piktests;;pik;pik-piam;research
+https://github.com/pik-piam/mredgebuildings;;pik;pik-piam;research
+https://github.com/pik-piam/mredgetransport;;pik;pik-piam;research
+https://github.com/pik-piam/.github;;pik;pik-piam;no_research
+https://github.com/pik-piam/discussions;Questions, answers, and discussions about PIAM tools, packages, and workflows;pik;pik-piam;no_research
+https://github.com/pik-piam/m4fsdp;Output routines for extracting results from the MAgPIE framework (versions 4.x) for the FSDP project;pik;pik-piam;research
+https://github.com/pik-piam/mrdieter;The mrdieter packages contains data preprocessing for the DIETER model. ;pik;pik-piam;research
+https://github.com/pik-piam/blackmagicc;Generate warming pathways using MAGICC for your MAgPIE runs using reference REMIND emissions;pik;pik-piam;research
+https://github.com/pik-piam/cookiecutter-lucode;cookiecutter template for a new R package using lucode2;pik;pik-piam;no_research
+https://github.com/pik-piam/rOpenscmRunner;Run different simple climate models from R using a unified interface;pik;pik-piam;research
+https://github.com/pik-piam/r2databus;;pik;pik-piam;research
+https://github.com/pik-piam/rfp;;pik;pik-piam;research
+https://github.com/pik-piam/lockfile-archive;Includes renv.lock files to document the pik-piam R package environment at different points in time;pik;pik-piam;no_research
+https://github.com/pik-piam/miniPackage;;pik;pik-piam;no_research
+https://github.com/pik-piam/piamInterfaces;;pik;pik-piam;research
+https://github.com/pik-piam/piamenv;;pik;pik-piam;research
+https://github.com/pik-piam/mrwaterplots;Plotting functions for water-specific output analysis of mrwater library;pik;pik-piam;research
+https://github.com/pik-piam/remindPypsa;;pik;pik-piam;research
+https://github.com/pik-piam/piamMappings;;pik;pik-piam;no_research
+https://github.com/pik-piam/mrtech;;pik;pik-piam;no_research
+https://github.com/pik-piam/mrdownscale;;pik;pik-piam;research
+https://github.com/pik-piam/brick;;pik;pik-piam;research
+https://github.com/pik-piam/mrfactors;;pik;pik-piam;research
+https://github.com/remindmodel/remind;REMIND - REgional Model of INvestments and Development;pik;remind;research
+https://github.com/remindmodel/pre-processing;;pik;remind;no_research
+https://github.com/pik-gane/vodle;We develop an interactive, consensus-oriented group decision app;pik;pik-gane;research
+https://github.com/pik-gane/tricl;TriCl model in C++;pik;pik-gane;research
+https://github.com/pik-gane/pyresponsibility;quantify agents' degrees of moral responsibility in complex multi-agent decision situations;pik;pik-gane;no_research
+https://github.com/pik-gane/pyoptes;Python framework for optimization of epidemic testing strategies;pik;pik-gane;no_research
+https://github.com/pik-gane/satisfia;Satisficing-based Intelligent Agents;pik;pik-gane;no_research
+https://github.com/pik-gane/decision-transformer-satisfia;Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.;pik;pik-gane;research
+https://github.com/pik-gane/attainable-utility-preservation-satisfia;;pik;pik-gane;no_research
+https://github.com/pik-gane/pymdptoolbox-satisfia;Markov Decision Process (MDP) Toolbox for Python;pik;pik-gane;research
+https://github.com/pik-gane/ai-safety-gridworlds-satisfia;This is a suite of reinforcement learning environments illustrating various safety properties of intelligent agents.;pik;pik-gane;research
+https://github.com/pik-gane/avoiding-side-effects-satisfia;Code for reproducing the results from the paper Avoiding Side Effects in Complex Environments;pik;pik-gane;research
+https://github.com/pik-gane/stable-baselines3-satisfia;PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ;pik;pik-gane;research
+https://github.com/pik-gane/stable-baselines3-contrib-satisfia;Contrib package for Stable-Baselines3 -  Experimental reinforcement learning (RL) code;pik;pik-gane;research
+https://github.com/pik-gane/train-procgen-pytorch-satisfia;Pytorch implementation on OpenAI's Procgen ppo-baseline, built from scratch.;pik;pik-gane;research
+https://github.com/pik-gane/procgenAISC-satisfia;;pik;pik-gane;no_research
+https://github.com/pik-gane/motabarnn;python package for torch-based neural network version of MoTaBaR;pik;pik-gane;no_research
+https://github.com/pik-gane/RL4LMs_RLCHF;A modular RL library to fine-tune language models to human preferences;pik;pik-gane;research
+https://github.com/pik-gane/webppl-agents-satisfia;Webppl library for generating Gridworld MDPs. JS library for displaying Gridworld. Additional agents that satisfice.;pik;pik-gane;research
+https://github.com/pik-gane/alpaca_farm-collective;A simulation framework for RLHF and alternatives. Develop your RLHF method without collecting human data. ;pik;pik-gane;research
+https://github.com/pik-gane/alpaca_eval-collective;A validated automatic evaluator for instruction-following language models. High-quality, cheap, and fast.;pik;pik-gane;research
+https://github.com/pik-gane/Minigrid-satisfia; Simple and easily configurable grid world environments for reinforcement learning;pik;pik-gane;research
+https://github.com/PIK-LPJmL/LPJmL;Welcome to the central open-source repository of LPJmL at PIK.  You are free to download the code under the AGPLv3 license, see LICENSE file. Have fun. Please note that there is absolutely no support outside agreed collaborations. We also don't provide any input data, which is derived from other sources. ;pik;LPJmL_group;no_research
+https://github.com/PIK-LPJmL/LPJmLmdi;LPJmLmdi - model-data integration for the LPJmL dynamic global vegetation model (R package);pik;LPJmL_group;research
+https://github.com/PIK-LPJmL/lpjmlkit;A collection of basic functions to facilitate the work with the DGVM LPJmL hosted at the Potsdam Institute for Climate Impact Research.     It provides functions for running LPJmL, as well as reading, processing and writing model-related data such as inputs and outputs or configuration files.;pik;LPJmL_group;research
+https://github.com/PIK-LPJmL/LandInG;The Land Input Generator (LandInG) contains a collection of scripts to derive basic input datasets for terrestrial ecosystem models from diverse and partially conflicting data sources.;pik;LPJmL_group;research
+https://github.com/PIK-LPJmL/pycoupler;;pik;LPJmL_group;no_research
+https://github.com/GFZ/spechomo;Spectral homogenization of multispectral satellite data.;helmholz_center-gfz_potsdam;geosciences_gfz;research
+https://github.com/GFZ/arosics;AROSICS - Automated and Robust Open-Source Image Co-Registration Software;helmholz_center-gfz_potsdam;geosciences_gfz;research
+https://github.com/GFZ/enpt;EnMAP Processing Tool - A Python package for pre-processing of EnMAP Level-1B data;helmholz_center-gfz_potsdam;geosciences_gfz;research
+https://github.com/GFZ/LocalPLSR;Quantification of soil parameters e.g. organic carbon, in field soil samples using spectrally similar soil samples from a large scale soil spectral database.;helmholz_center-gfz_potsdam;geosciences_gfz;research
+https://github.com/GFZ/eGSIM;A web API and portal to explote, select and test Ground Shaking Intensity Models;helmholz_center-gfz_potsdam;geosciences_gfz;research
+https://github.com/GFZ/grunt-css-url-rewrite;A grunt task for rewriting urls inside a stylesheet, using base64-encoded strings.;helmholz_center-gfz_potsdam;geosciences_gfz;research
+https://github.com/GFZ-Centre-for-Early-Warning/caravan;CARAVAN is a free and open source web-based framework for on-demand seismic risk assessment, developed by the German Centre for Geosciences, Potsdam.;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/exsim;EXSIM12: A stochastic finite - fault computer program in FORTRAN (Assatourians and Atkinson, 2012);helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/exsim-pargen;Utility for generating init parameter files for EXSIM (in python);helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/REM_optimized_routing;REM (Rapid Environmental Mapping) module for optimized routing;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;research
+https://github.com/GFZ-Centre-for-Early-Warning/REM_satex_plugin;SATEX is a QGIS plugin to process LANDSAT satellite images;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;research
+https://github.com/GFZ-Centre-for-Early-Warning/REM_RRVS;RRVS (Remote Rapid Visual Survey) is a web tool for exposure screening based on omnidirectional images ;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;research
+https://github.com/GFZ-Centre-for-Early-Warning/REM_DBschema;REM Database schema;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/REM_installation;Instructions for REM installation;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/workshop_unesco;;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/workshop_suggested_readings;Suggested readings for Workshop UNESCO - Lima and Santiago, May 2017;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/TrainingCourse;;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/REM_DEA;Rapid Environmental Mapping - Data Exploration Application;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;research
+https://github.com/GFZ-Centre-for-Early-Warning/Bottom-up-Exposure-Modelling;Ipython script to exemplify the methodology of fuzzy scoring to model exposure;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;research
+https://github.com/GFZ-Centre-for-Early-Warning/ECEE2018_Workshop;Landing Page for the joint Exposure Elicitation Workshop at 16ECEE 2018;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/shakyground;Webservice for OpenQuake based ground motion field calculator as proposed by G.Weatherill;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/quakeledger;Webservice that returns earthquake events from a local database;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/riesgos_story_c1;;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/EMCA-Exposure;Earthquake Model Central Asia - Exposure Models;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;research
+https://github.com/GFZ-Centre-for-Early-Warning/assetmaster;web service providing exposure models upon geographical query - RIESGOS project;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;research
+https://github.com/GFZ-Centre-for-Early-Warning/modelprop;Program to serve a fragility / vulnerability model according to a given schema - RIESGOS Project;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;research
+https://github.com/GFZ-Centre-for-Early-Warning/fuzzy_schemas;;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/GFZ-Centre-for-Early-Warning/damage_state_conversion;Python notebook to estimate probabilistic conversion across different physical damage states;helmholz_center-gfz_potsdam;center_for_early_warning_gfz;no_research
+https://github.com/fastscape-lem/fastscapelib;A C++/Python library of efficient algorithms for landscape evolution modeling;helmholz_center-gfz_potsdam;fastscape_lem;research
+https://github.com/fastscape-lem/fastscape;A fast, versatile and user-friendly landscape evolution model;helmholz_center-gfz_potsdam;fastscape_lem;research
+https://github.com/fastscape-lem/fastscape-demo;A collection of Jupyter notebooks as examples of usage of the Fastscape software stack.;helmholz_center-gfz_potsdam;fastscape_lem;research
+https://github.com/fastscape-lem/fastscapelib-fortran;A Fortran (+ Python bindings) library of efficient algorithms for landscape evolution modeling;helmholz_center-gfz_potsdam;fastscape_lem;research
+https://github.com/fastscape-lem/design;Design ressources for Fastscape;helmholz_center-gfz_potsdam;fastscape_lem;no_research
+https://github.com/fastscape-lem/flow-routing-depressions;ESurfD paper code supplement ;helmholz_center-gfz_potsdam;fastscape_lem;research
+https://github.com/fastscape-lem/gilbert-board;A demonstration of Fastscape in an interactive GUI;helmholz_center-gfz_potsdam;fastscape_lem;research
+https://github.com/fastscape-lem/orographic-precipitation;LT Model of Orographic Precipitation - A Python Implementation;helmholz_center-gfz_potsdam;fastscape_lem;research
+https://github.com/fastscape-lem/fastscape-lem.github.io;Fastscape website;helmholz_center-gfz_potsdam;fastscape_lem;no_research
+https://github.com/fastscape-lem/ipyfastscape;Interactive widgets for topographic data analysis and modelling in Jupyter notebooks;helmholz_center-gfz_potsdam;fastscape_lem;research
+https://github.com/fastscape-lem/s2s-future-dragonstone;S2S-Future DragonStone training program materials (Jupyter notebooks);helmholz_center-gfz_potsdam;fastscape_lem;research
+https://github.com/fastscape-lem/workshop-gfz-2021-01;Workshop Fastscape / Xarray-simlab 01-2021 materials (Jupyter notebooks);helmholz_center-gfz_potsdam;fastscape_lem;research
+https://github.com/fastscape-lem/fastscape-litho;;helmholz_center-gfz_potsdam;fastscape_lem;research
+https://github.com/fastscape-lem/crc-1211-short-course;Short Course on FastScape CRC 1211 K√∂ln;helmholz_center-gfz_potsdam;fastscape_lem;no_research
+https://github.com/fastscape-lem/isterre-short-course;Short course on FastScape at ISTerre, Universite Grenoble-Alpes, October 19 to 21, 2021;helmholz_center-gfz_potsdam;fastscape_lem;no_research
+https://github.com/fastscape-lem/ESPM-course;Material for Earth Surface Process Modeling Course @ Uni Potsdam, Summer Semester 2022;helmholz_center-gfz_potsdam;fastscape_lem;no_research
+https://github.com/fastscape-lem/workshop-potsdam-2022-10;Workshop on Xarray and Xarray-simlab - GFZ Potsdam 10/2022;helmholz_center-gfz_potsdam;fastscape_lem;no_research
+https://github.com/fastscape-lem/workshop-xsimlab-grenoble-10-2022;Notebooks for workshop on Xarray-simlab run at ISTerre, University of Grenoble-Alpes, October 2022;helmholz_center-gfz_potsdam;fastscape_lem;no_research
+https://github.com/fastscape-lem/workshop-itn-potsdam-2023-01;Workshop ITN - GFZ Potsdam 01/2023;helmholz_center-gfz_potsdam;fastscape_lem;no_research
+https://github.com/fastscape-lem/VariableSPIM;Variable Discharge Stream Power Incision Model;helmholz_center-gfz_potsdam;fastscape_lem;research
+https://github.com/fastscape-lem/adascape;Simple adaptive speciation model as a component of FastScape-LEM;helmholz_center-gfz_potsdam;fastscape_lem;no_research
+https://github.com/telota/ediarum;Archived repository for ediarum.JAR - see https://github.com/ediarum;bbaw;telota;no_research
+https://github.com/telota/archiv-editor;;bbaw;telota;no_research
+https://github.com/telota/rasmify;Reduce Arabic strings to their rasm, i.e. remove vocalization and other diacritics;bbaw;telota;research
+https://github.com/telota/rasmify.js;;bbaw;telota;research
+https://github.com/telota/cvma_fotostation_config;Konfiguration f√ºr die Metadatenverwaltung des CVMA-Bildarchivs in Potsdam mit FotoStation;bbaw;telota;no_research
+https://github.com/telota/rasmipy;Reduce Arabic strings to their rasm, i.e. remove vocalization and other diacritics;bbaw;telota;research
+https://github.com/telota/docker-mattermost;Docker solution for mattermost;bbaw;telota;no_research
+https://github.com/telota/python-for-the-humanities;;bbaw;telota;no_research
+https://github.com/telota/exist;eXist Native XML Database and Application Platform;bbaw;telota;research
+https://github.com/telota/exist-documentation;Documentation of eXist;bbaw;telota;research
+https://github.com/telota/bts;Berlin Text System - Collaborative Editing of Ancient Egyptian Texts and Dictionaries;bbaw;telota;research
+https://github.com/telota/ava;:rocket: Futuristic JavaScript test runner;bbaw;telota;no_research
+https://github.com/telota/digilib;A versatile image viewing environment for the internet.;bbaw;telota;no_research
+https://github.com/telota/digilib-iiif-migrate;;bbaw;telota;no_research
+https://github.com/telota/tag-denestify.js;Flatten nested tags onto one level;bbaw;telota;no_research
+https://github.com/telota/quick-csr;;bbaw;telota;no_research
+https://github.com/telota/wsp-forschungsaktivitaet;;bbaw;telota;no_research
+https://github.com/telota/tavern;A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simnple, concise and flexible YAML-based syntax;bbaw;telota;no_research
+https://github.com/telota/owlfonk-owlcarousel;Forked from https://bitbucket.org/shahzadns/owlfonk-owlcarousel;bbaw;telota;no_research
+https://github.com/telota/wdio-example;Kleines WebdriverIO Testing Beispiel f√ºr den Techsprint;bbaw;telota;no_research
+https://github.com/telota/quoteSalute;Inspiring greetings for your correspondence;bbaw;telota;research
+https://github.com/telota/existance;;bbaw;telota;research
+https://github.com/telota/quoteSalute_xpi;;bbaw;telota;no_research
+https://github.com/telota/bbaw-schoell;BBAW Schoell font;bbaw;telota;no_research
+https://github.com/telota/kor;ConedaKOR ‚Äì store.manage.retrieve.;bbaw;telota;research
+https://github.com/telota/researchspace;ResearchSpace Platform;bbaw;telota;research
+https://github.com/telota/lobid-client;JavaScript / TypeScript library to query the GND (Gemeinsame Normdatei);bbaw;telota;no_research
+https://github.com/telota/ccc-tei-example;TEI-Example for Corpus Coranicum Christianum Workshop using CETEIcean;bbaw;telota;no_research
+https://github.com/telota/ccdb-transliterator;;bbaw;telota;no_research
+https://github.com/telota/dhd2019-exist-vue-workshop;;bbaw;telota;no_research
+https://github.com/telota/rdmo-docker-compose;RDMO running in different docker images held together by docker compose;bbaw;telota;no_research
+https://github.com/telota/lebenswelten-lehndorff;"XML/TEI-files from the digital edition ""Lebenswelten, Erfahrungsr√§ume und politische Horizonte der ostpreu√üischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert""";bbaw;telota;research
+https://github.com/telota/jean_paul_briefe;"Daten der digitalen Edition ""Jean Paul ‚Äì S√§mtliche Briefe digital""";bbaw;telota;research
+https://github.com/telota/LeibnizVIII-LaTeX_TEI;;bbaw;telota;no_research
+https://github.com/telota/CIL-ACE;CIL | ACE at BBAW, Berlin, DE;bbaw;telota;research
+https://github.com/telota/corpus-nummorum-editor;A Laravel-Vue-Application for Numismatics;bbaw;telota;research
+https://github.com/telota/PIR;PROSOPOGRAPHIA IMPERII ROMANI, Laravel, PHP, Vue;bbaw;telota;research
+https://github.com/telota/edition-humboldt-digital;TEI-XML dataset of the edition humboldt digital;bbaw;telota;research
+https://github.com/telota/LinkEdLeibniz-data;;bbaw;telota;research
+https://github.com/telota/pdf2jpg;Script to covert PDF to JPG without losing quality;bbaw;telota;no_research
+https://github.com/telota/DigitalResourceManager;;bbaw;telota;no_research
+https://github.com/telota/ChronoTool;;bbaw;telota;no_research
+https://github.com/zentrum-lexikographie/ttml2tei;Convert ttml to tei xml format;bbaw;zentrum_f√ºr_digitale_lexikographie_der_deutschen_sprache;no_research
+https://github.com/zentrum-lexikographie/e-Lexicography-2019;Course materials for the compact course in digital lexicography held at the University of Potsdam;bbaw;zentrum_f√ºr_digitale_lexikographie_der_deutschen_sprache;no_research
+https://github.com/zentrum-lexikographie/e-lexicography-2020-WiSe;Wintersemester 2020;bbaw;zentrum_f√ºr_digitale_lexikographie_der_deutschen_sprache;no_research
+https://github.com/zentrum-lexikographie/dwds-addon;Browser extension adding shortcuts to DWDS queries;bbaw;zentrum_f√ºr_digitale_lexikographie_der_deutschen_sprache;no_research
+https://github.com/zentrum-lexikographie/IMSnPars;IMS Neural Dependency Parser;bbaw;zentrum_f√ºr_digitale_lexikographie_der_deutschen_sprache;research
+https://github.com/zentrum-lexikographie/e-lexicography-2021-WiSe;Wintersemester 2020/21;bbaw;zentrum_f√ºr_digitale_lexikographie_der_deutschen_sprache;no_research
+https://github.com/zentrum-lexikographie/eval-de-lemma;;bbaw;zentrum_f√ºr_digitale_lexikographie_der_deutschen_sprache;research
+https://github.com/zentrum-lexikographie/wikimedia;Data Exchange Routines between the ZDL and Wikimedia Projects;bbaw;zentrum_f√ºr_digitale_lexikographie_der_deutschen_sprache;no_research
+https://github.com/zentrum-lexikographie/elexicography-WiSe2023;Course materials for the compact course in digital lexicography held at the University of Potsdam;bbaw;zentrum_f√ºr_digitale_lexikographie_der_deutschen_sprache;no_research
+https://github.com/zentrum-lexikographie/corpus-schema;TEI-P5 Schema for Annotated Text Corpora @ ZDL;bbaw;zentrum_f√ºr_digitale_lexikographie_der_deutschen_sprache;no_research
+https://github.com/zentrum-lexikographie/dwdsmor;SFST/SMOR/DWDS-based German Morphology;bbaw;zentrum_f√ºr_digitale_lexikographie_der_deutschen_sprache;research
+https://github.com/aipescience/DBIngestor;This library provides wrappers to data ingestion into various DB systems, such as MySQL, SQLite3, and ODBC compatible systems. You can use this C++ library to ingest data in any format (you need to implement the reading routines though). The library provides an ingestion buffer that allows for multiple rows to be ingested at one time. This greatly improves ingestion performance. Further assertion and conversion functions are provided for elementary data transformation and processing. These can easily be extended by custom functions and many examples for implementing such functions are provided in the source.;leibniz;aip_e-science;no_research
+https://github.com/aipescience/AsciiIngest;A general ASCII file row based ingestion tool using the DBIngestor library. This tool allows you to define custom ASCII data formats similar to the  MS SQL Server format files. However it is possible to define custom checks, transformation functions, derived data rows, and constant data rows. It is  easy to extend the assertion and convertion functions, by implementing ones  own functions in the DBIngestor library. Further the DBIngestor library provided data buffering for higher ingest performance and many interfaces to various DB systems.;leibniz;aip_e-science;no_research
+https://github.com/aipescience/libhilbert;Library for N-Dimensional Hilbert Mapping;leibniz;aip_e-science;no_research
+https://github.com/aipescience/daiquiri;A framework for the publication of scientific databases;leibniz;aip_e-science;research
+https://github.com/aipescience/daiquiri-app;Empty web application for the daiquiri framework;leibniz;aip_e-science;no_research
+https://github.com/aipescience/uws-client;IVOA UWS service command line client;leibniz;aip_e-science;research
+https://github.com/aipescience/mysql_sphere;MySQL port of pgSphere 1.1.1;leibniz;aip_e-science;no_research
+https://github.com/aipescience/sqlite_sphere;Sqlite3 port of pgSphere 1.1.1  https://escience.aip.de/mysql-sphere/;leibniz;aip_e-science;no_research
+https://github.com/aipescience/verlustdernacht;;leibniz;aip_e-science;no_research
+https://github.com/aipescience/daiquiri-admin;A python library for administrative tasks to be used with the Daiquiri Framework;leibniz;aip_e-science;no_research
+https://github.com/aipescience/make-a-movie;;leibniz;aip_e-science;no_research
+https://github.com/aipescience/lightmeter;;leibniz;aip_e-science;no_research
+https://github.com/aipescience/mysql_healpix;HEALPix plugin for MySQL;leibniz;aip_e-science;no_research
+https://github.com/aipescience/queryparser;Parsing, processing, and translation of PostgreSQL, MySQL and ADQL queries;leibniz;aip_e-science;research
+https://github.com/aipescience/lyonetia;Test tools and data for ADQL parsers and TAP services.;leibniz;aip_e-science;no_research
+https://github.com/aipescience/spider-docker;Docker files for a Spider-Engine MariaDB cluster;leibniz;aip_e-science;no_research
+https://github.com/aipescience/spider-test-data;Test data for a Spider-Engine MariaDB cluster;leibniz;aip_e-science;no_research
+https://github.com/aipescience/copy-files-in-parallel;A python wrapper to rsync and parallel to copy a large number files using parallel threads.;leibniz;aip_e-science;no_research
+https://github.com/aipescience/raid-utils;;leibniz;aip_e-science;no_research
+https://github.com/aipescience/mysql_udf;MySQL UDF collection;leibniz;aip_e-science;no_research
+https://github.com/aipescience/votable2sql;Tool to convert VOTables into SQL dumps;leibniz;aip_e-science;no_research
+https://github.com/aipescience/django-daiquiri-tap;A tiny wrapper for astroquery.utils.tap, adding support for token authorization.;leibniz;aip_e-science;no_research
+https://github.com/aipescience/provenance-applause;Provenance for APPLAUSE database;leibniz;aip_e-science;no_research
+https://github.com/aipescience/cosmosim-tap-tutorials;Tutorials for using TAP service on www.cosmosim.org;leibniz;aip_e-science;no_research
+https://github.com/ATB-Potsdam/IDM;Irrigation water Demand Module;leibniz;agricultural_engineering_and_bioeconomy;research
+https://github.com/ATB-Potsdam/monica-env-extractor;"Extract all subobjects from a MONICA ""env"" JSON to separate files";leibniz;agricultural_engineering_and_bioeconomy;no_research
+https://github.com/ATB-Potsdam/Matlab_TVDI_cal;Calculate TVDI using Landsat 8 images;leibniz;agricultural_engineering_and_bioeconomy;no_research
+https://github.com/ATB-Potsdam/monica;license;leibniz;agricultural_engineering_and_bioeconomy;research
+https://github.com/ATB-Potsdam/jupyterhub_dockerized;;leibniz;agricultural_engineering_and_bioeconomy;no_research
+https://github.com/ATB-Potsdam/daisy-model_dockerized;;leibniz;agricultural_engineering_and_bioeconomy;no_research
+https://github.com/ATB-Potsdam/N_opt_economic;simple approach to estimate economic optimum of N fertilisation;leibniz;agricultural_engineering_and_bioeconomy;research
+https://github.com/ATB-Potsdam/Food-Packaging-Simulation;Matlab code for simulation of package headspace and shelf life;leibniz;agricultural_engineering_and_bioeconomy;no_research
+https://github.com/PolarTerrestrialEnvironmentalSystems/LegacyAge-1.0;Calculation of Bacon Age-Depth-models for the LegacyAge 1.0 dataset. Supplement to: Chenzhi Li, Alexander Postl, Thomas B√∂hmer, Xianyong Cao, Andrew Dolman, Ulrike Herzschuh (2021): Harmonized chronologies of a global late Quaternary pollen dataset (LegacyAge 1.0);awi;polar_terrestrial_environmental_systems;no_research
+https://github.com/PolarTerrestrialEnvironmentalSystems/LandCoverChange;;awi;polar_terrestrial_environmental_systems;no_research
+https://github.com/EarthSystemDiagnostics/hamstr;An rstan implementation of Bacon-like age-depth modelling but with hierarchically structured multi-resolution depth scales.;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/corit;An R package to calculate time scale dependent correlations.;awi;earth_system_diagnostics;no_research
+https://github.com/EarthSystemDiagnostics/sedproxy;An R package for modelling sediment archived climate proxy records.;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/simproxyage;An R package to simulate age uncertainty in layer-counted climate proxy records.;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/proxysnr;An R package to separate the common signal from local noise in climate proxy records using spectral analyses.;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/orbitalforcing;R package for calculating orbital forcing of the climate. (data package);awi;earth_system_diagnostics;no_research
+https://github.com/EarthSystemDiagnostics/ecustools;An R package of miscellaneous functions for the ECUS/SPACE group.;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/MonsoonMinimalModel;"Minimal model for monsoon precipitation for manuscript ""Position and orientation of the westerly jet determined Holocene rainfall patterns in China, Nature Communications, 2019""";awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/HolSNR;;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/piccr;A bundle of R functions to correct and calibrate raw Picarro cavity ring down spectroscopy stable isotope data.;awi;earth_system_diagnostics;no_research
+https://github.com/EarthSystemDiagnostics/simulate-picarro;simple simulation of Picarro measurement process;awi;earth_system_diagnostics;no_research
+https://github.com/EarthSystemDiagnostics/cpt-picarr;;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/TrenchR;An R package to analyse and plot trench-like proxy records.;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/optimalcores;An R software project to analyse optimal ice core locations.;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/exNGT;A bundle of R scripts to analyse extended North Greenland Traverse firn core data;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/paleospec;PaleoSpec is an R package to assist the analysis of variance and power spectra;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/climproxyrecords;R data package containing the Marcott and Shakun proxy record compilations, GISP2, and other data.;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/pfields;An R package to analyse gridded field data.;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/psem;Proxy Spectral Error Model;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/esdpublic;Metapackage to ease installation of all public ESD R packages and their dependencies.;awi;earth_system_diagnostics;no_research
+https://github.com/EarthSystemDiagnostics/geostools;An R package of tools to assist with handling geoscientific problems;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/grfxtools;An R package of tools to assist with various plotting tasks;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/stattools;An R package of tools for statistical analyses;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/prxytools;An R package of tools to assist with proxy analyses;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/ncdftools;An R package of tools to handle NetCDF files ;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/Dolman14C_2021;Code to reproduce the analyses in Dolman et al. (2021) Estimating bioturbation from replicated small-sample radiocarbon ages;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/laepple22-commentbova;Code for Laepple et al., 2022, Nature Communications Arising ;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/hamstrbacon;Interface between rbacon and hamstr;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/topoExtract;extract interpolated values from raster along ice-flow trajectories;awi;earth_system_diagnostics;research
+https://github.com/EarthSystemDiagnostics/shinysedproxy;shiny app for sedproxy;awi;earth_system_diagnostics;no_research
