@@ -7,7 +7,7 @@ This repository contains the data and findings for paper
 1. `data/`: This directory contains the raw data collected from the research repositories.
 The data (conly ***research*** repositories) used in this project can be found in the [final_data_publish.csv](data/final_data_publish.csv) file.
 2. `analysis/`: This folder contains plot_analysis.ipynb file with graphs/plots used in paper. 
-The analysis and result graphs can be found in the [plot_analysis.ipynb](results/plot_analysis.ipynb) Jupyter notebook.
+The analysis and result graphs can be found in the [plot_analysis.ipynb](analysis/plot_analysis.ipynb) Jupyter notebook.
 3. `scripts/`: This directory contains the code code used for plotting graphs in jupyternotebook. 
 
 
