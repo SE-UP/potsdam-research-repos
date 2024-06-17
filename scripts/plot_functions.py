@@ -2,6 +2,7 @@
 The functions from this file are reused to show plots in Jupyter notebook
 abstracting code and only displaying plots in the notebook.
 """
+import argparse
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
@@ -101,7 +102,7 @@ def plot_documentation(df, file_path):
     """
     df = df[df['dlr_soft_class'].isin([0, 1, 2])]
     total_counts = df['dlr_soft_class'].value_counts()
-    features = ['readme_content', 'quick_start_guide', 'help_commands']
+    features = ['project_information', 'installation_instruction', 'usage_guide']
     feature_labels = ['Project Information', 'Installation Instructions',
                       'Usage Guide']
     percentages = [
@@ -249,10 +250,10 @@ def plot_comment_start(df, file_path):
     df = df[df['language'].isin(['Python', 'C++', 'R'])]
 
     # Replace 'none' with 'less' and ensure comment_category
-    df['comment_category'] = df['comment_category'].replace('none', 'less')
+    df['comment_at_start'] = df['comment_at_start'].replace('none', 'less')
     comment_order = ['less', 'some', 'more', 'most']
-    df['comment_category'] = pd.Categorical(
-        df['comment_category'],
+    df['comment_at_start'] = pd.Categorical(
+        df['comment_at_start'],
         categories=comment_order,
         ordered=True
     )
@@ -262,7 +263,7 @@ def plot_comment_start(df, file_path):
     # Create a pivot table for the stacked bar plot with percentages
     pivot_table = df.pivot_table(
         index='dlr_soft_class',
-        columns='comment_category',
+        columns='comment_at_start',
         aggfunc='size',
         fill_value=0
     )
@@ -288,3 +289,28 @@ def plot_comment_start(df, file_path):
 
     # Show the plot
     plt.show()
+
+def main():
+    parser = argparse.ArgumentParser(description='Plotting tool for data analysis.')
+    parser.add_argument('csv_file', type=str, help='Path to the input CSV file.')
+    parser.add_argument('plot_type', type=str, choices=['radar', 'documentation', 'stacked_bar_reuse', 'continuous_integration', 'comment_start'], help='Type of plot to generate.')
+    parser.add_argument('output_file', type=str, help='Path to the output PNG file.')
+    parser.add_argument('--legend_title', type=str, default='', help='Title for the legend (only used for stacked_bar_reuse plot).')
+    args = parser.parse_args()
+
+    df = pd.read_csv(args.csv_file)
+
+    if args.plot_type == 'radar':
+        plot_radar_chart(df, args.output_file)
+    elif args.plot_type == 'documentation':
+        plot_documentation(df, args.output_file)
+    elif args.plot_type == 'stacked_bar_reuse':
+        column_name = input("Enter the column name to calculate percentages for: ")
+        plot_stacked_bar_reuse(df, column_name, args.output_file, args.legend_title)
+    elif args.plot_type == 'continuous_integration':
+        plot_continuous_integration(df, args.output_file)
+    elif args.plot_type == 'comment_start':
+        plot_comment_start(df, args.output_file)
+
+if __name__ == "__main__":
+    main()
