@@ -14,7 +14,7 @@ The analysis and result graphs can be found in the [plot_analysis.ipynb](analysi
 
 ## Methodology
 
- [SWORDS-template-UP](https://github.com/Software-Engineering-Group-UP/SWORDS-template-UP) have been used for gathering GitHub profiles, repositories and additional software developement variables. This is an exteded version of [SWORDS-template-UP](https://github.com/UtrechtUniversity/SWORDS-template) 
+ [SWORDS-template-UP](https://github.com/Software-Engineering-Group-UP/SWORDS-template-UP) have been used for gathering GitHub profiles, repositories and additional software developement variables. This is an exteded version of [SWORDS-template](https://github.com/UtrechtUniversity/SWORDS-template) 
 
 ## Usage
 
