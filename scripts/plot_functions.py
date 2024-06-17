@@ -290,6 +290,7 @@ def plot_comment_start(df, file_path):
     # Show the plot
     plt.show()
 
+
 def main():
     parser = argparse.ArgumentParser(description='Plotting tool for data analysis.')
     parser.add_argument('csv_file', type=str, help='Path to the input CSV file.')
@@ -314,3 +315,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
