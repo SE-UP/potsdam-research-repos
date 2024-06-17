@@ -313,6 +313,6 @@ def main():
     elif args.plot_type == 'comment_start':
         plot_comment_start(df, args.output_file)
 
+
 if __name__ == "__main__":
     main()
-    
