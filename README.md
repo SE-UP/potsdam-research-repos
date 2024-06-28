@@ -16,6 +16,20 @@ The analysis and result graphs can be found in the [plot_analysis.ipynb](analysi
 
  [SWORDS-template-UP](https://github.com/Software-Engineering-Group-UP/SWORDS-template-UP) have been used for gathering GitHub profiles, repositories and additional software developement variables. This is an exteded version of [SWORDS-template](https://github.com/UtrechtUniversity/SWORDS-template) 
 
+## Data Collection
+
+To collect the necessary data for our analysis, follow these steps:
+
+1. Collect GitHub profiles of users and organizations by using the [SWORDS-template-UP collect_users](https://github.com/Software-Engineering-Group-UP/SWORDS-template-UP/tree/main/collect_users) script.
+2. Collect repositories of GitHub profiles using the [SWORDS-template-UP collect_repositories](https://github.com/Software-Engineering-Group-UP/SWORDS-template-UP/tree/main/collect_repositories) script.
+3. Collect additional variables by running specific scripts, such as:
+    - [Presence of folder named test](https://github.com/Software-Engineering-Group-UP/SWORDS-template-UP/blob/main/collect_variables/scripts/soft_dev_pract/test_folder.py)
+    - [Comment at the start of program/scripts](https://github.com/Software-Engineering-Group-UP/SWORDS-template-UP/tree/main/collect_variables/scripts/soft_dev_pract)
+    - [Check which continuous integration technique is used](https://github.com/Software-Engineering-Group-UP/SWORDS-template-UP/blob/main/collect_variables/scripts/soft_dev_pract/continious_integration.py)
+    - [Checking if additional linting/testing rules are defined](https://github.com/Software-Engineering-Group-UP/SWORDS-template-UP/blob/main/collect_variables/scripts/soft_dev_pract/add_ci_rules.py)
+    - [Finding out howfair variables](https://github.com/Software-Engineering-Group-UP/SWORDS-template-UP/tree/main/collect_variables/scripts/howfairis_api)
+
+
 ## Usage
 
 To reproduce our analysis, follow these steps:
