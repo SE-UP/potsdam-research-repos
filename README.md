@@ -1,6 +1,11 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12607763.svg)](https://doi.org/10.5281/zenodo.12607763)
+
 ## Introduction
 
-This repository contains the data and findings for paper
+This repository contains the data and findings for paper - 
+
+
 
 ## Contents
 
@@ -14,7 +19,7 @@ The analysis and result graphs can be found in the [plot_analysis.ipynb](analysi
 
 ## Methodology
 
- [SWORDS-template-UP](https://github.com/Software-Engineering-Group-UP/SWORDS-template-UP) have been used for gathering GitHub profiles, repositories and additional software developement variables. This is an exteded version of [SWORDS-template](https://github.com/UtrechtUniversity/SWORDS-template) 
+ [SWORDS-template-UP v1.0.0](https://github.com/Software-Engineering-Group-UP/SWORDS-template-UP) have been used for gathering GitHub profiles, repositories and additional software developement variables. This is an exteded version of [SWORDS-template](https://github.com/UtrechtUniversity/SWORDS-template) 
 
 ## Data Collection
 
@@ -39,7 +44,7 @@ To reproduce our analysis, follow these steps:
 3. Run the analysis script.
 
 ## License 
-This repository is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE.txt)
+The data is licensed under [Creative Commons Attribution 4.0 International License](LICENSE.txt)
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
 ## Citation 
