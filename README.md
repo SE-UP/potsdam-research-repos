@@ -1,8 +1,5 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12607763.svg)](https://doi.org/10.5281/zenodo.12607763)
-![Data license](https://i.creativecommons.org/l/by/4.0/88x31.png)
-![Code License](https://img.shields.io/badge/License-MIT-black?style=flat-square&logo=none&labelColor=white&color=black)
-
 
 ## Introduction
 
@@ -47,8 +44,8 @@ To reproduce our analysis, follow these steps:
 3. Run the analysis script.
 
 ## License 
-- **Code**: The code in this repository is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file in the root directory for details.
-- **Data**: The data in this repository is licensed under the [Creative Commons Attribution 4.0 International License](./data/LICENSE_data.txt).
+- **Code**: The code in this repository is licensed under the [ MIT License](./LICENSE.txt).  ![Code License](https://img.shields.io/badge/License-MIT-black?style=flat-square&logo=none&labelColor=white&color=black)
+- **Data**: The data in this repository is licensed under the [Creative Commons Attribution 4.0 International License](./data/LICENSE_data.txt). ![Data license](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
 
 ## Citation 
