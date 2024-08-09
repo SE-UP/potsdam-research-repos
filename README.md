@@ -1,5 +1,5 @@
 
-![Data publication](https://zenodo.org/badge/DOI/10.5281/zenodo.12607763.svg)
+![Data publication](https://doi.org/10.5281/zenodo.12607763)
 ![Data license](https://i.creativecommons.org/l/by/4.0/88x31.png)
 ![Code License](https://img.shields.io/badge/License-MIT-black?style=flat-square&logo=none&labelColor=white&color=black)
 
