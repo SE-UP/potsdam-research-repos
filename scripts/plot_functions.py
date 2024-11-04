@@ -104,7 +104,7 @@ def plot_documentation(df, file_path):
     total_counts = df['dlr_soft_class'].value_counts()
     features = ['project_information', 'installation_instruction', 'usage_guide']
     feature_labels = ['Project Information', 'Installation Instructions', 'Usage Guide']
-    
+
     percentages = [
         [
             (df[(df['dlr_soft_class'] == dlr_class) & (df[feature])].shape[0] /
@@ -112,11 +112,11 @@ def plot_documentation(df, file_path):
         ]
         for dlr_class in [0, 1, 2]
     ]
-    
+
     bar_width = 0.2
     r = np.arange(len(features))
     colors = ['#87CEEB', '#4682B4', '#1E90FF']  # Shades of blue from sky-blue to dark blue
-    
+
     for i in range(3):
         plt.bar(
             r + i * bar_width, percentages[i],
@@ -126,11 +126,11 @@ def plot_documentation(df, file_path):
             linewidth=1.5,       # Optional: increase line width for visibility
             label=f'DLR Class {i}'
         )
-    
+
     plt.ylabel('Percentage (%)', fontweight='bold')
     plt.xticks([r + bar_width for r in range(len(features))], feature_labels)
     plt.legend()
-    
+
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
     plt.savefig(file_path)
     plt.show()
@@ -301,18 +301,18 @@ def plot_comment_start(df, file_path):
     # Set labels and title
     plt.xlabel('DLR Application Class')
     plt.ylabel('Percentage of Repositories')
-    
+
     # Adjust legend position
     plt.legend(
         title='Files with comment at start',
         bbox_to_anchor=(1.05, 1),
         loc='upper left'
     )
-    
+
     # Adjust layout and remove title
     plt.tight_layout()
     plt.title(None)
-    
+
     # Save the plot
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
     plt.savefig(file_path, bbox_inches='tight')
@@ -324,9 +324,23 @@ def plot_comment_start(df, file_path):
 def main():
     parser = argparse.ArgumentParser(description='Plotting tool for data analysis.')
     parser.add_argument('csv_file', type=str, help='Path to the input CSV file.')
-    parser.add_argument('plot_type', type=str, choices=['radar', 'documentation', 'stacked_bar_reuse', 'continuous_integration', 'comment_start'], help='Type of plot to generate.')
+    parser.add_argument(
+        'plot_type',
+        type=str,
+        choices=[
+            'radar', 'documentation', 'stacked_bar_reuse',
+            'continuous_integration', 'comment_start'
+        ],
+        help='Type of plot to generate.'
+    )
+
     parser.add_argument('output_file', type=str, help='Path to the output PNG file.')
-    parser.add_argument('--legend_title', type=str, default='', help='Title for the legend (only used for stacked_bar_reuse plot).')
+    parser.add_argument(
+        '--legend_title',
+        type=str,
+        default='',
+        help='Title for the legend (only used for stacked_bar_reuse plot).'
+    )
     args = parser.parse_args()
 
     df = pd.read_csv(args.csv_file)
