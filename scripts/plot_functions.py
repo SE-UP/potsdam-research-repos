@@ -103,8 +103,8 @@ def plot_documentation(df, file_path):
     df = df[df['dlr_soft_class'].isin([0, 1, 2])]
     total_counts = df['dlr_soft_class'].value_counts()
     features = ['project_information', 'installation_instruction', 'usage_guide']
-    feature_labels = ['Project Information', 'Installation Instructions',
-                      'Usage Guide']
+    feature_labels = ['Project Information', 'Installation Instructions', 'Usage Guide']
+    
     percentages = [
         [
             (df[(df['dlr_soft_class'] == dlr_class) & (df[feature])].shape[0] /
@@ -112,19 +112,25 @@ def plot_documentation(df, file_path):
         ]
         for dlr_class in [0, 1, 2]
     ]
+    
     bar_width = 0.2
     r = np.arange(len(features))
+    colors = ['#87CEEB', '#4682B4', '#1E90FF']  # Shades of blue from sky-blue to dark blue
+    
     for i in range(3):
         plt.bar(
             r + i * bar_width, percentages[i],
-            color=plt.cm.viridis(i / 2.5),
+            color=colors[i],
             width=bar_width,
-            edgecolor='grey',
+            edgecolor='black',  # Set edge color to black for a defined border
+            linewidth=1.5,       # Optional: increase line width for visibility
             label=f'DLR Class {i}'
         )
+    
     plt.ylabel('Percentage (%)', fontweight='bold')
     plt.xticks([r + bar_width for r in range(len(features))], feature_labels)
     plt.legend()
+    
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
     plt.savefig(file_path)
     plt.show()
@@ -150,8 +156,13 @@ def plot_stacked_bar_reuse(df, column_name, file_path, legend_title):
     percentages = df.groupby('dlr_soft_class')[column_name].value_counts(
         normalize=True).unstack() * 100
 
-    # Plot the stacked bar chart
-    percentages.plot(kind='bar', stacked=True, cmap='viridis')
+    # Define custom blue shades for the 'Yes' and 'No' categories
+    colors = ['#87CEEB', '#1E90FF']  # Light sky blue and darker blue for stacked sections
+
+    # Plot the stacked bar chart with custom colors and edge color set to black
+    ax = percentages.plot(
+        kind='bar', stacked=True, color=colors, edgecolor='black', linewidth=1.5
+    )
 
     # Set labels and title
     plt.xlabel('DLR Application Class')
@@ -193,7 +204,7 @@ def plot_continuous_integration(df, file_path):
     # Calculate the total count for each 'dlr_soft_class'
     total_counts = df['dlr_soft_class'].value_counts()
 
-    # percentage of True values for each column and 'dlr_soft_class'
+    # Percentage of True values for each column and 'dlr_soft_class'
     features = ['continuous_integration', 'add_test_rule', 'add_lint_rule']
     percentages = [
         [
@@ -209,16 +220,23 @@ def plot_continuous_integration(df, file_path):
     # Positions of the bars on the x-axis
     r = np.arange(len(features))
 
-    # Create the grouped bar chart
+    # Define custom blue shades for each class
+    colors = ['#87CEEB', '#4682B4', '#1E90FF']  # Light sky blue to dark blue
+
+    # Create the grouped bar chart with specified colors and edge color set to black
     for i in range(3):
-        plt.bar(r + i * bar_width, percentages[i],
-                color=plt.cm.viridis(i / 2.5),
-                width=bar_width, edgecolor='grey', label=f'Class {i}')
+        plt.bar(
+            r + i * bar_width, percentages[i],
+            color=colors[i],
+            width=bar_width,
+            edgecolor='black',  # Set edge color to black for a defined border
+            linewidth=1.5,       # Optional: increase line width for visibility
+            label=f'Class {i}'
+        )
 
     # Adding labels
     plt.ylabel('Percentage (%)', fontweight='bold')
-    updated_labels = ['Continuous Integration', 'Linters in CI',
-                      'Automated Testing']
+    updated_labels = ['Continuous Integration', 'Linters in CI', 'Automated Testing']
     plt.xticks([r + bar_width for r in range(len(features))], updated_labels)
 
     # Adding the legend
@@ -226,7 +244,7 @@ def plot_continuous_integration(df, file_path):
 
     # Save the plot
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
-    plt.savefig(file_path)
+    plt.savefig(file_path, bbox_inches='tight')
 
     # Show the plot
     plt.show()
@@ -271,21 +289,33 @@ def plot_comment_start(df, file_path):
     # Calculate the percentage
     pivot_table = pivot_table.div(pivot_table.sum(axis=1), axis=0) * 100
 
-    # Step 4: Create Stacked Bar Plot
+    # Step 4: Create Stacked Bar Plot with custom colors and black border
     plt.figure(figsize=(10, 6))
-    pivot_table.plot(kind='bar', stacked=True, cmap='viridis')
+    colors = ['#87CEEB', '#4682B4', '#1E90FF', '#000080']  # Light sky blue to dark blue shades
+
+    # Plot with custom colors and edge color set to black
+    pivot_table.plot(
+        kind='bar', stacked=True, color=colors, edgecolor='black', linewidth=1.5
+    )
+
+    # Set labels and title
     plt.xlabel('DLR Application Class')
     plt.ylabel('Percentage of Repositories')
+    
+    # Adjust legend position
     plt.legend(
         title='Files with comment at start',
         bbox_to_anchor=(1.05, 1),
         loc='upper left'
     )
+    
+    # Adjust layout and remove title
     plt.tight_layout()
     plt.title(None)
+    
     # Save the plot
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
-    plt.savefig(file_path)
+    plt.savefig(file_path, bbox_inches='tight')
 
     # Show the plot
     plt.show()
