@@ -3,36 +3,32 @@
 
 cff-version: 1.2.0
 title: >-
-  Analysis and visualisation of potsdam researchers GitHub
-  repositories. 
+  Code and data for paper(reproducing plots) " Software
+  FAIRness, Documentation and Development Practices in
+  Potsdam Researchers' GitHub Repositories"
 message: >-
-  This repository contains data and scripts used for
-  analysis for paper "Software FAIRness, Documentation and
-  Development Practices in Potsdam Researchers' GitHub
-  Repositories"
+  If you use this software, please cite it using the
+  metadata from this file.
 type: software
 authors:
-  - given-names: Akshay
+  - given-names: 'Akshay '
     family-names: Devkate
-    email: akshay.devkate@uni-potsdam.de
     affiliation: University of Potsdam
     orcid: 'https://orcid.org/0009-0004-9608-4479'
   - given-names: Anna-Lena
     family-names: Lamprecht
-    email: anna-lena.lamprecht@uni-potsdam.de
-    affiliation: University of Potsdam
     orcid: 'https://orcid.org/0000-0003-1953-5606'
-abstract: >-
-  This study examines the GitHub repositories of researchers
-  affiliated with organizations in Potsdam, aiming to
-  analyze various aspects of software FAIRness,
-  documentation quality, and software development practices.
-  Using a comprehensive repository dataset, we assess the
-  degree to which these researchers adhere to FAIR
-  principles and best practices in software documentation
-  and development.
+    affiliation: University of Potsdam
+repository-code: >-
+  https://github.com/Software-Engineering-Group-UP/potsdam-research-repos
+abstract: |2-
+   Code and data for paper(reproducing plots) " Software
+    FAIRness, Documentation and Development Practices in
+    Potsdam Researchers' GitHub Repositories" 
 keywords:
+  - research software
+  - 'software quality '
+  - 'empirical software engineering '
   - FAIR4RS
-  - Software development practices
-  - GitHub repository analysis
-license: CC-BY-4.0
+  - DE-RSE
+license: MIT
